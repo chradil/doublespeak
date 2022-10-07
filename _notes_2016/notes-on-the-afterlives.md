@@ -297,7 +297,7 @@ tbio: "<p>Keyla Çavdar is a student at the University of Pennsylvania studying 
   of distance, which she writes about in <em>Notes on the Afterlives</em>.</p>"
 language:
 lang:
-image: "../assets/images/images_16/cavdar.jpg"
+image: "/assets/images/images_16/cavdar.jpg"
 image2:
 imagecredit: photo by Naomi Bernstein
 imagecredit2:

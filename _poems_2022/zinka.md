@@ -96,8 +96,8 @@ tbio: |-
   </p>
 language: Russian
 lang: ru
-image: "../assets/images/images_22/drunina1.jpg"
-image2: "../assets/images/images_22/drunina2.jpg"
+image: "/assets/images/images_22/drunina1.jpg"
+image2: "/assets/images/images_22/drunina2.jpg"
 imagecredit: photo by Stacy Shimanuki
 imagecredit2: photo by Ryan Hardy
 origaudio: |-

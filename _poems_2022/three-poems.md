@@ -43,7 +43,7 @@ tbio: |-
   </p>
 language: Italian
 lang: it
-image: "../assets/images/images_22/n'djoku.jpg"
+image: "/assets/images/images_22/n'djoku.jpg"
 image2: none
 imagecredit: photo by Ryan Hardy
 imagecredit2:

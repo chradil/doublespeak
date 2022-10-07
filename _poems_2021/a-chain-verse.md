@@ -55,7 +55,7 @@ tbio: |-
   </p>
 language: Chinese
 lang: zh
-image: "../assets/images/images_21/su_shi.jpg"
+image: "/assets/images/images_21/su_shi.jpg"
 imagecredit: photo by Zhiqiao (Kate) Jiang
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1PG4J1x58uwju_lxP2X3nDl8p8ZC-8z3e/preview\">\n

@@ -41,7 +41,7 @@ tbio: |-
   <p>Altogether, Peeriya and John have translated song lyrics, poetry, and more than 140 children’s books. They last published with <em>DoubleSpeak</em> in Spring 2019.</p>
 language: Thai
 lang: th
-image: "../assets/images/images_20/thai_chart.png"
+image: "/assets/images/images_20/thai_chart.png"
 image2:
 imagecredit:
 imagecredit2:

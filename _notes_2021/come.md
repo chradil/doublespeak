@@ -87,7 +87,7 @@ tbio: "<p>Elizabeth Rose is a poet, translator, and PhD candidate in comparative
   places. They currently reside on occupied Tohono O’odham territory, or Tucson, Arizona.</p>"
 language: Spanish
 lang: es
-image: "../assets/images/images_21/rossi.png"
+image: "/assets/images/images_21/rossi.png"
 imagecredit: "<em>Majo al atardecer</em> by Elizabeth Rose"
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1VtpXkp9m2ymixxUEflZd_x5zsicbH4Sq/preview\">\n

@@ -51,7 +51,7 @@ tbio: "<p>Yi Feng is a scholar, translator and associate professor at Northeaste
   by Poetry” in an International Chinese Poetry Competition in 2017.</p>"
 language: Chinese
 lang: zh
-image: "../assets/images/images_19/yuansheng.jpg"
+image: "/assets/images/images_19/yuansheng.jpg"
 image2:
 imagecredit: photo by Yi Feng
 imagecredit2:

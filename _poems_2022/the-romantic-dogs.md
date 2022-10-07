@@ -153,7 +153,7 @@ tbio: "<p><em>DoubleSpeak</em>’s staff is a group of poetry lovers and languag
   language and translation.</p>"
 language: Spanish; English; Chinese; French; Japanese; Russian
 lang: es
-image: "../assets/images/images_22/group_translation.JPG"
+image: "/assets/images/images_22/group_translation.JPG"
 image2: none
 imagecredit: photo by Quinn Gruber
 imagecredit2:

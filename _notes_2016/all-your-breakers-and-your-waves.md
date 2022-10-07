@@ -46,7 +46,7 @@ tbio: "<p>Mira Revesz is a senior majoring in Adolescent Identity Development at
   best gateway she could have hoped for.</p>"
 language: Hebrew
 lang: he
-image: "../assets/images/images_16/ravikovitch.jpg"
+image: "/assets/images/images_16/ravikovitch.jpg"
 image2:
 imagecredit: photo by Shailly Pandey
 imagecredit2:

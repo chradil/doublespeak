@@ -47,7 +47,7 @@ tbio: "<p>Chamini Kulathunga is a translator from Sri Lanka working with contemp
   Translation</em>.</p>"
 language: Sinhalese
 lang: si
-image: "../assets/images/images_20/kulathunga.jpg"
+image: "/assets/images/images_20/kulathunga.jpg"
 image2:
 imagecredit: photo by Chamini Kulathunga
 imagecredit2:

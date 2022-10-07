@@ -6,7 +6,7 @@ layout: default
 <html lang="en">
 
 <head>
-  <link rel="stylesheet" type="text/css" href="../assets/css/notepagestyle.css">
+  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/notepagestyle.css">
       <link rel="stylesheet" href="https://use.typekit.net/ixt2gok.css">
     <script>
   (function(d) {
@@ -23,28 +23,28 @@ layout: default
 
 <body>
   <header>
-    <a href="../index.html">
+    <a href="{{site.baseurl}}/index.html">
       <div class="logo">
-        <img src="../assets/images/doublespeak_logo.png" alt="Click here to return to the homepage.">
+        <img src="{{site.baseurl}}/assets/images/doublespeak_logo.png" alt="Click here to return to the homepage.">
       </div>
     </a>
     <div class="nav">
       <ul>
-        <li><a href="../contentindex.html">index</a></li>
-        <li><a href="../search.html">search</a></li>
-        <li><a href="../about.html">about</a></li>
-        <li><a href="../submit.html">submit</a></li>
-        <li><a href="../issues.html">issues</a></li>
+        <li><a href="{{site.baseurl}}/contentindex.html">index</a></li>
+        <li><a href="{{site.baseurl}}/search.html">search</a></li>
+        <li><a href="{{site.baseurl}}/about.html">about</a></li>
+        <li><a href="{{site.baseurl}}/submit.html">submit</a></li>
+        <li><a href="{{site.baseurl}}/issues.html">issues</a></li>
       </ul>
     </div>
   </header>
    <div class="tcontentslink">
-    <p class="link"><a href="../toc{{page.edition}}.html"><  &nbsp; table of contents</a></p>
+    <p class="link"><a href="{{site.baseurl}}/toc{{page.edition}}.html"><  &nbsp; table of contents</a></p>
     <div class="poemtags">
       <ul>
-        <li><a href="../language_tags/{{page.language | slugify: 'latin' | replace: '-','_'}}">{{page.language}}</a></li>
-        <li><a href="../translator_tags/{{page.translator | slugify: 'latin' | replace: '-','_'}}">{{page.translator}}</a></li>
-        <li><a href="../author_tags/{{page.author | slugify: 'latin' | replace: '-','_'}}">{{page.author}}</a></li>
+        <li><a href="{{site.baseurl}}/language_tags/{{page.language | slugify: 'latin' | replace: '-','_'}}">{{page.language}}</a></li>
+        <li><a href="{{site.baseurl}}/translator_tags/{{page.translator | slugify: 'latin' | replace: '-','_'}}">{{page.translator}}</a></li>
+        <li><a href="{{site.baseurl}}/author_tags/{{page.author | slugify: 'latin' | replace: '-','_'}}">{{page.author}}</a></li>
       </ul>
     </div>
   </div>
@@ -69,7 +69,7 @@ layout: default
     </div>
     {% unless page.image == "none" or page.image == "none "%}
       <div>
-        <img class="poem-image" src="{{page.image}}"></img>
+        <img class="poem-image" src="{{site.baseurl}}{{page.image}}"></img>
         <p class="caption"> {{page.imagecredit}}
         </p>
       </div>
@@ -102,13 +102,13 @@ layout: default
 
 {% endfor %}
   <div class="previouslink">
-    <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{page.pid}}"><  &nbsp; previous</a></p>
+    <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{page.pid}}"><  &nbsp; previous</a></p>
   </div>
     <div class="nextlink">
     {% if thisIndex == endLength %}
-      <p class="link"><a href="{{site.url}}/frontmatter/copyright{{page.edition}}">next &nbsp; ></a></p>
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/copyright{{page.edition}}">next &nbsp; ></a></p>
     {% else %}
-      <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}"> next &nbsp; ></a></p>
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"> next &nbsp; ></a></p>
     {% endif %}
 
 </body>

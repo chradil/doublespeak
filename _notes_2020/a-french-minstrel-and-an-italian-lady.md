@@ -87,7 +87,7 @@ tbio: "<p>Samantha Pious is the translator of <em>A Crown of Violets: Selected P
   editor for Indolent Books.</p>"
 language: Old Occitan and Genovese
 lang: oc
-image: "../assets/images/images_20/pious.jpg"
+image: "/assets/images/images_20/pious.jpg"
 image2:
 imagecredit: photo by Samantha Pious
 imagecredit2:

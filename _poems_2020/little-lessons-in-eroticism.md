@@ -135,7 +135,7 @@ tbio: "<p>Sam Friskey — always a playwright, occasionally a translator of Span
   theater arts.</p>"
 language: Spanish
 lang: es
-image: "../assets/images/images_20/friskey.jpg"
+image: "/assets/images/images_20/friskey.jpg"
 image2:
 imagecredit: photo by Vivian Wen
 imagecredit2:

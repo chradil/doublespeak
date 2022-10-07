@@ -65,7 +65,7 @@ tbio: "<p>Jordan Barger is a Philadelphia-based translator specializing in trans
   can be found in the <em>Brooklyn Rail.</em></p>"
 language: Norwegian
 lang: 'no'
-image: "../assets/images/images_21/obstfelder.JPG"
+image: "/assets/images/images_21/obstfelder.JPG"
 imagecredit: photo by Jordan Barger
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1WeVl42HCzZ8lXreqeCRO-ZLkejwhAM6y/preview\">\n

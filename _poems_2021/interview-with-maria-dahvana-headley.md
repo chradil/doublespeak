@@ -223,7 +223,7 @@ abio:
 tbio:
 language: English
 lang: en
-image: "../assets/images/images_21/interview.jpeg"
+image: "/assets/images/images_21/interview.jpeg"
 imagecredit: photo by Chardonnay Needler
 origaudio:
 translaudio:

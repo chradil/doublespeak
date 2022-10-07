@@ -74,7 +74,7 @@ tbio: "<p>howdy, i am Pablo (he/him)! i am Spanish and Cuban and Miamian! i do s
   — may or may not be forthcoming.</p>"
 language: Spanish
 lang: es
-image: "../assets/images/images_22/armengol.jpg"
+image: "/assets/images/images_22/armengol.jpg"
 image2: none
 imagecredit: photo by Stacy Shimanuki
 imagecredit2:

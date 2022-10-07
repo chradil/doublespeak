@@ -37,7 +37,7 @@ abio: "<p>Mohammad Ali Bahmani (b. 1942) is an Iranian poet and songwriter. Beyo
 tbio: "<p>Ali Noori is a doctoral student in religious studies at Penn. He likes <em>ghazals</em>.</p>"
 language: Farsi/Persian
 lang: fa
-image: "../assets/images/images_20/noori.png"
+image: "/assets/images/images_20/noori.png"
 image2:
 imagecredit: photo by Ali Noori
 imagecredit2:

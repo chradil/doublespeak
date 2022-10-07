@@ -19,7 +19,7 @@ abio:
 tbio:
 language: Arabic
 lang: bs
-image: "../assets/images/images_21/headley.JPG"
+image: "/assets/images/images_21/headley.JPG"
 imagecredit: photo by Yan Zhang
 origaudio:
 translaudio:

@@ -99,7 +99,7 @@ tbio: "<p>Samantha DeStefano graduated <em>summa cum laude</em> from the Univers
   and after graduation she embarked on three years of intensive study of French.</p>"
 language: French
 lang: fr
-image: "../assets/images/images_20/destefano.jpg"
+image: "/assets/images/images_20/destefano.jpg"
 image2:
 imagecredit: photo by Rhosean Asmah
 imagecredit2:

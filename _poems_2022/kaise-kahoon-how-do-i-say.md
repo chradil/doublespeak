@@ -78,8 +78,8 @@ abio: |-
 tbio:
 language: English
 lang: en
-image: "../assets/images/images_22/musing1.jpg"
-image2: "../assets/images/images_22/musing2.jpg"
+image: "/assets/images/images_22/musing1.jpg"
+image2: "/assets/images/images_22/musing2.jpg"
 imagecredit: photo by Stacy Shimanuki
 imagecredit2: photo by Stacy Shimanuki
 origaudio:

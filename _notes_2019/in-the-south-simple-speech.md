@@ -97,7 +97,7 @@ tbio: "<p>Rawad Wehbe is a PhD student in the department of Near Eastern Languag
   University of Beirut.</p>"
 language: Arabic
 lang: ar
-image: "../assets/images/images_19/hawi.jpeg"
+image: "/assets/images/images_19/hawi.jpeg"
 image2:
 imagecredit: photo by Rawad Wehbe
 imagecredit2:
