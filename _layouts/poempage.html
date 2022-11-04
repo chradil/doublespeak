@@ -114,12 +114,12 @@ layout: default
   {% if fixpath == "poems_" %}
 
     <div class="previouslink">
-      <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{previousPage}}"> < &nbsp;previous</a></p>
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"> < &nbsp;previous</a></p>
     </div>
 
   {% elsif previousPage contains "ednote" %}
     <div class="previouslink">
-      <p class="link"><a href="{{site.url}}/frontmatter/{{previousPage}}"> < &nbsp;previous</a></p>
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"> < &nbsp;previous</a></p>
     </div>
   
   {% else %}
