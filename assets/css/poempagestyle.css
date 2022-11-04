@@ -253,7 +253,7 @@ p strong {
 	display:flex;
 	flex-wrap: wrap;
 	justify-content:center;
-	gap:20px;
+	gap:50px;
 }
 
 .ogtitle {
@@ -281,6 +281,10 @@ p strong {
 /*	min-width: 25rem;*/
 	width:max-content;
 	flex-basis:25%;
+}
+
+.audio {
+	margin-top: 50px;
 }
 
 .note {
