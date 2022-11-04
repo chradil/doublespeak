@@ -34,7 +34,9 @@ layout: default
     <div class="poemtags">
       <ul>
         <li><a href="{{site.baseurl}}/language_tags/{{page.language| slugify: 'latin' | replace: '-','_'}}">{{page.language}}</a></li>
+        {% if page.translator %}
         <li><a href="{{site.baseurl}}/translator_tags/{{page.translator | slugify: 'latin' | replace: '-','_'}}">{{page.translator}}</a></li>
+        {% endif %}
         <li><a href="{{site.baseurl}}/author_tags/{{page.author | slugify: 'latin' | replace: '-','_'}}">{{page.author}}</a></li>
       </ul>
     </div>
