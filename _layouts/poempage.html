@@ -19,14 +19,14 @@ layout: default
         <img src="{{site.baseurl}}/assets/images/doublespeak_logo.png" alt="Click here to return to the homepage.">
       </div>
     </a>
-    <div class="nav" id="nav" style="display: block">
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-      <ul>
+    <div class="nav" style="display: block">
+      <ul id="nav-links">
         <li><a href="{{site.baseurl}}/contentindex.html">index</a></li>
         <li><a href="{{site.baseurl}}/search.html">search</a></li>
         <li><a href="{{site.baseurl}}/about.html">about</a></li>
         <li><a href="{{site.baseurl}}/submit.html">submit</a></li>
         <li><a href="{{site.baseurl}}/issues.html">issues</a></li>
+        <li><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></li>
       </ul>
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
@@ -157,7 +157,7 @@ layout: default
 <script>
 
 function myFunction() {
-  var x = document.getElementById("nav");
+  var x = document.getElementById("nav-links");
   console.log(x);
   if (x.style.display === "block") {
     x.style.display = "none";
