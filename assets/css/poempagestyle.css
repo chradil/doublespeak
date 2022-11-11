@@ -208,6 +208,10 @@ p strong {
 	text-decoration: underline;
 }
 
+.headerart {
+	width: 60%;
+}
+
 .poemtags {
 	margin: -63px 30px 0 0;
 	column-width: 50%;
