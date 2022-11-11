@@ -46,6 +46,10 @@ a {
   }
 }
 
+.nav .icon {
+  display: none;
+}
+
 .nav {
 	position: static;
 	height: 40px;
