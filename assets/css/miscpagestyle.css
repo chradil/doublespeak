@@ -225,6 +225,12 @@ p.link {
 .note-text{
 	flex:1;
 }
+
+.image {
+	float: right;    
+ 	margin: 0 0 0 15px;
+}
+
 .poem-image {
 	max-width:100%;
 	margin:20px;
