@@ -19,7 +19,7 @@ layout: default
         <img src="{{site.baseurl}}/assets/images/doublespeak_logo.png" alt="Click here to return to the homepage.">
       </div>
     </a>
-    <div class="nav">
+    <div class="nav" id="nav" style="display: block">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       <ul>
         <li><a href="{{site.baseurl}}/contentindex.html">index</a></li>
@@ -154,4 +154,18 @@ layout: default
 {% endif %}
   </div>
 </body>
+<script>
+
+function myFunction() {
+  var x = document.getElementById("nav");
+  console.log(x);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+} 
+
+  </script>
 <html>
+
