@@ -39,27 +39,21 @@ layout: default
     <h1 class="tcontents-title">table of contents</h1>
     <div class="toc-container">
       <div class="left">
+        <div style= "width:80vw; padding: 5vw">
+          <img style="max-width:40%; float: right; margin: 0 0 0 15px;" src="{{site.baseurl}}/assets/images/images_22/tableofcontents.JPG"/>
+        </div>
         {% for item in site.data.toc_2022 %}
           {% if item.pagetype == "frontmatter" %}
               <div class="tcleft">
-                <div style= "width:80vw; padding: 5vw">
-          <img style="max-width:40%; float: right; margin: 0 0 0 15px;" src="{{site.baseurl}}/assets/images/images_22/tableofcontents.JPG"/>
-        </div>
                 <h2 class="tcleft"><a href="frontmatter/{{item.pid}}">{{ item.transtitle }}</a></h2>
               </div>
           {% elsif item.pagetype == "musing" or item.pagetype == "interview" %}
             <div class="tcleft">
-              <div style= "width:80vw; padding: 5vw">
-          <img style="max-width:40%; float: right; margin: 0 0 0 15px;" src="{{site.baseurl}}/assets/images/images_22/tableofcontents.JPG"/>
-        </div>
               <h2 class="tcleft"><a href="poems_2022/{{item.pid}}">{{ item.transtitle }}</a></h2>
               <h3 class="tcleft"> by {{ item.author }} </h3>
             </div>
           {% elsif item.pagetype == "content" %}
         <div class="tcleft">
-          <div style= "width:80vw; padding: 5vw">
-          <img style="max-width:40%; float: right; margin: 0 0 0 15px;" src="{{site.baseurl}}/assets/images/images_22/tableofcontents.JPG"/>
-        </div>
           <h2 class="tcleft"><a href="poems_2022/{{item.pid}}">{{ item.transtitle }} 
             {% if item.title %}
                   [<span lang= "{{ item.lang }}" dir="ltr">{{ item.title }}</span>]</a></h2>
