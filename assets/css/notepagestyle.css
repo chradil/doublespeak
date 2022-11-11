@@ -376,7 +376,7 @@ h1 {
 }
 
 .tbio {
-	float: right;
+	float: left;
 }
 
 .note-text {
@@ -386,6 +386,7 @@ h1 {
 	width: 50%;
 	border-right: solid black 1px;
 	overflow: hidden;
+	flex: 1;
 }
 
 .poem-image {
@@ -393,8 +394,7 @@ h1 {
 	height: 100%;
 	width: 50%;
 	margin-top: -100px;
-	margi-left: 15px;
-	object-fit: cover;
+	margin-left: 15px;
 	opacity: 0.7;
 	
 }
@@ -477,11 +477,7 @@ h1 {
 	text-decoration: underline;
 }
 
-.note-text{
-	flex:1;
-}
-.poem-image {
-	max-width:100%;
+
 	
 }
 .caption {
