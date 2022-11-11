@@ -24,6 +24,14 @@ a {
 	width: 80px;
 }
 
+@media screen and (max-width: 600px) {
+  .nav a:not(:first-child) {display: none;}
+  .nav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
 .nav {
 	position: static;
 	height: 40px;
