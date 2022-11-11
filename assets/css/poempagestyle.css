@@ -231,7 +231,8 @@ p strong {
 }
 
 .headerart {
-	width: 60%;
+	width: 70%;
+	padding-left: -50px;
 	margin: -55px -5px -60px 70px;
 }
 
