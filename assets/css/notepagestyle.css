@@ -389,10 +389,11 @@ h1 {
 }
 
 .poem-image {
-	display: inline-block;
-	height: 175%;
-	width: 100%;
+	float: right;
+	height: 100%;
+	width: 50%;
 	margin-top: -100px;
+	margi-left: 15px;
 	object-fit: cover;
 	
 }
