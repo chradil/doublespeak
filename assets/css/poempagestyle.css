@@ -232,7 +232,8 @@ p strong {
 
 .headerart {
 	width: 70%;
-	margin: -55px 0 20px -60px;
+	display: flex;
+	margin: -55px 0 20px -45px;
 }
 
 .poemtags {
