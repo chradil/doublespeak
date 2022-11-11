@@ -42,10 +42,13 @@ layout: default
             </div>
           {% elsif item.pagetype == "content" %}
         <div class="tcleft">
-          <h2 class="tcleft"><a href="poems_2022/{{item.pid}}">{{ item.transtitle }} 
+          <h2 class="tcleft"><a href="poems_2022/{{item.pid}}">{{ item.transtitle }}</a></h2>
+          <br> 
+          <h2 class="tcleft">
             {% if item.title %}
-                  [<span lang= "{{ item.lang }}" dir="ltr">{{ item.title }}</span>]</a></h2>
+                  <a href="poems_2022/{{item.pid}}"><span lang= "{{ item.lang }}" dir="ltr">{{ item.title }}</span></a>
               {% endif %}
+            </h2>
           <h3 class="tcleft">written by {{ item.author }}<br>translated from {{ item.language }} by {{ item.translator }}</h3>
         </div>
         {% endif %}
