@@ -91,7 +91,7 @@ layout: default
           {% endif %}
           {% endfor %}
           {% for poem in site.data.poems_2020 %}
-            {% if poem.pagetype != "submission "%}
+            {% if poem.pagetype == "submission "%}
               {% assign new_translator = poem.translator %}
               {% assign translators = translators | push: new_translator %}
             {% endif %}
