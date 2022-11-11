@@ -1,5 +1,5 @@
 pid,title,transtitle,author,translator,poem,transpoem,note,abio,tbio,language,lang,image,imagecredit,origaudio,translaudio,edition,pagetype
-every-day-the-sun-slits-the-throat-of-its-former-self,chaque jour le soleil égorge son spectre,every day the sun slits the throat of its former self,Amina Saïd,Ashley Sniffen,"chaque jour le soleil égorge son spectre
+each-day-the-sun-slits-the-throat-of-its-former-self,chaque jour le soleil égorge son spectre,each day the sun slits the throat of its former self,Amina Saïd,Ashley Sniffen,"chaque jour le soleil égorge son spectre
 et se lève dans son sang
 
 tout commencement dessine un cercle
@@ -150,11 +150,11 @@ and I’ve come back from enjoying the flowers.
     as “clearing.” For the shape, we couldn’t get it to form a diamond as in the
     original due to the wordiness of English, so we formed it into an ancient
     Chinese wine goblet (<span lang= ""zh"">觚</span>, <em>gu</em>), hoping to convey some of the meaning of the poem through the form.
-</p>","<p>The author is alleged to be <span lang= ""zh"">苏轼</span>, Su Shi, but this remains unconfirmed.
+</p>","<p>The author is alleged to be <span lang= ""zh"">苏轼</span>, Su Shi, but this remains unconfirmed.</p>
 </p>","<p>
     Gil Lehmann and Jacey Chang are both Masters of City Planning students in
 the Weitzman School of Design. Yehudith Dashevsky is a former <em>DoubleSpeak</em> editor who currently works in Washington, DC.
-</p>",Chinese,zh,{{site.baseurl}}/assets/images/images_21/su_shi.jpg,photo by Zhiqiao (Kate) Jiang,"<div>
+</p>",Chinese,zh,../assets/images/images_21/su_shi.jpg,photo by Zhiqiao (Kate) Jiang,"<div>
   
   <iframe
     frameborder=""0""
@@ -377,7 +377,7 @@ It infects you.
          Whose wandering is done.
 </pre>
 <p>and alters it to, “Wer nicht mehr wandert, kommt.” (“Who wanders no more, comes.”)</p>
-<p>The sly addition of <em>kommt</em> (“comes”) is quite the creative betrayal. Here we behold the deadly playfulness of Celan’s imagination, and also, how he expects to be translated. I will not speak of his death. But let the reader imagine what this one word, <em>kommt</em>, could have meant in his life.</p>","<p>David F. Ting works for a renowned lung cancer specialist as a medical scribe. He is eager to get into medical school when the time is right. He is a proud alum of both Penn and Princeton. He occasionally wonders how a translation can survive on its own, if annotations must travel with it like overweight luggage. At the time of this writing, he is about to fly across the country. He is flying alone, he has a good mask, and he is probably thinking about egg tarts.</p>",German,de,{{site.baseurl}}/assets/images/images_21/celan.jpg,photo by Heta Patel,"<div>
+<p>The sly addition of <em>kommt</em> (“comes”) is quite the creative betrayal. Here we behold the deadly playfulness of Celan’s imagination, and also, how he expects to be translated. I will not speak of his death. But let the reader imagine what this one word, <em>kommt</em>, could have meant in his life.</p>","<p>David F. Ting works for a renowned lung cancer specialist as a medical scribe. He is eager to get into medical school when the time is right. He is a proud alum of both Penn and Princeton. He occasionally wonders how a translation can survive on its own, if annotations must travel with it like overweight luggage. At the time of this writing, he is about to fly across the country. He is flying alone, he has a good mask, and he is probably thinking about egg tarts.</p>",German,de,../assets/images/images_21/celan.jpg,photo by Heta Patel,"<div>
   
   <iframe
     frameborder=""0""
@@ -393,7 +393,7 @@ It infects you.
     src=""https://drive.google.com/file/d/1fBGuzFzX1nfSeS5a-QyTH5In97wcX7H6/preview"">
   </iframe>
 </div>",2021,submission
-come,Ven,Come,Christina Perri Rossi,Elizabeth Rose,"Ven. Ven desnuda y sigilosa
+come,Ven,Come,Cristina Peri Rossi,Elizabeth Rose,"Ven. Ven desnuda y sigilosa
 para que el domingo cruel
 y su inútil noche
 tengan sentido 
@@ -444,57 +444,6 @@ espacio son metáforas
 aunque yo todavía no sé 
 metáfora de qué somos tú y yo 
 quizás de una antigua melodía del 
-universo antes de su descomposición.
-para que el domingo cruel 
-y su inútil noche 
-tengan sentido 
-ven y no digas nada 
-mientras te despojas de tu breve tanga 
-negra y yo no te pregunto dónde has estado 
-ni tú qué estuve haciendo hoy. 
-La noche es breve para quienes  
-sueñan prolongarla 
-y olvidar el día 
-y yo no conozco 
-otra manera de eternizarla 
-más que acariciarte 
-más que me acaricies 
-y en medio de los besos 
-me digas «te esnifas el tiempo»
-y yo te conteste 
-«un día es largo como un siglo» 
-si no te toco 
-si no me tocas 
-y la tanga en el suelo 
-es un recuerdo inútil 
-de épocas pasadas 
-de ausencias largas como eras. 
-No conozco otra manera de superar 
-el tiempo y sus relojes 
-los días y sus disgustos 
-sus migrañas sus cifras de 
-desempleo sus turbulencias 
-mundiales 
-sus injusticias 
-más que esta fusión de cuerpos 
-de pieles y de sexos 
-este espacio sin fronteras 
-este tiempo sin controles 
-esta libertad en fin de 
-encadenarse a lo que se ama 
-no a lo que se obedece 
-sumisas al amor 
-y no a los hemisferios 
-ni a las convenciones 
-ni a los imperios 
-ni siquiera a las leyes físicas
-que hacen de un encuentro emocional la 
-fricción de pieles músculos y salivas. 
-Einstein descubrió que el tiempo y el 
-espacio son metáforas 
-aunque yo todavía no sé 
-metáfora de qué somos tú y yo 
-quizás de una antigua melodía del 
 universo antes de su descomposición.","Come. Come naked and
 silent to make sense of the
 merciless Sunday 
@@ -511,10 +460,10 @@ to eternalize the night
 besides caressing you 
 you caressing me 
 and in the midst of kisses 
-you would say te esnifas el 
-tiempo and I would reply 
-un día es largo como un 
-siglo if I don’t touch you 
+you would say <em>te esnifas el</em> 
+<em>tiempo</em> and I would reply 
+<em>un día es largo como un</em> 
+<em>siglo</em> if I don’t touch you 
 if you don’t touch me 
 and the thong on the floor 
 is a useless memory 
@@ -549,7 +498,7 @@ a metaphor for you and me
 perhaps an ancient melody
 of the universe
 before its decay.
-","<p>The poem “Come”/“Ven” is from one of Cristina Peri Rossi’s most recent volumes of poetry, <em>Las Replicantes</em> (<em>The Replicants</em>, Ediciones Cálamo, 2016). Peri Rossi’s poetic work over the past fifty years creates an archive of lesbian affection and queer kinship, centering desire, eroticism, and intimacy. My translations of her work are informed by an attention to that intimacy, and “Come”/“Ven” is no exception. One such approach to this work was including select fragments of the Spanish within the English version in order to signal intimate speech acts. There are certain terms of endearment that transcend recontextualization in English, but there are also those that signal a familiarity and exclusivity that I choose to illuminate by setting them apart linguistically. By highlighting the lovers’ dialogue in Spanish (“te esnifas el tiempo,” literally “you are sniffing time,” meaning “you are wasting time,” and “un día es largo como un siglo,” literally “a day is long as a century”), I remind the reader that these speech acts are exclusive, separate, yearning, undressed.</p>","<p>Cristina Peri Rossi is a Uruguayan novelist, poet, and translator. Born in Montevideo, she has lived in Barcelona since the 1970s, when she went into political exile. Considered the only woman associated with the Latin American Boom, Peri Rossi has never ceased to publish work, despite political repression, tenuous immigration status, and linguistic discrimination. She has published nineteen books of poetry, earning her many literary prizes, including the Rafael Alberti International Poetry Prize, the City of Torrevieja International Poetry Prize, the Loewe Foundation International Poetry Prize, and a Guggenheim Fellowship.</p>","<p>Elizabeth Rose is a poet, translator, and PhD candidate in comparative literature at the University of Pennsylvania. They translate primarily from Spanish, and their scholarship centers the intersections of translation, queer and trans theory, and transnational American studies. Their work has appeared in <i>Alchemy, <i>Tupelo Quarterly</i>, <i>Cagibi</i>, <i>Volume</i>, and <i>Raspa Magazine</i>, among other places. They currently reside on occupied Tohono O’odham territory, or Tucson, Arizona.</p>",Spanish,es,{{site.baseurl}}/assets/images/images_21/rossi.png,<em>Majo al atardecer</em> by Elizabeth Rose,"<div>
+","<p>The poem “Come”/“Ven” is from one of Cristina Peri Rossi’s most recent volumes of poetry, <em>Las Replicantes</em> (<em>The Replicants</em>, Ediciones Cálamo, 2016). Peri Rossi’s poetic work over the past fifty years creates an archive of lesbian affection and queer kinship, centering desire, eroticism, and intimacy. My translations of her work are informed by an attention to that intimacy, and “Come”/“Ven” is no exception. One such approach to this work was including select fragments of the Spanish within the English version in order to signal intimate speech acts. There are certain terms of endearment that transcend recontextualization in English, but there are also those that signal a familiarity and exclusivity that I choose to illuminate by setting them apart linguistically. By highlighting the lovers’ dialogue in Spanish (“te esnifas el tiempo,” literally “you are sniffing time,” meaning “you are wasting time,” and “un día es largo como un siglo,” literally “a day is long as a century”), I remind the reader that these speech acts are exclusive, separate, yearning, undressed.</p>","<p>Cristina Peri Rossi is a Uruguayan novelist, poet, and translator. Born in Montevideo, she has lived in Barcelona since the 1970s, when she went into political exile. Considered the only woman associated with the Latin American Boom, Peri Rossi has never ceased to publish work, despite political repression, tenuous immigration status, and linguistic discrimination. She has published nineteen books of poetry, earning her many literary prizes, including the Rafael Alberti International Poetry Prize, the City of Torrevieja International Poetry Prize, the Loewe Foundation International Poetry Prize, and a Guggenheim Fellowship.</p>","<p>Elizabeth Rose is a poet, translator, and PhD candidate in comparative literature at the University of Pennsylvania. They translate primarily from Spanish, and their scholarship centers the intersections of translation, queer and trans theory, and transnational American studies. Their work has appeared in <em>Alchemy</em>, <em>Tupelo Quarterly</em>, <em>Cagibi</em>, <em>Volume</em>, and <em>Raspa Magazine</em>, among other places. They currently reside on occupied Tohono O’odham territory, or Tucson, Arizona.</p>",Spanish,es,../assets/images/images_21/rossi.png,<em>Majo al atardecer</em> by Elizabeth Rose,"<div>
   
   <iframe
     frameborder=""0""
@@ -664,8 +613,8 @@ between Paradise and Hellfire.
     src=""https://drive.google.com/file/d/1IyzUivxs4lsdxed41VhwJJATngI7Vz-W/preview"">
   </iframe>
 </div>",2021,submission
-conversation-between-a-drunk-poetess-and-her-lover,"<span lang=""ru"">Разговор
-пьяной поэтессы и ее нового любовника</span>",Conversation between a drunk poetess and her lover,Yaroslav (Slava) Mogutin,Ryan Hardy,"— деревья вокруг растут,
+conversation-of-a-drunk-poetess-and-her-lover,"<span lang=""ru"">Разговор
+пьяной поэтессы и ее нового любовника</span>",Conversation of a drunk poetess and her lover,Yaroslav (Slava) Mogutin,Ryan Hardy,"— деревья вокруг растут,
 а я голая, пьяная, здоровая корова, поэтесса,
 ну что тут поделаешь?!
 сказать тебе мое имя?
@@ -1008,7 +957,11 @@ winter,"<span lang=""ja"">冬</span>",Winter,Kobayashi Issa,Vanessa Hu,"初雪�
 玉霰                         
 夜鷹は月に                 
 帰るめり
-<p>From the haiku collection <span lang=”ja”>《猫与四季》</span> (<i>Cats and the Four Seasons</i>) by <span lang=”ja”>小林一茶</span> (Kobayashi Issa), Mandarin translations from Japanese by <span lang=”ja”>吴菲</span> (Wu Fei), illustrated by <span lang=”ja”>千巨万</span> (Qian Ju Wan).</p>","first snowfalls: 
+
+From the haiku collection <span lang=”ja”>《猫与四季》</span> (<em>Cats and the Four Seasons</em>)
+By <span lang=”ja”>小林一茶</span> (Kobayashi Issa)
+Mandarin translations from Japanese by <span lang=”ja”>吴菲</span> (Wu Fei)
+Illustrated by <span lang=”ja”>千巨万</span> (Qian Ju Wan).</p>","first snowfalls: 
 those are matters 
 of mortal beings
 
@@ -1147,83 +1100,82 @@ Poiché da lungo tempo te solo conoscevamo, a te solo
 Obbedivamo, tua destinata preda,
 Trascinando sulle vie della terra la tua celeste catena straniera.
 ","I.
-They were not needed, the temples in ruin at the edges of deserts,
-with their broken columns and stairs that led nowhere;
-nor the sand-buried shipwrecks, nor the whitening bones by the sea;
-not even the violence of fire through our fields and homes. 
-Enough that the shadow rose from the room’s quietest corner,
-or kept watch behind our half-closed door —
-The thin rain on windows, a tin sheet that wailed in wind:
-we already knew we belonged to death.
+We did not need the temples in ruin at the edge of deserts,
+With broken columns and stairs that led nowhere;
+Nor the sand-buried shipwrecks, the bleached bones along the sea;
+Not even the violence of fire against our fields and homes. 
+It was enough that the shadow rose from the quietest corner of the room,
+Or kept vigil behind our half-closed door —
+The thin rain on the windows, a sheet of tin that groaned in the wind:
+We already knew we belonged to death.
 
 II.
-If you want to leave your trace, person, just scratch the sand,
-because the tallest tower will become sand in the end.
-Write your name on the deserted shore and pray the sea soon covers it with sorrow:
-because you yourself are sand, you are the death that remains after you.
+If you want to leave your trace, man, score the sand instead,
+Because the highest earth will become sand in the end.
+You write your name on the deserted waterfront, and pray the sea soon covers it in tears:
+Because you yourself are sand, you are the death that remains after you.
 
 III.
-Every time we said goodbye,
-every time we turned to childhood fallen at our backs
-(soul trembling in its long sorrow),
-every time we separated from the beloved in the cold clarity of dawn,
-every time we saw the enigma reseal itself over dead eyes,
-or even when we simply listened to wind in deserted streets,
-and watched autumn pass through the hills,
-it was the Angel at our side, consuming us.
+Every time we said goodbye;
+Every time we turned toward childhood, loss at our backs,
+(The soul trembling in its long lament);
+Every time that we separated from a lover in the cold twilight of the sunrise;
+Every time that we saw the enigma close again in dead eyes;
+Or even when we simply listened to wind in the deserted streets,
+And watched autumn pass on the hill,
+The Angel was at our side and it consumed us.
 
 IV.
-Now our love will spread through vineyards and wheatfields, 
-our venom in cacti and their mean spines.
-The living will lean down to the springs and ask:
-“Who pushes this water toward us from the world’s inscrutable veins?” 
-And long before the cold gathers them and night lies down on their heart,
-even in a midday of bees  and ardent nectars,
-the living will know anguish because we are powerful and near
-and there is no escape from the circle in which we already hold them,
-with every stalk that sprouted from us, and every fruit tree that bends full and grave to our earth.
+Now our love will scatter upon the vineyard and the field,
+Our venom in the cacti and the cruel thorns.
+The living will croach by the springs, they will say:
+“Who pushes toward us the water from hidden veins of the world?” 
+And long before the cold gathers them and the night lays down upon their heart,
+Even in a midday of bees and sweet nectars,
+They will know anguish because we are powerful and near,
+And there is no escape from the circle in which we already hold them,
+With every stalk raised from us, and every full and heavy fruit that bows toward our earth.
 
 V.
-The voices were last to separate themselves. Not the massive voices
-of the war and the hurricanes, 
-nor the human, beloved voices,
-but murmurs of grasses and waters,  wind’s laughter, rustle
-of leaves where invisible squirrels played,
-insects’ joyed buzz  during many summers,
-down to the insect that buzzed more insistently
-in the room where we didn’t want to die.
-And everything collided in a note, in a steady
-and whispered tumult, like blood,
-when our blood was living. But by then we knew
-it was impossible to respond.
-And when the Angel asked: “Do you still want to remember?”
-We ourselves begged: “Leave, so silence comes!”
-
+They were the last voices to fall quiet. Not the unbearable voices
+Of wars and hurricanes, 
+Nor the human and loved voices,
+But murmurs of grasses and waters, laughter of the wind, rustle
+Of ferns between which invisible squirrels played,
+Hum of insects across many summers
+Down to that insect which incessantly buzzed
+In the room where we did not want to die.
+And everything collided in a note, in a rest
+And whispered tumult, like that of blood,
+When our blood was living. But we already knew
+That it was impossible to respond to everything.
+And when the Angel asked us: “Do you want to remember again?”
+We ourselves implored him: “Leave, that silence comes!”
 
 VI.
-Neither the broken branch nor the trampled grass on the paths
-told us of its passage, but the touch of solitude
-that each thing kept inside itself and offered us, freeing—
-after the usual message—the other, unknown word. 
-How we startled, listening to it, how securely it set
-our heart on the invisible trail!
-So we always followed you, Ruler and Beloved,
-and it didn’t surprise us, the white light in which you walked unveiled at our side,
-(Now that the body’s shadow has cut across death’s meridian),
-Since for a long time we knew only, we obeyed
-only you, your fated prey, 
-Dragging, on the streets of the earth, your strange celestial chain..
+Neither the broken branch, nor the trampled grass alongside the paths
+Told us of its passage, but the touch of solitude
+That each thing keeps in itself and returns to us, freeing
+After the usual message, the other, unknown word. 
+How we startled listening to it, how securely it set
+Our heart on the invisible track!
+So we always followed you, Ruler and Lover,
+Nor did the the white light in which you walked unveiled at our side surprise us,
+(Now that the carnal shadow has set on the horizon of death),
+Since for many years you alone we knew, you alone
+We obeyed, your destined prey, 
+Dragging on the streets of the earth your strange celestial chain.
 ","<p>This series of six short poems from Margherita Guidacci’s first book of poetry, <em>La sabbia e l’angelo</em> (<em>The Sand and the Angel</em>, 1946) reckons with the relationship between humans and nature, as well as the broader cycle of life and death.</p>
-<p>The last image in the poem of death as a <i>celeste catena straniera</i>, a “strange celestial chain,” particularly captivated me and guided my translation. I translated <em>straniero</em> as “strange” rather than the usual “foreign” because the Angel, a sort of overseer of the life/death balance, is a continuous presence in human life. I wanted “strange” to capture our inability to reconcile our knowledge of death with our own desire to live; we know death intimately, but are unable to fully comprehend what it entails.</p>
-<p>As I translated the poem, I was surprised to find that Guidacci’s voice, both direct and clear, cosmic and spiritual, had an almost Romantic lilt in English that comes across in phrases such as <i>o uomo</i> (“O man,” which I translated simply as “person”) and <i>Dominatore ed Amato</i> (“Ruler and Lover”). It’s crucial to note that Guidacci was not invested in the closed style of her contemporaries, the Hermetic poets; she instead used a more “ordinary” language to form the complex meanings and sounds of her works. Keeping this in mind, I tried to adhere as closely as I could to the flexible sentence order common to Italian while still maintaining sense in English, to convey that sense of familiarity and strangeness that coexists in the work.</p>
+<p>The last image in the poem of death as a <em>celeste catena straniera</em>, a “strange celestial chain,” particularly captivated me and guided my translation. I translated <em>straniero</em> as “strange” rather than the usual “foreign” because the Angel, a sort of overseer of the life/death balance, is a continuous presence in human life. I wanted “strange” to capture our inability to reconcile our knowledge of death with our own desire to live; we know death intimately, but are unable to fully comprehend what it entails.</p>
+<p>As I translated the poem, I was surprised to find that Guidacci’s voice, both direct and clear, cosmic and spiritual, had an almost Romantic lilt in English that comes across in phrases such as <em>o uomo</em> (“O man,” which I translated simply as “person”) and <em>Dominatore ed Amato</em> (“Ruler and Lover”). It’s crucial to note that Guidacci was not invested in the closed style of her contemporaries, the Hermetic poets; she instead used a more “ordinary” language to form the complex meanings and sounds of her works. Keeping this in mind, I tried to adhere as closely as I could to the flexible sentence order common to Italian while still maintaining sense in English, to convey that sense of familiarity and strangeness that coexists in the work.</p>
 <p>What struck me most deeply about the poem is how Guidacci recognizes the brevity of human life without assuming that our lives do not matter because of it. Rather, our absence serves as a permanent reminder of our existence: “Perché tu stesso sei sabbia, sei la morte che dopo te rimane.” “Because you yourself are sand, you are the death that remains after you.”</p>
-","<p>Margherita Guidacci (1921–1992, Florence) was an Italian poet and translator. Without companions her own age, Guidacci’s childhood was marked by solitude and a series of losses — most notably, the death of her father — that led her to poetry and literature. Guidacci graduated in 1943 from the Università di Firenze with a degree in Italian literature; only three years later, <em>La sabbia e l’angelo</em> marked the beginning of her prolific literary career, over the course of which she received many prestigious awards, such as the Biela Poesia Prize and the Premio Caserta. Her poetry fused the domestic and the universal, resounding with deep emotion, yet stunningly clear. Alongside her many books of poetry, Guidacci published translations of the works of Emily Dickinson, Ernest Hemingway, H.D., T.S. Eliot, John Donne, and many others. Her teaching career was just as prolific: she taught Latin, Greek, and English at a precollege level and later became a professor of Anglophone literature.</p>","<p>Quinn Gruber is a junior at the University of Pennsylvania studying English and Italian literature. They love writing, editing, and having far too many hobbies.</p>",Italian,it,,,"<div>
+","<p>Margherita Guidacci (1921–1992, Florence) was an Italian poet and translator. Without companions her own age, Guidacci’s childhood was marked by solitude and a series of losses — most notably, the death of her father — that led her to poetry and literature. Guidacci graduated in 1943 from the Università di Firenze with a degree in Italian literature; only three years later, <em>La sabbia e l’angelo</em> marked the beginning of her prolific literary career, over the course of which she received many prestigious awards, such as the Biela Poesia Prize and the Premio Caserta. Her poetry fused the domestic and the universal, resounding with deep emotion, yet stunningly clear. Alongside her many books of poetry, Guidacci published translations of the works of Emily Dickinson, Ernest Hemingway, H.D., T.S. Eliot, John Donne, and many others. Her teaching career was just as prolific: she taught Latin, Greek, and English at a precollege level and later became a professor of Anglophone literature.</p>","<p>Quinn Gruber is a junior at the University of Pennsylvania studying English and Italian literature. They edit for <em>DoubleSpeak</em>, <em>Q-INE</em>, and <em>Jacket2</em>, and they are a cocurator for the Kelly Writers House Zine Library. Their research interests include Dante, Joyce, twentieth- and twenty-first-century English and Italian poetry, and zines, especially the queer ones. They love writing, editing, and having far too many hobbies.</p>",Italian,it,,,"<div>
   
   <iframe
     frameborder=""0""
     width=""375""
     height=""65""
-    src=""https://drive.google.com/file/d/1LT4e5Cvi4jiW0L1agPqV8eYBckxlxT4n/preview"">
+    src=""https://drive.google.com/file/d/18plNA6dO0XPkYX8pLP08qbM719c9tGrv/preview"">
   </iframe>
 </div>","<div>
 
@@ -1231,7 +1183,7 @@ Dragging, on the streets of the earth, your strange celestial chain..
     frameborder=""0""
     width=""375""
     height=""65""
-    src=""https://drive.google.com/file/d/1EJr3p8CvcpiAg6Yb7mOLxd4CQxd8GWwT/preview"">
+    src=""https://drive.google.com/file/d/1y_hLaWrIYIavOQp0g-N6qjQ80VDRYxGD/preview"">
   </iframe>
 </div>",2021,submission
 to-a-black-dancer,A une danseuse noire,To a Black Dancer,David Diop,Samantha DeStefano,"Négresse ma chaude rumeur d’Afrique
@@ -1464,7 +1416,7 @@ near the white branch of the chestnut tree in the court
 that was surely the last, the very last
 Butterflies don’t live here
 
-                                                                                                    in the ghetto.","<p>I translated this poem in a very minimalistic way because I wanted to emphasize the sadness and emptiness of the poem. The meaning of this poem is Pavel trying to find hope where he is. He finds hope when he sees this beautiful yellow butterfly but he sees it drift away, and he never sees it again. I wanted to preserve the spacing and alignments of the original because I feel like it was very important in the original, the emphasis of him not seeing a butterfly and then the indents on “the ghetto” added to the importance of not seeing such a hopeful creature in such a sad place. The word “ghettoized” is an uncomfortable term and not a very common term, and I thought it fit perfectly with the literal awkwardness of the German language and what the poem meant, but I wanted to make sure the readers understood the term stick outs by making the word a bit smaller than the rest.</p>","<p>Pavel Friedmann was a Jewish Czechslovakian poet who was famous for his poem “Der Schmetterling.” Very little is known about his early life. When he was twenty-one, he was transported to the Theresienstadt concentration camp located in Prague. This poem was found on a very thin piece of paper along with a lot of other drawings and writings from Jewish children at the camp. Pavel Friedmann was later transported to Auschwitz in 1944, where he died.</p>","<p>My name is Karina Carreras, and I am a senior at the University of Iowa. This semester, I decided to take a translation course not thinking a lot of it, and I ended up falling in love with translation. I didn’t realize how captivating the art of translation was until I started working with pieces and workshopping them with my peers and professor. I wanted to submit this translation because it was so moving in German, and I think English readers should have the chance to read this as well.</p>",German,de,{{site.baseurl}}/assets/images/images_21/friedmann.JPEG,photo by Quinn Gruber,"<div>
+                                                                                                    in the ghetto.","<p>I translated this poem in a very minimalistic way because I wanted to emphasize the sadness and emptiness of the poem. The meaning of this poem is Pavel trying to find hope where he is. He finds hope when he sees this beautiful yellow butterfly but he sees it drift away, and he never sees it again. I wanted to preserve the spacing and alignments of the original because I feel like it was very important in the original, the emphasis of him not seeing a butterfly and then the indents on “the ghetto” added to the importance of not seeing such a hopeful creature in such a sad place. The word “ghettoized” is an uncomfortable term and not a very common term, and I thought it fit perfectly with the literal awkwardness of the German language and what the poem meant, but I wanted to make sure the readers understood the term stick outs by making the word a bit smaller than the rest.</p>","<p>Pavel Friedmann was a Jewish Czechslovakian poet who was famous for his poem “Der Schmetterling.” Very little is known about his early life. When he was twenty-one, he was transported to the Theresienstadt concentration camp located in Prague. This poem was found on a very thin piece of paper along with a lot of other drawings and writings from Jewish children at the camp. Pavel Friedmann was later transported to Auschwitz in 1944, where he died.</p>","<p>My name is Karina Carreras, and I am a senior at the University of Iowa. This semester, I decided to take a translation course not thinking a lot of it, and I ended up falling in love with translation. I didn’t realize how captivating the art of translation was until I started working with pieces and workshopping them with my peers and professor. I wanted to submit this translation because it was so moving in German, and I think English readers should have the chance to read this as well.</p>",German,de,../assets/images/images_21/friedmann.JPEG,photo by Quinn Gruber,"<div>
   
   <iframe
     frameborder=""0""
@@ -1579,7 +1531,7 @@ The garden is filled with fruit on the vines, but the gardener
 refuses to brush a finger over the skin of even one piece.
 How sad it is! The season of splendor passes,
 and the fruit that ripens only in darkness
-Remains lonely. ",,,,Arabic,bs,{{site.baseurl}}/assets/images/images_21/headley.JPG,photo by Yan Zhang,,,2021,submission
+Remains lonely. ","<p>These two poems were written by the eleventh-century Iberian Jewish poet Qasmūna bint Ismā‘il. Very little is known about her, and only a few poems survive, written in Arabic. For these translations, which were included in my 2017 story, “The Orange Tree,” about a female wooden golem and the poet who commissions her to be built, I did literal translations and then played with them. The story was in the Best American Fantasy and Science Fiction volume edited by N.K. Jemisin.</p>",,,Arabic,bs,../assets/images/images_21/headley.JPG,photo by Yan Zhang,,,2021,submission
 interview-with-maria-dahvana-headley,Interview with Maria Dahvana Headley,Interview with Maria Dahvana Headley,"a conversation on translation, storytelling, and feminism",,,,"<p><em>This interview was conducted by </em>DoubleSpeak<em> staff and Professor Taije Silverman.</em></p>
  
 <p><strong><em>DoubleSpeak</em>:</strong> The first question for today is: What got you interested in translation, and how do you see this influencing your work as a writer?</p>
@@ -1627,7 +1579,7 @@ interview-with-maria-dahvana-headley,Interview with Maria Dahvana Headley,Interv
 <p><strong>MDH:</strong> Initially, the rage that helped me become a writer was a sputtering rage. Now, my rage goes into my work, which is pretty satisfying. I feel like I can be part of the tradition of storytelling and changing the world in this way.</p>
 
 <p>I’ve also been changed by having a baby who’s a year-and-a-half old. I started talking loudly about doing the work of changing the world with a story while I was pregnant with him and while he was a newborn. Having a small child changes things, but it also brings different perspectives. Having my child as I was deep in working on the <em>Beowulf</em> poem brought a totally different perspective to the translation. I was deep in the idea of Grendel’s mother, grieving the potential loss of a child, and that’s a big part of what this poem is about. I got a new window into it. So, the things that I lost in terms of my ability to just write all day, I gained in my ability to see through the eyes of the mothers in the <em>Beowulf</em> story.</p>
-",,,English,en,{{site.baseurl}}/assets/images/images_21/interview.jpeg,photo by Chardonnay Needler,,,2021,interview
+",,,English,en,../assets/images/images_21/interview.jpeg,photo by Chardonnay Needler,,,2021,interview
 from-what-mistake,"<span lang=""ko"">어떤 과오로부터</span>",“From what mistake”,Kim Soon Mi,Nadia Park,"어떤 과오로부터
 어떤 환희로부터
 너희들은 왔는가
@@ -1690,7 +1642,7 @@ Then amid the sorghum field,
 I saw the poet’s silhouette.
 My heart pounded,
 as though poetry had arrived.","<p>Kim Soon Mi chooses words that often seem to float on their own, carrying a great deal of movement and feeling in each word that makes her poetry difficult to translate. This first poem I translated carries a sense of depression and desperation starting from the very first word, <span lang= ""ko"">과오로</span>. Is it a mistake? An error? A problem? A fault? A regret? I choose the word “mistake” because there can be a certain amount of sadness in this word, but there is nothing that can be done with what has happened in the past. There is only the option of moving forward with whatever is to come. Thus, when describing the actions of the shorebirds, there needed to be a desperation in the simple actions they were performing. As Kim states, her images of shorebirds are those of constant movement and a need to get from one point to the next, and felt this reflected her own life, especially when she most recently had depression. Furthermore, I took liberties in translation by adding more lines than the original, as I wanted to emphasize the desperation the narrator emits throughout the poem.</p>
-<p>“Like an illusion, poetry” was written as a moment in the year 2000 when Kim decided to become a poet. But the word, “illusion” was the most difficult word to translate. The word in English, coincidentally means “welcome” as well as “phantasm/illusion/fantasy.” Kim states that she did not intentionally choose this word, but it ultimately seemed to give readers that potential connection. Yet, when translating the poem, since we do not have a homophone word that holds both definitions, I wanted to focus on making sure the narrator was in a fantasy world, displaced from whatever current location they are in, and instead in a sort of mystical environment, where the moon would glow in vibrant color in an unbelievable size, and poetry would seem to be both present and somehow unattainable at the same time.</p>","<p>Kim Soon Mi (1959–present) is a South Korean poet born in Uiseong in the Gyeongbuk region of South Korea. Kim’s way to becoming a poet was not always at the forefront of her professional aspirations. In elementary school, she wrote a poem that was ultimately framed in the hall of her school after she graduated. That moment gave her a sense of pride and expanded her love for poetry. While she attended university to become a kindergarten teacher, she always maintained her love for the arts, not just poetry. Obtaining inspiration to pursue poetry upon reading Joongang Daily’s “The Morning in Which There is Poetry” and having studied creative writing in a poetry class outside of standardized education along with a cultural class called “Scent of English Poetry,” she developed and continued to polish her art. She debuted in 2006 with the recommendation of poet Jung Il-geun and published her first poetry book, <em>The Woman of Chagall</em> in 2015, and will be publishing her second poetry book, <em>The Woman of Terrace</em>, in 2021.</p>","<p>Nadia Park graduated from the University of Pennsylvania in 2019 as a communications major and French and consumer psychology minor. She is currently living in South Korea for the first time and has been balancing life working between global marketing in an IT company and being a barista. As a former member of <em>DoubleSpeak</em>, she continues to fall back into the world of poetry and translation both consciously and unconsciously, discovering and encountering non-English poems and this year — a poet.</p>",Korean,ko,{{site.baseurl}}/assets/images/images_21/kim_soon_mi.jpeg,photo by Nadia Park,"<div>
+<p>“Like an illusion, poetry” was written as a moment in the year 2000 when Kim decided to become a poet. But the word, “illusion” was the most difficult word to translate. The word in English, coincidentally means “welcome” as well as “phantasm/illusion/fantasy.” Kim states that she did not intentionally choose this word, but it ultimately seemed to give readers that potential connection. Yet, when translating the poem, since we do not have a homophone word that holds both definitions, I wanted to focus on making sure the narrator was in a fantasy world, displaced from whatever current location they are in, and instead in a sort of mystical environment, where the moon would glow in vibrant color in an unbelievable size, and poetry would seem to be both present and somehow unattainable at the same time.</p>","<p>Kim Soon Mi (1959–present) is a South Korean poet born in Uiseong in the Gyeongbuk region of South Korea. Kim’s way to becoming a poet was not always at the forefront of her professional aspirations. In elementary school, she wrote a poem that was ultimately framed in the hall of her school after she graduated. That moment gave her a sense of pride and expanded her love for poetry. While she attended university to become a kindergarten teacher, she always maintained her love for the arts, not just poetry. Obtaining inspiration to pursue poetry upon reading Joongang Daily’s “The Morning in Which There is Poetry” and having studied creative writing in a poetry class outside of standardized education along with a cultural class called “Scent of English Poetry,” she developed and continued to polish her art. She debuted in 2006 with the recommendation of poet Jung Il-geun and published her first poetry book, <em>The Woman of Chagall</em> in 2015, and will be publishing her second poetry book, <em>The Woman of Terrace</em>, in 2021.</p>","<p>Nadia Park graduated from the University of Pennsylvania in 2019 as a communications major and French and consumer psychology minor. She is currently living in South Korea for the first time and has been balancing life working between global marketing in an IT company and being a barista. As a former member of <em>DoubleSpeak</em>, she continues to fall back into the world of poetry and translation both consciously and unconsciously, discovering and encountering non-English poems and this year — a poet.</p>",Korean,ko,../assets/images/images_21/kim_soon_mi.jpeg,photo by Nadia Park,"<div>
   
   <iframe
     frameborder=""0""
@@ -1707,7 +1659,7 @@ as though poetry had arrived.","<p>Kim Soon Mi chooses words that often seem to 
     src=""https://drive.google.com/file/d/1fiYaYRFoIEMLZcMxH-Sca7G0zWsOuC2-/preview"">
   </iframe>
 </div>",2021,submission
-like-an-illusion-a-poet-and-a-translator,,"Like an illusion, a poet and translator: musing",Nadia Park,,,,"<p>Coffee became my safe space. My excitement. My calmness.
+like-an-illusion-a-poet-and-a-translator,"Like an illusion, a poet and translator: musing","Like an illusion, a poet and translator: musing",Nadia Park,,,,"<p>Coffee became my safe space. My excitement. My calmness.
 <br>Languages were gifts and opportunities to discover dreams and meaning.
 <br>And like an illusion, poetry became a present.</p>
 
@@ -1799,7 +1751,8 @@ Jeg løber efter skriget. Og jeg hører ud fra åbne vinduer en brølende røst
 Angst løber jeg videre. Jeg kømmer forbi et hus, hvor der er mange mennesker. Jeg ser dem sidde langs væggene, de snakker ikke til hinanden, de smiler ikke til hinanden. 
 Og jeg blir mer og mer angst. Jeg kømmer forbi dansebuler med mænd og kvinder, der sparker hinanden tilblods. 
 Er dette mine brødre, menneskene? 
-Jeg løber videre og videre. Jeg blir mere og mere angst. Ingen taler til hinanden, ingen smiler til hinanden. De farer afsted, som var de piskede, og ud fra de små huse hører jeg gråt og hulken, bag mig gråter det, gråter, gråter… 
+Jeg løber videre og videre. Jeg blir mere og mere angst. Ingen taler til hinanden, ingen smiler til hinanden. 
+De farer afsted, som var de piskede, og ud fra de små huse hører jeg gråt og hulken, bag mig gråter det, gråter, gråter… 
 Og omsider går det op før mig, omsider ser jeg det: De er vanvittige, de piskes af sin egen skygge. Og jeg ser mig om, jeg ser på deres øine, deres miner, deres ilen og løben: 
 Ja, de er vanvittige, de er vanvittige. ","I live in the mountain. I have not seen another person in weeks, nor heard my own voice. While the pond ripples I can hear myself think.
 Red clouds pass by. The sky darkens, the mountain water blackens, the loon cries.
@@ -1814,11 +1767,12 @@ I run after the scream. And from the open windows, I hear a roaring voice:
 I run on in fear. I go past a house filled with people. I see them sitting along the walls, they do not speak to each other, they do not smile at each other.
 And I am filled with more and more fear. I go past a dance-joint teeming with men and women, kicking each other bloody.
 Are these my brothers, these people?
-I ran farther and farther. I am filled with more and more fear. They do not speak to each other; they do not smile at each other. They flit about as if whipped, and from a small house I hear crying and sobbing, behind me they are crying, crying, crying…
+I ran farther and farther. I am filled with more and more fear. They do not speak to each other; they do not smile at each other.
+They flit about as if whipped, and from a small house I hear crying and sobbing, behind me they are crying, crying, crying…
 And at last this all wells up inside me, at last I say: ‘They are mad! They are whipped by their own shadow!’ I look them in the eye, see their expressions, see them rushing and running about, and I say to myself: 
 ‘Yes, they are mad, they are mad!’","<p>“The City” is a prose poem by Sigbjørn Obstfelder, the father of Norwegian modernist poetry. This poem is an exceptionally good example of his work because it depicts the anxiety of Norway’s transition from a rural, pastoral society to an industrialized, modern nation. We see a country-dwelling Norwegian decide to make his way into town for a wholesome reason, only to experience an anxiety attack similar to that portrayed in Munch’s <em>Scream</em>.</p>
 <p>The work of Obstfelder is challenging to translate today because of the interlingual nature of late nineteenth-century Norway. Still a young nation at the time, Norway was heavily Danish but was emerging as modern Bokmål. Beyond that, stylistically, Obstfelder has a jerky, hyphenated style that says much with few words. The former reveals his nervous nature and the latter puts him firmly in the Norwegian tradition.</p>","<p>Sigbjørn Obstfelder (21 November 1866–29 July 1900) was a nineteenth-century Norwegian writer, a close friend of Edvard Munch, an inspiration to Rainier Maria Rilke, and the father of modernist Norwegian poetry. His poem “Jeg Ser” is known by all Norwegians and mimics the sense of alienation depicted in Munch’s famous painting <em>The Scream.</em></p>
-<p>In 1890, Obstfelder moved to Milwaukee, Wisconsin, but after only a year, he had a nervous breakdown and returned to Norway. After several years of moving around with the Norwegian intellectual scene, he died of tuberculosis at the age of thirty-three on the same day as the birth of his only child Lili.</p>",<p>Jordan Barger is a Philadelphia-based translator specializing in translations from Norwegian and French. He has worked in Norway at the Ivar Aasen Center in Ørsta. He translated Sigbjørn Obstfelder’s 1894 novel <em>The Cross</em>. His translations can be found in the <em>Brooklyn Rail.</em></p>,Norwegian,no,{{site.baseurl}}/assets/images/images_21/obstfelder.JPG,photo by Jordan Barger,"<div>
+<p>In 1890, Obstfelder moved to Milwaukee, Wisconsin, but after only a year, he had a nervous breakdown and returned to Norway. After several years of moving around with the Norwegian intellectual scene, he died of tuberculosis at the age of thirty-three on the same day as the birth of his only child Lili.</p>",<p>Jordan Barger is a Philadelphia-based translator specializing in translations from Norwegian and French. He has worked in Norway at the Ivar Aasen Center in Ørsta. He translated Sigbjørn Obstfelder’s 1894 novel <em>The Cross</em>. His translations can be found in the <em>Brooklyn Rail.</em></p>,Norwegian,no,../assets/images/images_21/obstfelder.JPG,photo by Jordan Barger,"<div>
   
   <iframe
     frameborder=""0""
@@ -2015,9 +1969,11 @@ wild-grass,"<span lang=""zh"">《野草》题辞 </span>",Wild Grass,Lu Xun,Char
 
 地火在地下运行，奔突；熔岩一旦喷出，将烧尽一切野草，以及乔木，于是并且无可朽腐。但我坦然，欣然。我将大笑，我将歌唱。 
 
-天地有如此静穆，我不能大笑而且歌唱。天地即不如此静穆，我或者也将不能。我以这一丛野草，在明与暗，生与死，过去与未来之际，献于友与仇，人与兽，爱者与不爱者之前作证。 
+天地有如此静穆，我不能大笑而且歌唱。天地即不如此静穆，我或者也将不能。
+我以这一丛野草，在明与暗，生与死，过去与未来之际，献于友与仇，人与兽，爱者与不爱者之前作证。 
 
-为我自己，为友与仇，人与兽，爱者与不爱者，我希望这野草的死亡与朽腐，火速到来。要 不然，我先就未曾生存，这实在比死亡与朽腐更其不幸。 
+为我自己，为友与仇，人与兽，爱者与不爱者，我希望这野草的死亡与朽腐，火速到来。
+要不然，我先就未曾生存，这实在比死亡与朽腐更其不幸。 
 去罢，野草，连着我的题辞！","When I’m quiet, I feel complete; I then open my mouth, simultaneously feeling empty. 
 
 The past life has already died. With respect to its death, I am overjoyed, for from its death I know that it once was alive. 
@@ -2043,7 +1999,8 @@ If heaven and earth weren’t so silent, I probably still couldn’t do these th
 
 I — caught between light and darkness, life and death, past and present — dedicate as a testimony this bunch of wild grass to friends and enemies, man and beast, those I love and those I don’t love. 
 
-For myself, for friends and enemies, man and beast, those I love and those I do not: I hope this wild grass’ destruction and decay come quickly. If not, I will not have lived at all; this, in actuality, is even more pitiful than dying and decaying. 
+For myself, for friends and enemies, man and beast, those I love and those I do not: I hope this wild grass’ destruction and decay come quickly.
+If not, I will not have lived at all; this, in actuality, is even more pitiful than dying and decaying. 
 
 Go now, wild grass, along with my epigraph!","<p>I debated a lot about whether or not to change the punctuation to something more widely accepted (no run ons, fragments, etc.), but to honor Lu Xun and his legacy of spearheading the vernacular movement in the early twentieth century, I figured I should make it as conversational as possible. This meant preserving — for the most part — fragments and unorthodox comma rules, as well as keeping vocabulary and sentence structures at a very colloquial level. His poem is very conversational, and thus I opted for the use of contractions, such as “I’ll” instead of “I shall” or even “I will” for <span lang= ""zh"">我将</span>, among others.</p>
 <p>Secondly, a note on why I veered away from a literal word choice: <span lang= ""zh"">吸取</span> literally translates to “absorb,” but I wanted to make the verb more active to personify the grass. Also, I felt that “absorb” wasn’t active enough to be used thrice in a row with the same biting tone the poem had — it dulled the energy. “Sucking” seemed good because the character <span lang= ""zh"">吸</span> is also used in the word for “straw,” <span lang= ""zh"">吸管</span>, and the image Lu presents in his poem is incredibly visceral while simultaneously whimsical. “Consume” felt too formal given Lu’s insistence on vernacular writing throughout his career.</p>
@@ -2618,7 +2575,7 @@ And then the cigarette flies, dancing into the fire.","<p>This translation is in
 In a small town where the sun sets endlessly
 and the bells chime endlessly.”</pre>
 <p>She hums a tender song to a life that almost existed, but was never possible.</p>
-","<p>My name is Wenhan Zhang. I come from Singapore and China. I studied philosophy and computer science at Penn and now I am doing a Masters in computational science at Harvard. Studying and translating poetry in ENGL 120 with Professor Taije Silverman opened up the whole meaning of poetry to me. I knew then that writing, reading and translating poetry will forever be a big part of my life. Other than poetry, I love social entrepreneurship. I am interested in the intersection of technology, business and social change. Unexpectedly, I find language increasingly coming to the center of everything I hope to achieve. Language moves hearts, inspires changes, connects resources, and consummates meaning. It helps me find myself. It creates a performance out of life that makes it worth living, for myself and all others.</p>",Russian,ru,{{site.baseurl}}/assets/images/images_21/tsvetaeva.jpeg,photo by Limin Gao,"<div>
+","<p>My name is Wenhan Zhang. I come from Singapore and China. I studied philosophy and computer science at Penn and now I am doing a Masters in computational science at Harvard. Studying and translating poetry in ENGL 120 with Professor Taije Silverman opened up the whole meaning of poetry to me. I knew then that writing, reading and translating poetry will forever be a big part of my life. Other than poetry, I love social entrepreneurship. I am interested in the intersection of technology, business and social change. Unexpectedly, I find language increasingly coming to the center of everything I hope to achieve. Language moves hearts, inspires changes, connects resources, and consummates meaning. It helps me find myself. It creates a performance out of life that makes it worth living, for myself and all others.</p>",Russian,ru,../assets/images/images_21/tsvetaeva.jpeg,photo by Limin Gao,"<div>
   
   <iframe
     frameborder=""0""
@@ -2770,7 +2727,7 @@ but less true.","<p>Filippo Vignali’s poems hark back to the <em>poetica del f
 <p>The poems in Vignali’s book <em>Le conseguenze dell’infanzia</em> (<em>Childhood Consequences</em>) engage with childhood experiences never for the sake of mere nostalgia, but in order to investigate the radical possibilities of innocence. In these poems, innocence is not a beginning state from which one emerges, but instead a quality that one achieves through trial and difficulty: “Innocence can be built, / polished to a crystal’s purity; it can be young or old / as long as enough venom has been tasted.” Youth is a source of wisdom, a wisdom rekindled in the thoughts of a retrospective adult. And that’s as it should be, for adults — too often inured to apathy — are the ones in need of such wisdom.</p>
 <p>In translating these poems, we chose clarity of voice over a stimulating reading experience. Vignali uses little punctuation — less confusing in Italian than in English; Italian grammar contains many structural cues that alert readers to which verbs and nouns go together, what adjectives are describing which nouns, and so on. These cues are less abundant in English, so translating the poems with a similar lack of punctuation risks puzzling the reader, and would offer only a superficially similar reading experience.</p>
 ","<p>Born in 1973, Filippo Vignali lives in Rimini, Italy. He has cowritten a biography of the boxer Loris Stecca with Renzo Semprini Cesari and has written two novels: <em>Piccolo mondo</em> (2017) and <em>Il presente di ricordare</em> (2020). His collection of poems, <em>Le conseguenze dell’infanzia</em>, was published in 2018.</p>","<p>Giulia Rupi is from Rimini, Italy, and graduated with a master’s degree from the School of Foreign Languages and Cultures at the University of Bologna. She currently lives in Madrid, where she teaches Italian and English and translates into English, Italian, and Spanish.</p>
-<p>John Sherer is a writer based in Brooklyn. His poems, essays, and reviews have appeared in <em>The Point</em>, <em>Hot Metal Bridge</em>, <em>Botticelli Magazine</em>, <em>Hyperallergic</em>, and <em>Gulf Coast</em>. He is the poetry editor of the <em>Festival Review</em>.</p>",Italian,it,{{site.baseurl}}/assets/images/images_21/vignali.jpeg,photo by a <em>DoubleSpeak</em> staffer,"<div>
+<p>John Sherer is a writer based in Brooklyn. His poems, essays, and reviews have appeared in <em>The Point</em>, <em>Hot Metal Bridge</em>, <em>Botticelli Magazine</em>, <em>Hyperallergic</em>, and <em>Gulf Coast</em>. He is the poetry editor of the <em>Festival Review</em>.</p>",Italian,it,../assets/images/images_21/vignali.jpeg,photo by a <em>DoubleSpeak</em> staffer,"<div>
   <iframe
     frameborder=""0""
     width=""375""
@@ -3144,7 +3101,7 @@ In search of white flowers
 (1966)
 ","<p>The biggest hurdle in translating “Krinovi” was maintaining Dizdar’s pensive tone and relationship to time, which play starring roles in such a short, unadorned piece. “Krinovi” is from the larger work <em>Kameni Spavač</em> (<em>Stone Sleeper</em>) (1966), inspired by Bosnia’s <em>stećci</em> — monumental medieval tombstones. <em>Kameni Spavač</em> explores Bosnia’s rich, unique history from the perspective of Eastern Europe’s post-World War II identity-forming period, and “Krinovi” in particular makes this history come alive. Dizdar does not veil his symbolism: <em>stećci</em> are traditionally carved from white stone and dot the landscape like flowers, and the Bosnian lily (<em>Lilium bosniacum</em>, featured on the medieval Bosnian coat of arms) is one of Bosnia’s most recognizable national symbols.</p>
 <p>With this context in mind, “Krinovi” — or “Lilies” — becomes the story of a nation caught between past and present. Capturing this sense of haunting timelessness in an English translation proved to be challenging, and I made some stylistic choices to try to preserve this atmosphere at the expense of fidelity to literal meanings. In particular, many of the verbs used in the original text are in present- or past-continuous tense, but were translated in simple tenses to preserve Dizdar’s minimalist style and uninterrupted flow. For example, it would be more accurate to translate <em>prolazili</em> as “(they) were passing” than as “(they) passed,” but I worried that using this translation would sound clunky and obscure the central role of the past in the poem. Other verbs are more nuanced. For example, in the first line, I translated <em>procvali</em> as “bloom”; in context, however, this word feels like a strange blend of past and present tense, and might best translate to something like “are bloomed.” In a poem that deals so heavily with living history, this verb choice works wonders in Bosnian, but it is difficult to recreate the effect in translation.</p>","<p>Mehmedalija “Mak” Dizdar (1917–1971) was born in southern Bosnia to a Muslim Bosniak family. At nineteen, he relocated to Sarajevo, where he graduated from gymnasium and spent his years during World War II. His mother and sister were killed in the Jasenovac concentration camp. Dizdar became a devout supporter of the Communist Yugoslav Partisans and served as the editor-in-chief of <em>Oslobođenje</em>, a renowned Bosnian daily newspaper founded as an anti-Nazi publication. He later became the President of the Writers’ Union of Bosnia and Herzegovina, where he served until his death.</p>
-<p>Despite his political alignment, Dizdar’s poetry drew primarily from pre-Ottoman Bosnian Christianity, Islamic mysticism, and the cultural remains of medieval Bosnia. He was heavily inspired by inscriptions on medieval Bosnian tombstones (<em>stećci</em>), which are prominent religious and cultural symbols in his poetry. Dizdar used a medieval vantage point in his most influential work, allowing him to contemplate themes such as death, the experience of the world, homeland, the afterlife, and placement within history. His works, <em>Kameni Spavač</em> (<em>Stone Sleeper</em>) and <em>Modra Rijeka</em> (<em>Blue River</em>), are considered among the most important Bosnian poetic achievements of the twentieth century.</p>","<p>Emma Arsekin is an undergraduate studying history and political science at the University of Pennsylvania, with minors in East Central European studies and international relations. She is the daughter of Bosnian refugees who fled the Yugoslav Wars in the mid-1990s. Deeply influenced by her experience growing up in a Bosnian diaspora community, she is eager to uncover elements of Bosnian culture that were obscured by a childhood spent assimilating. She is an avid rock climber, traveler, and language-learner.</p>",Bosnian,bs,{{site.baseurl}}/assets/images/images_21/bodrozic.JPG,photo by a <em>DoubleSpeak</em> staffer,"<div>
+<p>Despite his political alignment, Dizdar’s poetry drew primarily from pre-Ottoman Bosnian Christianity, Islamic mysticism, and the cultural remains of medieval Bosnia. He was heavily inspired by inscriptions on medieval Bosnian tombstones (<em>stećci</em>), which are prominent religious and cultural symbols in his poetry. Dizdar used a medieval vantage point in his most influential work, allowing him to contemplate themes such as death, the experience of the world, homeland, the afterlife, and placement within history. His works, <em>Kameni Spavač</em> (<em>Stone Sleeper</em>) and <em>Modra Rijeka</em> (<em>Blue River</em>), are considered among the most important Bosnian poetic achievements of the twentieth century.</p>","<p>Emma Arsekin is an undergraduate studying history and political science at the University of Pennsylvania, with minors in East Central European studies and international relations. She is the daughter of Bosnian refugees who fled the Yugoslav Wars in the mid-1990s. Deeply influenced by her experience growing up in a Bosnian diaspora community, she is eager to uncover elements of Bosnian culture that were obscured by a childhood spent assimilating. She is an avid rock climber, traveler, and language-learner.</p>",Bosnian,bs,../assets/images/images_21/bodrozic.JPG,photo by a <em>DoubleSpeak</em> staffer,"<div>
   
   <iframe
     frameborder=""0""
