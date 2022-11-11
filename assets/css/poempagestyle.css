@@ -232,8 +232,7 @@ p strong {
 
 .headerart {
 	width: 70%;
-	padding-left: -50px;
-	margin: -55px -5px -60px 70px;
+	margin: -55px 0 20px -60px;
 }
 
 .poemtags {
