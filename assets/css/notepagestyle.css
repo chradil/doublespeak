@@ -379,6 +379,13 @@ h1 {
 	float: right;
 }
 
+.poem-image {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	
+}
+
 .tbio {
 	text-align: right;
 	margin-right: 30px;
