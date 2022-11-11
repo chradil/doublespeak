@@ -25,25 +25,78 @@ a {
 }
 
 @media screen and (max-width: 600px) {
-  .nav a:not(:first-child) {display: none;}
-  .nav a.icon {
+  .ham-nav a:not(:first-child) {display: none;}
+  .ham-nav a.icon {
     float: right;
     display: block;
   }
 }
 
 @media screen and (max-width: 600px) {
-  .nav.responsive {position: relative;}
-  .nav.responsive a.icon {
+  .ham-nav.responsive {position: relative;}
+  .ham-nav.responsive a.icon {
     position: absolute;
     right: 0;
     top: 0;
   }
-  .nav.responsive a {
+  .ham-nav.responsive a {
     float: none;
     display: block;
     text-align: left;
   }
+}
+
+.ham-nav {
+	position: static;
+	height: 40px;
+	padding: 5px;
+	padding-bottom: 30px;
+	border-bottom: solid black 1px;
+}
+
+.ham-nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 10px;
+	overflow: hidden;
+}
+.ham-nav li {
+	float: right;
+}
+.ham-nav li a {
+	display: block;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 20px;
+	color: black;
+	text-align: right;
+	padding: 10px 16px;
+	border: transparent solid 1px;
+	text-decoration: none;
+	margin-right: 10px;
+	transition: 0.3s;
+}
+.ham-nav li link {
+	display: block;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 20px;
+	color: black;
+	text-align: right;
+	padding: 10px 16px;
+	border: transparent solid 1px;
+	text-decoration: none;
+	margin-right: 10px;
+	transition: 0.3s;
+}
+.ham-nav a:hover{
+  	border: solid black 1px;
+}
+
+.ham-nav .icon {
+  display: none;
 }
 
 .nav {
