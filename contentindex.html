@@ -67,43 +67,43 @@ layout: default
         <ul class="content-u">
           {% assign translators = '' | split: ", " %}
           {% for poem in site.data.poems_2016 %}
-            {% if poem.pagetype == "submission " %}
+            {% if poem.pagetype == "submission" %}
               {% assign new_translator = poem.translator %}
               {% assign translators = translators | push: new_translator %}
             {% endif %}
           {% endfor %}
           {% for poem in site.data.poems_2017 %}
-          {% if poem.pagetype == "submission " %}
+          {% if poem.pagetype == "submission" %}
             {% assign new_translator = poem.translator %}
             {% assign translators = translators | push: new_translator %}
           {% endif %}
           {% endfor %}
           {% for poem in site.data.poems_2018 %}
-          {% if poem.pagetype == "submission " %}
+          {% if poem.pagetype == "submission" %}
             {% assign new_translator = poem.translator %}
             {% assign translators = translators | push: new_translator %}
           {% endif %}
           {% endfor %}
           {% for poem in site.data.poems_2019 %}
-          {% if poem.pagetype == "submission " %}
+          {% if poem.pagetype == "submission" %}
             {% assign new_translator = poem.translator %}
             {% assign translators = translators | push: new_translator %}
           {% endif %}
           {% endfor %}
           {% for poem in site.data.poems_2020 %}
-            {% if poem.pagetype == "submission "%}
+            {% if poem.pagetype == "submission" %}
               {% assign new_translator = poem.translator %}
               {% assign translators = translators | push: new_translator %}
             {% endif %}
           {% endfor %}
           {% for poem in site.data.poems_2021 %}
-            {% if poem.pagetype == "submission " %}
+            {% if poem.pagetype == "submission" %}
               {% assign new_translator = poem.translator %}
               {% assign translators = translators | push: new_translator %}
             {% endif %}
           {% endfor %}
           {% for poem in site.data.poems_2022 %}
-            {% if poem.pagetype == "submission " %}
+            {% if poem.pagetype == "submission" %}
               {% assign new_translator = poem.translator %}
               {% assign translators = translators | push: new_translator %}
             {% endif %}
@@ -124,7 +124,7 @@ layout: default
         <ul class="language-u">
           {% assign languages = '' | split: "; " %}
           {% for poem in site.data.poems_2016 %}
-          {% if poem.pagetype == 'submission '%}
+          {% if poem.pagetype == 'submission' %}
               {% assign new_language = poem.language | split: "; " %}
               {% for lang in new_language %}
                 {% assign languages = languages | push: lang %}
@@ -150,7 +150,7 @@ layout: default
               {% endfor %}
           {% endfor %}
           {% for poem in site.data.poems_2020 %}
-          {% if poem.pagetype == 'submission '%}
+          {% if poem.pagetype == 'submission' %}
               {% assign new_language = poem.language | split: "; " %}
               {% for lang in new_language %}
                 {% assign languages = languages | push: lang %}
