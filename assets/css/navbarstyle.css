@@ -11,24 +11,30 @@
 }
 
 @media screen and (max-width: 600px) {
-  .nav a:not(:first-child) {display: none;}
+  .nav-links li {display: none;}
   .nav a.icon {
     float: right;
     display: block;
+    margin: 20px;
   }
 }
 
 @media screen and (max-width: 600px) {
-  .nav.responsive {position: relative;}
+  .nav-links.responsive {
+  	position: relative;
+  	display: grid;
+  }
   .nav.responsive a.icon {
     position: absolute;
-    right: 0;
-    top: 0;
+    right: 0px;
+    top: 0px;
   }
-  .nav.responsive a {
+  .nav-links.responsive li {
     float: none;
-    display: block;
+    display: inline-block;
     text-align: left;
+    background-color: white;
+    justify-self: right;
   }
 }
 
