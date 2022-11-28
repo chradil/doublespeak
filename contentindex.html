@@ -26,9 +26,11 @@ layout: default
           {% for issues_hash in site.data.issues %}
             {% assign issues = issues_hash[1] %}
             {% for poem in issues %}
-              {% assign new_author = poem.author %}
-              {% assign authors = authors | push: new_author %}
-              {% endfor %}
+              {% if poem.pagetype == "submission" %}
+                {% assign new_author = poem.author %}
+                {% assign authors = authors | push: new_author %}
+              {% endif %}
+            {% endfor %}
           {% endfor %}
           {% assign sortedAuthors = authors | sort | uniq %}
         {% for aut in sortedAuthors %}
