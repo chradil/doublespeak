@@ -41,7 +41,7 @@ transpoem: "I live in the mountain. I have not seen another person in weeks, nor
   is no longer a forest, but windows and house after house, no whistling through the
   leaves, just the buzz of carts, the noise of countless feet.\nFar off, I hear a
   terrible scream. Who is that suffering?\nI run after the scream. And from the open
-  windows, I hear a roaring voice:\n‘Terrible! You men and women, you rotten people,
+  windows, I hear a roaring voice:\n’Terrible! You men and women, you rotten people,
   you are filthier than lizards. Your sins are as countless as sand on the beach.’
   – –\nI run on in fear. I go past a house filled with people. I see them sitting
   along the walls, they do not speak to each other, they do not smile at each other.\nAnd
@@ -50,38 +50,10 @@ transpoem: "I live in the mountain. I have not seen another person in weeks, nor
   and farther. I am filled with more and more fear. They do not speak to each other;
   they do not smile at each other. They flit about as if whipped, and from a small
   house I hear crying and sobbing, behind me they are crying, crying, crying…\nAnd
-  at last this all wells up inside me, at last I say: ‘They are mad! They are whipped
+  at last this all wells up inside me, at last I say: ’They are mad! They are whipped
   by their own shadow!’ I look them in the eye, see their expressions, see them rushing
-  and running about, and I say to myself: \n‘Yes, they are mad, they are mad!’"
-note: |-
-  <p>“The City” is a prose poem by Sigbjørn Obstfelder, the father of Norwegian modernist poetry. This poem is an exceptionally good example of his work because it depicts the anxiety of Norway’s transition from a rural, pastoral society to an industrialized, modern nation. We see a country-dwelling Norwegian decide to make his way into town for a wholesome reason, only to experience an anxiety attack similar to that portrayed in Munch’s <em>Scream</em>.</p>
-  <p>The work of Obstfelder is challenging to translate today because of the interlingual nature of late nineteenth-century Norway. Still a young nation at the time, Norway was heavily Danish but was emerging as modern Bokmål. Beyond that, stylistically, Obstfelder has a jerky, hyphenated style that says much with few words. The former reveals his nervous nature and the latter puts him firmly in the Norwegian tradition.</p>
-abio: |-
-  <p>Sigbjørn Obstfelder (21 November 1866–29 July 1900) was a nineteenth-century Norwegian writer, a close friend of Edvard Munch, an inspiration to Rainier Maria Rilke, and the father of modernist Norwegian poetry. His poem “Jeg Ser” is known by all Norwegians and mimics the sense of alienation depicted in Munch’s famous painting <em>The Scream.</em></p>
-  <p>In 1890, Obstfelder moved to Milwaukee, Wisconsin, but after only a year, he had a nervous breakdown and returned to Norway. After several years of moving around with the Norwegian intellectual scene, he died of tuberculosis at the age of thirty-three on the same day as the birth of his only child Lili.</p>
-tbio: "<p>Jordan Barger is a Philadelphia-based translator specializing in translations
-  from Norwegian and French. He has worked in Norway at the Ivar Aasen Center in Ørsta.
-  He translated Sigbjørn Obstfelder’s 1894 novel <em>The Cross</em>. His translations
-  can be found in the <em>Brooklyn Rail.</em></p>"
+  and running about, and I say to myself: \n’Yes, they are mad, they are mad!’"
 language: Norwegian
-lang: 'no'
-image: "/assets/images/images_21/obstfelder.JPG"
-imagecredit: photo by Jordan Barger
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1WeVl42HCzZ8lXreqeCRO-ZLkejwhAM6y/preview\">\n
-  \ </iframe>\n</div>\n"
-translaudio: |
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1-dCN-3h4BnkGKfmRexqdKPnnJvyN8g3s/preview">
-    </iframe>
-  </div>
-edition: '2021'
-pagetype: submission
 order: '19'
 layout: poempage
 collection: poems_2021

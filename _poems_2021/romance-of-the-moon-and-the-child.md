@@ -1,6 +1,6 @@
 ---
 pid: romance-of-the-moon-and-the-child
-title: Romance de la luna, luna.
+title: Romance de la luna, luna
 transtitle: Romance of the moon and the child
 author: Federico García Lorca
 translator: Darío Goldgel Carballo
@@ -34,51 +34,8 @@ transpoem: "The moon has flown down to the forge, \na dress of blossoms, white, 
   its song, its grieved fanfare! \nUp in the sky, the moon ascends \nnext to a child,
   his hand with hers.\n\nInside the forge, the gypsies moan, \ntheir voices cast cries
   of despair.\nA vigil keeps, the air with gloom, \na gloomy vigil keeps the air.\n"
-note: "<p>I read several English translations of this famous poem and always encountered
-  the same problem: the words of the poet are treated as a sacred material, and the
-  translator’s objective is to find the closest intelligible approximation. Yet here
-  Lorca combines both literary exquisiteness with a sort of childish nonsense (as
-  is the arbitrary repetition of some words), which conveys what I believe to be the
-  poem’s universality. Moreover, the octosyllabic verse is the traditional form of
-  the popular song in Spanish, and breaking it results in a text intended to be read
-  and not to be listened to. Perhaps out of stubbornness, I decided to keep the octosyllable.
-  However, as I felt this structure sounded too foreign in English, I rearranged it
-  into iambic tetrameter. Now, those familiar with Spanish may know it is quite verbose
-  as a language, so filling up some of those verses was a challenge. Sometimes I even
-  had the opposite problem as seen in the example of the word <em>olivar</em> (“field
-  of olive trees”). After accepting the limitations of the translation process, my
-  solution was either to heretically add my own words or to mutilate the text, so
-  I could preserve the musicality (<em>perdón, Federico</em>).</p>"
-abio: |
-  <p>Federico García Lorca (1898–1936) is perhaps the most renowned Spanish poet and playwright of the twentieth century and one of the main figures of the avant-garde in Spain. This poem, from his 1928 book <em>Romancero Gitano</em> (lit. <em>Gypsy Songbook</em>), combines the influence of classical poets from sixteenth-century Spain with the surrealist movement of its epoch. It also references the popular song from the subaltern classes of southern Spain and features a strong influence from its Arabic roots. As such, many of his poems (this one included) have been adapted as flamenco songs during the years.</p>
-  <p>A supporter of socialism, García Lorca was arrested and assassinated by fascists at the beginning of the Spanish Civil War.</p>
-tbio: "<p>Darío Goldgel Carballo is a PhD candidate in the romance languages department
-  at the University of Pennsylvania, where he analyzes movies no one will watch and
-  books no one will read in order to reflect on the social realities of Latin America.
-  Darío really hates writing his own biography, as he feels it sounds like boasting,
-  and will hope that <em>DoubleSpeak</em> is informal enough to forgive him. He has,
-  indeed, done some stuff in his life, but nothing that can trick the readers into
-  taking his translation more seriously.</p>"
 language: Spanish
-lang: es
-image:
-imagecredit:
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1H2SLjgNfAjNHDhwDXMunm2grSD0-XPtG/preview\">\n
-  \ </iframe>\n</div>\n"
-translaudio: |
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1tZ1srWJ1UXH7DVMGmfIQOUoSPyxOARkj/preview">
-    </iframe>
-  </div>
-edition: '2021'
-pagetype: submission
-order: '35'
+order: '38'
 layout: poempage
 collection: poems_2021
 ---

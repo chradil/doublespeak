@@ -1,5 +1,5 @@
-pid,title,transtitle,author,translator,poem,transpoem,language
-each-day-the-sun-slits-the-throat-of-its-former-self,chaque jour le soleil égorge son spectre,every day the sun slits the throat of its former self,Amina Saïd,Ashley Sniffen,"chaque jour le soleil égorge son spectre
+pid,transtitle,author,translator,poem,transpoem,language,,,,,,,,,
+chaque jour le soleil égorge son spectre,every day the sun slits the throat of its former self,Amina Saïd,Ashley Sniffen,"chaque jour le soleil égorge son spectre
 et se lève dans son sang
 
 tout commencement dessine un cercle
@@ -75,8 +75,8 @@ and we fall in love with the night
 because each night celebrates a dream’s wedding
 and we fall in love with the day
 because life begins with each day
-",French
-a-chain-verse,连环诗: 赏花归去,A Chain Verse,Su Shi (苏轼),"Gil Lehmann, Jacey Chang, and Yehudith Dashevsky ","                                    赏
+",French,,,,,,,,,
+连环诗: 赏花归去 ,A Chain Verse,Su Shi (苏轼),"Gil Lehmann, Jacey Chang, and Yehudith Dashevsky ","                                    赏
                             暮              花
                   已                                  归
          时                                                   去
@@ -116,8 +116,8 @@ When
  I woke, 
 it was already dusk,
 and I’ve come back from enjoying the flowers. 
-",Chinese
-shapes-in-sleep-eight-poems,Schlafgestalten: acht Gedichte,Shapes in Sleep: Eight Poems,Paul Celan,David Ting,"AUGENBLICKE, wessen Winke, 
+",Chinese,,,,,,,,,
+Schlafgestalten: acht Gedichte ,Shapes in Sleep: Eight Poems,Paul Celan,David Ting,"AUGENBLICKE, wessen Winke, 
 keine Helle schläft. 
 Unentworden, allerorten, 
 sammle dich, 
@@ -299,8 +299,8 @@ into what I know—
 
 I mourn.
 It infects you.
-",German
-come,Ven,Come,Christina Perri Rossi,Elizabeth Rose,"Ven. Ven desnuda y sigilosa 
+",German,,,,,,,,,
+Ven,Come,Christina Perri Rossi,Elizabeth Rose,"Ven. Ven desnuda y sigilosa 
 para que el domingo cruel 
 y su inútil noche 
 tengan sentido 
@@ -380,8 +380,8 @@ though I still don’t know
 a metaphor for you and me 
 perhaps an ancient melody  of the universe 
 before its decay.
-",Spanish
-choose,إختاري,Choose,Nizar Qabbani,Leah Baxter,"إني خيرتك فاختاري
+",Spanish,,,,,,,,,
+إختاري,Choose,Nizar Qabbani,Leah Baxter,"إني خيرتك فاختاري
 ما بين الموت على صدري.. 
 أو فوق دفاتر أشعاري..
 إختاري الحب.. أو اللاحب
@@ -456,8 +456,9 @@ between dying on my chest
 Or atop a notebook of my poetry.
 There can be no compromise
 between Paradise and Hellfire.
-",Arabic
-conversation-of-a-drunk-poetess-and-her-lover,Разговор пьяной поэтессы и ее нового любовника,Conversation between a drunk poetess and her lover,Yaroslav (Slava) Mogutin,Ryan Hardy,"— деревья вокруг растут,
+",Arabic,,,,,,,,,
+"Разговор
+пьяной поэтессы и ее нового любовника",Conversation between a drunk poetess and her lover,Yaroslav (Slava) Mogutin,Ryan Hardy,"— деревья вокруг растут,
 а я голая, пьяная, здоровая корова, поэтесса,
 ну что тут поделаешь?!
 сказать тебе мое имя?
@@ -525,8 +526,8 @@ When the element of choice is lost,
           you fit into the system
           and forget to think
 the season’s change is coming.
-",Russian
-listen,Послушайте!,Listen!,Vladimir Mayakovsky,Ryan Hardy,"Послушайте!
+",Russian,,,,,,,,,
+Послушайте!,Listen!,Vladimir Mayakovsky,Ryan Hardy,"Послушайте!
 Ведь, если звезды зажигают —
 значит — это кому-нибудь нужно?
 Значит — кто-то хочет, чтобы они были?
@@ -589,8 +590,8 @@ that every night,
 above the roofs,
 at least one star is set ablaze?!
 (1914)
-",Russian
-four-poems,Cuatro Poemas,Four Poems,Tamara Grosso,Claudia Nuñez de Ibieta,"Día 1  
+",Russian,,,,,,,,,
+Cuatro Poemas,Four Poems,Tamara Grosso,Claudia Nuñez de Ibieta,"Día 1  
 No te tengo miedo, 
 vi derrumbarse 
 cosas más imponentes 
@@ -724,8 +725,8 @@ found by anyone, for instance me
 at age thirteen, at fifteen
 when I didn’t know which books to buy
 when I lived in Ciudadela
-when I didn’t read poetry.",Spanish
-winter,冬,Winter,Kobayashi Issa ,Vanessa Hu,"初雪や                 
+when I didn’t read poetry.",Spanish,,,,,,,,,
+冬,Winter,Kobayashi Issa ,Vanessa Hu,"初雪や                 
 それは世にある         
 人の事
 
@@ -745,8 +746,8 @@ amongst the drifting leaves
 
 in pearls of hail 
 perhaps a nightjar 
-returns to the moon",Japanese
-the-sand-and-the-angel,La sabbia e l’angelo,The Sand and the Angel,Margherita Guidacci,Quinn Gruber,"I.
+returns to the moon",Japanese,,,,,,,,,
+La sabbia e l’angelo,The Sand and the Angel,Margherita Guidacci,Quinn Gruber,"I.
 Non occorrevano i templi in rovina sul limitare dei deserti,
 Con le colonne mozze e le gradinate che in nessun luogo conducono;
 Né i relitti insabbiati, le ossa biancheggianti lungo il mare;
@@ -878,8 +879,8 @@ Nor did the white light in which you walk unveiled at our side surprise us,
 Since for many years you alone we knew, you alone
 We obeyed, your destined prey,
 Dragging on the streets of the earth your strange celestial chain.
-",Italian
-to-a-black-dancer,A une danseuse noire,To a Black Dancer,David Diop,Samantha DeStefano,"Négresse ma chaude rumeur d’Afrique
+",Italian,,,,,,,,,
+A une danseuse noire,To a Black Dancer,David Diop,Samantha DeStefano,"Négresse ma chaude rumeur d’Afrique
 Ma terre d’énigme et mon fruit de raison
 Tu es danse par la joie nue de ton sourire
 Par l’offrande de tes seins et tes secrets pouvoirs
@@ -922,8 +923,8 @@ You are the idea of All and the voice of the Ancient.
 Gravely hurled to attack chimeras
 You are the Word that explodes
 In miraculous bursts on the coasts of oblivion.
-",French
-onlooker,瞭望者,Onlooker,Yan An,Chen Du and Xisheng Chen,"戴宽边草帽的瞭望者
+",French,,,,,,,,,
+瞭望者,Onlooker,Yan An,Chen Du and Xisheng Chen,"戴宽边草帽的瞭望者
 他的可疑的行程    在夏天的北方
 走向高潮    他的忽而被群峰突出
 忽而又被幽暗的峡谷藏匿的行程
@@ -957,8 +958,8 @@ It is when a truck faster than a river rushes by
 That I behold the onlooker, his bewilderment
 Unconcealable by the shadow under his broad-brimmed straw hat
 And his abruptly stopped journey
-With an apex mingled with slight abjection",Chinese
-sleeping-with-a-mirror,和镜子睡在一起,Sleeping with a Mirror,Yan An,Chen Du and Xisheng Chen,"一只白天鹅
+With an apex mingled with slight abjection",Chinese,,,,,,,,,
+和镜子睡在一起,Sleeping with a Mirror,Yan An,Chen Du and Xisheng Chen,"一只白天鹅
 （也许仅仅是一个类似的白乎乎的事物）
 和它的不太真实的白
 在秋天的天池里
@@ -1015,8 +1016,8 @@ With nowhere to rest
 And with certain indescribable melancholy
 In the homeland’s dreams and mine tonight
 Are sleeping with the northern mountains
-",Chinese
-the-butterfly-june-4th-1942,Der Schmetterling — 4. Juni 1942,"The Butterfly - June 4th, 1942 ",Pavel Friedmann ,Karina Carreras,"Der letzte war’s der aller allerletzte
+",Chinese,,,,,,,,,
+Der Schmetterling — 4. Juni 1942 ,"The Butterfly - June 4th, 1942 ",Pavel Friedmann ,Karina Carreras,"Der letzte war’s der aller allerletzte
 der satt und bitter blendend grelle
 vielleicht wenn eine Sonnenträne irgendwo auf 
                                 weißem Stein erklingt 
@@ -1061,8 +1062,8 @@ near the white branch of the chestnut tree in the court
 that was surely the last, the very last
 Butterflies don’t live here
 
-                                                                in the ghetto.",German
-verb,Verbo,Verb,Pablo Neruda,Heta Patel,"Voy a arrugar esta palabra, 
+                                                                in the ghetto.",German,,,,,,,,,
+Verbo,Verb,Pablo Neruda,Heta Patel,"Voy a arrugar esta palabra, 
 voy a torcerla, 
 sí,
 es demasiado lisa, 
@@ -1109,8 +1110,8 @@ I want to feel the darkness
 of the cry. I want 
 words as rough 
 as virgin rocks. 
-",Spanish
-two-poems-by-qasmuna-bint-ismail,Two Poems by Qasmūna bint Ismāʿil,Two Poems by Qasmūna bint Ismāʿil,Qasmūna bint Ismāʿil,Maria Dahvana Headley ,"I.
+",Spanish,,,,,,,,,
+Two Poems by Qasmūna bint Ismāʿil,Two Poems by Qasmūna bint Ismāʿil,Qasmūna bint Ismāʿil,Maria Dahvana Headley ,"I.
 Yā ẓabyatan tarʿa bi-rawdin dāʾiman
 innī ḥakaitu-ki fi-ttawaḥḥushi wa-l-ḥawari.
 Amsâ kilā-nā mufradan ʿan ṣāḥibin
@@ -1134,8 +1135,8 @@ The garden is filled with fruit on the vines, but the gardener
 refuses to brush a finger over the skin of even one piece.
 How sad it is! The season of splendor passes,
 and the fruit that ripens only in darkness
-Remains lonely. ",Arabic
-from-what-mistake,어떤 과오로부터,"""From what mistake""",Kim Soon Mi,Nadia Park,"어떤 과오로부터
+Remains lonely. ",Arabic,,,,,,,,,
+어떤 과오로부터,"""From what mistake""",Kim Soon Mi,Nadia Park,"어떤 과오로부터
 어떤 환희로부터
 너희들은 왔는가
 가볍고 무거운 물새들의 몸
@@ -1166,8 +1167,8 @@ eyes closed.
 But need to go
 must go
 to a home 
-already gone.",Korean
-like-an-illusion-a-poet-and-a-translator,환영처럼 시가,"Like an illusion, poetry",Kim Soon Mi,Nadia Park,"오월이 왔을 때
+already gone.",Korean,,,,,,,,,
+환영처럼 시가,"Like an illusion, poetry",Kim Soon Mi,Nadia Park,"오월이 왔을 때
 환영처럼 
 시가 걸어 오는 모습이 보였다
 시낭송이 이어진 후
@@ -1189,8 +1190,8 @@ the old persimmon tree.
 Then amid the sorghum field,
 I saw the poet’s silhouette.
 My heart pounded,
-as though poetry had arrived.",Korean
-xxv,XXV.,XXV.,Osip Mandelstam,Elizabeth Balabayev,"Возьми на радость из моих ладоней
+as though poetry had arrived.",Korean,,,,,,,,,
+XXV.,XXV.,Osip Mandelstam,Elizabeth Balabayev,"Возьми на радость из моих ладоней
 Немного солнца и немного меда,
 Как нам велели пчелы Персефоны.
 
@@ -1232,8 +1233,8 @@ A plain necklace of her dried bees,
 Honey transformed into light. 
 
 1920
-Osip Mandelstam",Russian
-the-city,Byen,The City,Sigbjørn Obstfelder,Jordan Barger,"Jeg bor i fjeldet. I uger har jeg ikke set et menneske, ikke hørt min egen røst. Jeg hører mig selv tænke, mens tjernet skvulper. 
+Osip Mandelstam",Russian,,,,,,,,,
+Byen,The City,Sigbjørn Obstfelder,Jordan Barger,"Jeg bor i fjeldet. I uger har jeg ikke set et menneske, ikke hørt min egen røst. Jeg hører mig selv tænke, mens tjernet skvulper. 
 Røde skyer drager forbi. Det mørknes, fjeldvandet blir sort, lommen skriger. 
 Der farer en angst igjennem mig. Hvor er de nu alle? Hvad gjør de? Lever de end nu? Lever mine brødre, menneskene?
 Og fjeldet blir pludselig så isnende koldt. Det har intet hjerte. 
@@ -1263,8 +1264,8 @@ And I am filled with more and more fear. I go past a dance-joint teeming with me
 Are these my brothers, these people?
 I ran farther and farther. I am filled with more and more fear. They do not speak to each other; they do not smile at each other. They flit about as if whipped, and from a small house I hear crying and sobbing, behind me they are crying, crying, crying…
 And at last this all wells up inside me, at last I say: ’They are mad! They are whipped by their own shadow!’ I look them in the eye, see their expressions, see them rushing and running about, and I say to myself: 
-’Yes, they are mad, they are mad!’",Norwegian
-epitaph-for-when-i-die,Epitaphe Quand Je Mourrai,Epitaph For When I Die,Mariama Ndiaye,Donnisa Edmonds,"Quand je mourrai,
+’Yes, they are mad, they are mad!’",Norwegian,,,,,,,,,
+Epitaphe Quand Je Mourrai,Epitaph For When I Die,Mariama Ndiaye,Donnisa Edmonds,"Quand je mourrai,
 Ne pleurez pas
 Il faudra blanchir vos dents
 Il faudra prier pour que je vous quitte!
@@ -1329,8 +1330,8 @@ When I die
 Never forget me,
 I will dedicate to you the other poems in my tomb
 Because in the kingdom of heaven I will continue
-To write for you.",French
-women,Femmes,Women ,Mariama Ndiaye,Donnisa Edmonds,"A toute mes soeurs qui souffrent loin de moi 
+To write for you.",French,,,,,,,,,
+Femmes ,Women ,Mariama Ndiaye,Donnisa Edmonds,"A toute mes soeurs qui souffrent loin de moi 
 
 Femmes africaines !
 Femmes de savanes et de la steppe ! 
@@ -1386,8 +1387,8 @@ I will participate in your mockery/sham simulacrum/false representation/ poor im
 Of combat, and I will cry: 
 
 LONG LIVE THE LIBERATED AFRICA! 
-",French
-wild-grass,《野草》题辞 ,Wild Grass,Lu Xun (鲁迅),Chardonnay Needler,"当我沉默着的时候，我觉得充实；我将开口，同时感到空虚 。 
+",French,,,,,,,,,
+《野草》题辞 ,Wild Grass,Lu Xun (鲁迅),Chardonnay Needler,"当我沉默着的时候，我觉得充实；我将开口，同时感到空虚 。 
 
 过去的生命已经死亡。我对于这死亡有大欢喜，因为我借此知道它曾经存活。死亡的生命已经朽腐。我对于这朽腐有大欢喜，因为我借此知道它还非空虚。 
 生命的泥委弃在地面上，不生乔木，只生野草，这是我的罪过。 
@@ -1469,8 +1470,8 @@ found by anyone, for instance me
 at age thirteen, at fifteen
 when I didn't know which books to buy
 when I lived in Ciudadela
-when I didn't read poetry.",Chinese
-eclipse,Eclipse ,Eclipse ,Carlos de Assumpção ,Pedro Lino,"Olho no espelho 
+when I didn't read poetry.",Chinese,,,,,,,,,
+Eclipse ,Eclipse ,Carlos de Assumpção ,Pedro Lino,"Olho no espelho 
 E não me vejo
 Não sou eu 
 Quem está la
@@ -1563,8 +1564,8 @@ at the seaside
 
 Gentlemen! Someday, however,
 I hope to find myself once again
-",Portuguese
-transfigured-night,Verklärte Nacht,Transfigured Night,Richard Dehmel,Jonathan Iwry,"Zwei Menschen gehn durch kahlen, kalten Hain;
+",Portuguese,,,,,,,,,
+Verklärte Nacht,Transfigured Night,Richard Dehmel,Jonathan Iwry,"Zwei Menschen gehn durch kahlen, kalten Hain;
 der Mond läuft mit, sie schaun hinein.
 Der Mond läuft über hohe Eichen;
 kein Wölkchen trübt das Himmelslicht,
@@ -1644,8 +1645,8 @@ That glow upon me you invite;
 You’ve filled me with a child’s delight.”
 His arm around her sturdy hips, 
 Their breaths upon each other’s lips, 
-Two people walk the high, bright night.",German
-declines-of-the-monologue,Declinaciones del monólogo,Declines of the monologue,Eunice Odio,Couloir Hanson ,"I
+Two people walk the high, bright night.",German,,,,,,,,,
+Declinaciones del monólogo,Declines of the monologue,Eunice Odio,Couloir Hanson ,"I
 Estoy sola,
 muy sola,
 entre mi cintura y mi vestido,
@@ -1752,8 +1753,8 @@ and I won’t be
 lightly arched over my heart, to see it.
 and I won’t have to go and leave my great voice,
 and my high heart
-of stone in bloom.",Spanish
-a-letter-of-menakhem-mendl,מכתב ש מנחם-מנדל,A Letter of Menakhem-Mendl,Nathan Alterman,Dan Ben-Amos,"שינה שינדל שלי, זוגתי היפה,
+of stone in bloom.",Spanish,,,,,,,,,
+ מכתב ש מנחם-מנדל,A Letter of Menakhem-Mendl,Nathan Alterman,Dan Ben-Amos,"שינה שינדל שלי, זוגתי היפה,
 בין עבים הלבנה נוגהת.
 שינה שינדל שלי, דרך ליל וסופה
 בראשי החולם את נוגעת.
@@ -1881,8 +1882,8 @@ That like me in the snow wallow.
 Through storm and night, Sheyne Sheyndl, 
 My murdered head you are gently patting. 
 My lovely wife Sheyne-Sheyndl,
-In heaven the moon is shining.",Hebrew
-i-want-to-live-with-you,Я бы хотела жить с Вами,I want to live with you ,Marina Tsvetaeva ,Wenhan Zhang,"…Я бы хотела жить с Вами
+In heaven the moon is shining.",Hebrew,,,,,,,,,
+Я бы хотела жить с Вами,I want to live with you ,Marina Tsvetaeva ,Wenhan Zhang,"…Я бы хотела жить с Вами
 В маленьком городе,
 Где вечные сумерки
 И вечные колокола.
@@ -1934,8 +1935,8 @@ The embers of your cigarette glow and then dim,
 And for a long, long time the cigarette trembles at its edge, trembling. 
 Short, gray, white ashes,
 that you’re too lazy to flick.
-And then the cigarette flies, dancing into the fire.",Russian
-some-later-day,먼 후일,Some Later Day,Kim Sowol (김소월),Younghoon Jeong and Saagar Asnani,"먼 훗날 당신이 찾으시면
+And then the cigarette flies, dancing into the fire.",Russian,,,,,,,,,
+먼 후일,Some Later Day,Kim Sowol (김소월),Younghoon Jeong and Saagar Asnani,"먼 훗날 당신이 찾으시면
 그때에 내 말이 잊었노라.
 
 당신이 속으로 나무라면
@@ -1955,8 +1956,8 @@ If you would still insist on blaming me,
 “Since I could not accept it, I forgot.”
 
 I, neither today nor the day before,
-But on that distant future day, forgot.",Korean
-maybe-its-clarity,Forse la trasparenza,Maybe it’s clarity,Filippo Vignali,Giulia Rupi and John Sherer,"Forse la trasparenza o la capacità di rendere bella
+But on that distant future day, forgot.",Korean,,,,,,,,,
+Forse la trasparenza,Maybe it’s clarity,Filippo Vignali,Giulia Rupi and John Sherer,"Forse la trasparenza o la capacità di rendere bella
 la luce che lo attraversa anche quando è scarsa.
 La prima caratteristica
 che ti verrebbe in mente per definire il cristallo
@@ -1982,8 +1983,8 @@ only when it flows far from the land of the indifferent.
 Innocence can be built,
 polished to a crystal’s purity;
 it can be young or old
-as long as enough venom has been tasted.",Italian
-can-we-keep-quiet,Riusciamo a fare silenzio,Can we keep quiet,Filippo Vignali,Giulia Rupi and John Sherer,"Riusciamo a fare silenzio
+as long as enough venom has been tasted.",Italian,,,,,,,,,
+Riusciamo a fare silenzio,Can we keep quiet,Filippo Vignali,Giulia Rupi and John Sherer,"Riusciamo a fare silenzio
 e a metterci in ascolto dei corpi?
 Ci parlano di simmetrie, incastri
 navi che ritrovano la costa
@@ -2009,8 +2010,8 @@ we should give in to with confidence:
 how a hug props us up
 a caress heals us
 how our tides are moved
-by the half-moon of a true smile.",Italian
-i-see-my-father-crying,Vedo mio padre piangere,I see my father crying,Filippo Vignali,Giulia Rupi and John Sherer,"Vedo mio padre piangere,
+by the half-moon of a true smile.",Italian,,,,,,,,,
+Vedo mio padre piangere,I see my father crying,Filippo Vignali,Giulia Rupi and John Sherer,"Vedo mio padre piangere,
 sciogliersi sotto quella pioggia.
 Bastioni che cadono
 bombe che implodono
@@ -2039,8 +2040,8 @@ monument to the prudence
 of not splitting apart and taking back sentences
 so as to let out something
 more polite
-but less true.",Italian
-millibars-of-the-storm,Millibars de l’orage,Millibars of the storm ,Aimé Césaire,Sue Jia,"N’apaisons pas le jour et sortons la face nue face aux pays inconnus qui coupent aux oiseaux leur sifflet
+but less true.",Italian,,,,,,,,,
+Millibars de l’orage,Millibars of the storm ,Aimé Césaire,Sue Jia,"N’apaisons pas le jour et sortons la face nue face aux pays inconnus qui coupent aux oiseaux leur sifflet
 le guet-apens s’ouvre le long d’un bruit de confins de planètes.
 ne fais pas attention aux chenilles qui tissent souple mais seulement aux millibars qui se plantent dans le mille d’un orage
 à délivrer l’espace où se hérissent le coeur des choses et la venue de l’homme
@@ -2054,8 +2055,8 @@ to set free the space where the heart of things and the advent of humankind bris
 
 Dream we do not soothe
 in the stampedes of the mad steeds
-a sound of tears fumbling towards the immense wing of eyelids",French
-if-heritage-were-called-hither-air,Wenn Die Herkunft Herluft Hiesse,If Heritage Were Called Hither-Air,Marica Bodrožić,Qingyang Zhou,"Wenn die Herkunft Herluft hiesse,
+a sound of tears fumbling towards the immense wing of eyelids",French,,,,,,,,,
+Wenn Die Herkunft Herluft Hiesse,If Heritage Were Called Hither-Air,Marica Bodrožić,Qingyang Zhou,"Wenn die Herkunft Herluft hiesse,
 könnte ich sagen,
 ich sei ein Mensch aus Wolken, könnte ich sagen,
 ich sei ein Gebiet des Wetters und niemand störte
@@ -2119,8 +2120,8 @@ Preferably I would have given my name
 To the guard, so jaunty and joyful was I.
 But the man said, keep it, it will help you,
 Move here and there, with shoes or without, with your
-Feet and the quest of the soul.",German
-the-greatest-ink,La Mejor Tinta,The Greatest Ink,Armando Valladares,Margaret Lawlace,"Me lo han quitado todo
+Feet and the quest of the soul.",German,,,,,,,,,
+La Mejor Tinta,The Greatest Ink,Armando Valladares,Margaret Lawlace,"Me lo han quitado todo
 las plumas
 los lápices
 la tinta
@@ -2165,8 +2166,8 @@ but here is the ink of life —
 my own blood —
 and thus I write my verses still.
 
-*Original written with my blood and a splinter of wood in April 1981 in the cells of the East Combined Prison in Havana.",Spanish
-khun-chang-khun-phaen-book-4-the-affair-of-phlai-kaew-and-nang-phim,ขุนช้างขุนแผน ตอนที่ 4 พลายแก้วเป็นชู้กับนางพิม,"Khun Chang Khun Phaen
+*Original written with my blood and a splinter of wood in April 1981 in the cells of the East Combined Prison in Havana.",Spanish,,,,,,,,,
+ขุนช้างขุนแผน ตอนที่ 4 พลายแก้วเป็นชู้กับนางพิม,"Khun Chang Khun Phaen
 Book 4: The Affair of Phlai Kaew and Nang Phim",King Rama II,Peeriya Pongsarigun and John Viano ,"ครานั้นจึงโฉมเจ้าพลายแก้ว                ไปวัดคํ่าแล้วหาบวชไม่
 คอยดูฤกษ์เวลาจะคลาไคล                        ประมาณได้สักสองยามปลาย
 ดวงเดือนเลื่อนเด่นดาวระยับ                ยืนขยับเพ่งพิศเมฆฉาย
@@ -2204,8 +2205,8 @@ The sky turns black and come the heavy storms
 With rain sloshing and scouring
 Like the first rain that God had given
 Lashing at the earth and the heavens
-",Thai
-lilies,Krinovi,Lilies,Mak Dizdar,Emma Arsekin,"U polju i u gori bijeli krinovi procvali
+",Thai,,,,,,,,,
+Krinovi,Lilies,Mak Dizdar,Emma Arsekin,"U polju i u gori bijeli krinovi procvali
 
 Po polju i gori krin kao da nešto zbori
 Po gori i dolu svaki krin
@@ -2269,8 +2270,8 @@ Treaded
 In search of white flowers
 
 (1966)
-",Bosnian
-eternity,L’Éternité,Eternity,Arthur Rimbaud,Keshav Sharma ,"Elle est retrouvée.
+",Bosnian,,,,,,,,,
+L’Éternité,Eternity,Arthur Rimbaud,Keshav Sharma ,"Elle est retrouvée.
 Quoi? — L’Éternité.
 C’est la mer allée
 Avec le soleil.
@@ -2328,8 +2329,8 @@ It is found again.
 What? — Eternity.
 ’Tis the sea that pursues
 The sun’s infinity. 
-",French
-romance-of-the-moon-and-the-child,"Romance de la luna, luna",Romance of the moon and the child,Federico García Lorca,Darío Goldgel Carballo,"La luna vino a la fragua  
+",French,,,,,,,,,
+"Romance de la luna, luna.",Romance of the moon and the child.,Federico García Lorca,Darío Goldgel Carballo,"La luna vino a la fragua  
 con su polisón de nardos.  
 El niño la mira, mira. 
 El niño la está mirando.  
@@ -2416,8 +2417,8 @@ Inside the forge, the gypsies moan,
 their voices cast cries of despair.
 A vigil keeps, the air with gloom, 
 a gloomy vigil keeps the air.
-",Spanish
-diary-of-the-lockdown-lifted,开封日记,Diary of the Lockdown Lifted,Zhang Zhihao (张执浩),"<em>DoubleSpeak</em> Staff
+",Spanish,,,,,,,,,
+开封日记,Diary of the Lockdown Lifted,Zhang Zhihao (张执浩),"<em>DoubleSpeak</em> Staff
 Zhiqiao (Kate) Jiang and Liwa Sun","重复生活的危险性
 就在于记忆容易被消磁
 我已经不记得昨天的事了
@@ -2436,8 +2437,7 @@ Zhiqiao (Kate) Jiang and Liwa Sun","重复生活的危险性
 我会站起身来
 奔过去
 与他相拥而泣
-2020-4-7
-","The danger of life repeating itself
+2020-4-7","The danger of life repeating itself
 is that memory is prone to degaussing
 I already do not remember what happened yesterday
 as if yesterday did not exist
@@ -2456,8 +2456,8 @@ I’ll get on my feet
 run over to him
 and embrace him with tears
 4/7/2020
-",Chinese; English
-tagebuch-vom-ende-der-quarantäne,Il diario della fine della quarantena,Tagebuch vom Ende der Quarantäne,Quinn Gruber,Couloir Hanson,"È pericoloso quando la vita si ripete:
+",Chinese; English,,,,,,,,,
+Il diario della fine della quarantena,Tagebuch vom Ende der Quarantäne,Quinn Gruber,Couloir Hanson,"È pericoloso quando la vita si ripete:
 la memoria potrebbe diventare smagnetizzata.
 Non mi ricordo quello che è successo ieri —
 come se ieri non fosse mai.
@@ -2494,8 +2494,8 @@ Er kommt näher
 Und ich stehe,
 Lauf zu ihm rüber
 Und umarme ihn mit gemeinsamen Tränen.
-",Italian; German
-stær-coðuloca,監禁の日記,Stær coðuloca,Chardonnay Needler,Quinn Gruber,"生活を繰り返す危険性
+",Italian; German,,,,,,,,,
+監禁の日記,Stær coðuloca,Chardonnay Needler,Quinn Gruber,"生活を繰り返す危険性
 記憶は消磁されやすいからです
 昨日のことはもう覚えていない
 昨日の存在じゃないいみたいに
@@ -2552,8 +2552,8 @@ min nidgestella
 ic ætforan hine on feðe
 und hine ic ætfeole 
 ic tearighleor.
-",Japanese; Old English
-le-journal-d-un-confinement-Cessé,Diário do final da quarentena,Le Journal d’un Confinement Cessé,Couloir Hanson,"Chardonnay Needler, Ashley Sniffen, and Liwa Sun","O perigo de repetir a vida é
+",Japanese; Old English,,,,,,,,,
+Diário do final da quarentena,Le Journal d’un Confinement Cessé,Couloir Hanson,"Chardonnay Needler, Ashley Sniffen, and Liwa Sun","O perigo de repetir a vida é
 que a memória pode ser desemaranhada.
 Não consigo me lembrar o que aconteceu ontem —
 como se não existisse. 
@@ -2588,8 +2588,8 @@ Quand il est avancé
 J’ai pu me lever
 Fuir là-bas
 Lui embrasser et pleurer
-7/4/2020",Portuguese; French
-diario-del-encierro-levantado ,Дневник снятого локдауна,Diario del encierro levantado ,Ryan Hardy,Heta Patel and Couloir Hanson,"Опасность жизни повторяется себя:
+7/4/2020",Portuguese; French,,,,,,,,,
+Дневник снятого локдауна,Diario del encierro levantado ,Ryan Hardy,Heta Patel and Couloir Hanson,"Опасность жизни повторяется себя:
 Память может быть размагнита.
 Не помню, что случилось вчера -- 
 как будто она никогда не существовала.
@@ -2626,4 +2626,51 @@ se acercó a mí.
 Me puse de pie,
 corrí hacia él
 y lo abracé con lágrimas compartidas.
-7/4/2020",Russian; Spanish
+7/4/2020",Russian; Spanish,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,English,en,none,,,2021
+,,,,,,,,,,English,en,none,,,2021
