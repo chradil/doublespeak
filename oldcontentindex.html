@@ -1,0 +1,216 @@
+---
+layout: default
+---
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/indexstyle.css">
+    
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+  </head>
+
+   <title>index</title>
+
+<body>
+  {% include navbar.html %}
+  <div class="index">
+    <h1>index</h1>
+    <p class="index-p">Here, you can find lists of all the authors, translators, and languages featured so far in <em>DoubleSpeak</em>.</p>
+    <div class="dropdown">
+    <button class="dropdown" onclick="myFunction(1)">authors &#8964;</button>
+      <div class="dropdown-content" id="dropdown1">
+        <ul class="content-u">
+          {% assign authors = '' | split: ", " %}
+          {% for poem in site.data.poems_2016 %}
+            {% assign new_author = poem.author %}
+            {% assign authors = authors | push: new_author %}
+          {% endfor %}
+          {% for poem in site.data.poems_2017 %}
+            {% assign new_author = poem.author %}
+            {% assign authors = authors | push: new_author %}
+          {% endfor %}
+          {% for poem in site.data.poems_2018 %}
+            {% assign new_author = poem.author %}
+            {% assign authors = authors | push: new_author %}
+          {% endfor %}
+          {% for poem in site.data.poems_2019 %}
+            {% assign new_author = poem.author %}
+            {% assign authors = authors | push: new_author %}
+          {% endfor %}
+          {% for poem in site.data.poems_2020 %}
+          {% if poem.pagetype == 'submission'%}
+            {% assign new_author = poem.author %}
+            {% assign authors = authors | push: new_author %}
+            {% endif %}
+          {% endfor %}
+          {% for poem in site.data.poems_2021 %}
+            {% assign new_author = poem.author %}
+            {% assign authors = authors | push: new_author %}
+          {% endfor %}
+          {% for poem in site.data.poems_2022 %}
+              {% assign new_author = poem.author %}
+              {% assign authors = authors | push: new_author %}
+          {% endfor %}
+          {% assign sortedAuthors = authors | sort | uniq %}
+        {% for aut in sortedAuthors %}
+          <li class="content-l"><a href="{{site.baseurl}}/author_tags/{{aut | slugify: 'latin' | replace: '-','_' }}">{{ aut }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+    <br>
+    <div class="dropdown">
+    <button class="dropdown" onclick="myFunction(2)">translators &#8964;</button>
+      <div class="dropdown-content" id="dropdown2">
+        <ul class="content-u">
+          {% assign translators = '' | split: ", " %}
+          {% for poem in site.data.poems_2016 %}
+            {% if poem.pagetype == "submission" %}
+              {% assign new_translator = poem.translator %}
+              {% assign translators = translators | push: new_translator %}
+            {% endif %}
+          {% endfor %}
+          {% for poem in site.data.poems_2017 %}
+          {% if poem.pagetype == "submission" %}
+            {% assign new_translator = poem.translator %}
+            {% assign translators = translators | push: new_translator %}
+          {% endif %}
+          {% endfor %}
+          {% for poem in site.data.poems_2018 %}
+          {% if poem.pagetype == "submission" %}
+            {% assign new_translator = poem.translator %}
+            {% assign translators = translators | push: new_translator %}
+          {% endif %}
+          {% endfor %}
+          {% for poem in site.data.poems_2019 %}
+          {% if poem.pagetype == "submission" %}
+            {% assign new_translator = poem.translator %}
+            {% assign translators = translators | push: new_translator %}
+          {% endif %}
+          {% endfor %}
+          {% for poem in site.data.poems_2020 %}
+            {% if poem.pagetype == "submission" %}
+              {% assign new_translator = poem.translator %}
+              {% assign translators = translators | push: new_translator %}
+            {% endif %}
+          {% endfor %}
+          {% for poem in site.data.poems_2021 %}
+            {% if poem.pagetype == "submission" %}
+              {% assign new_translator = poem.translator %}
+              {% assign translators = translators | push: new_translator %}
+            {% endif %}
+          {% endfor %}
+          {% for poem in site.data.poems_2022 %}
+            {% if poem.pagetype == "submission" %}
+              {% assign new_translator = poem.translator %}
+              {% assign translators = translators | push: new_translator %}
+            {% endif %}
+          {% endfor %}
+          {% assign sortedtranslators = translators | sort | uniq %}
+        {% for trans in sortedtranslators %}
+        <li class="content-l"><a href="{{site.baseurl}}/translator_tags/{{trans | slugify: 'latin' | replace: '-','_' }}">{{trans}}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+      </div>
+    </div>
+    <br>
+    <div class="dropdown">
+    <button class="dropdown" onclick="myFunction(3)">languages &#8964;</button>
+      <div class="dropdown-content" id="dropdown3">
+        <div class="language">
+        <ul class="language-u">
+          {% assign languages = '' | split: "; " %}
+          {% for poem in site.data.poems_2016 %}
+          {% if poem.pagetype == 'submission' %}
+              {% assign new_language = poem.language | split: "; " %}
+              {% for lang in new_language %}
+                {% assign languages = languages | push: lang %}
+              {% endfor %}
+              {% endif %}
+          {% endfor %}
+          {% for poem in site.data.poems_2017 %}
+              {% assign new_language = poem.language | split: "; " %}
+              {% for lang in new_language %}
+                {% assign languages = languages | push: lang %}
+              {% endfor %}
+          {% endfor %}
+          {% for poem in site.data.poems_2018 %}
+              {% assign new_language = poem.language  | split:"," %}
+              {% for lang in new_language %}
+                {% assign languages = languages | push: lang %}
+              {% endfor %}
+          {% endfor %}
+          {% for poem in site.data.poems_2019 %}
+              {% assign new_language = poem.language  | split: "; " %}
+              {% for lang in new_language %}
+                {% assign languages = languages | push: lang %}
+              {% endfor %}
+          {% endfor %}
+          {% for poem in site.data.poems_2020 %}
+          {% if poem.pagetype == 'submission' %}
+              {% assign new_language = poem.language | split: "; " %}
+              {% for lang in new_language %}
+                {% assign languages = languages | push: lang %}
+              {% endfor %}
+              {% endif %}
+              {% endfor %}
+          {% for poem in site.data.poems_2021 %}
+              {% assign new_language = poem.language  | split: "; " %}
+              {% for lang in new_language %}
+                {% assign languages = languages | push: lang %}
+              {% endfor %}
+          {% endfor %}
+          {% for poem in site.data.poems_2022 %}
+              {% assign new_language = poem.language  | split: "; " %}
+              {% for lang in new_language %}
+                {% assign languages = languages | push: lang %}
+              {% endfor %}
+          {% endfor %}
+          {% assign sortedlanguages = languages | sort | uniq %}
+        {% for lang in sortedlanguages %}
+        <li class="language-l"><a href="{{site.baseurl}}/language_tags/{{lang | slugify: 'latin' | replace: '-','_'}}">{{lang}}</a></li>
+        {% endfor %}
+        </ul>
+        </div>
+      </div>
+    </div>
+    </div>
+    <br>
+  </div>
+  <!-- so the dropdowns work! the only thing is that now the buttons close if you click anywhere EXCEPT the button, but it would be nice to have the button also close when you click on it again -->
+  <script>
+let closeDropdown = function() {
+
+}
+function myFunction(num) {
+  closeDropdown();
+  let el = document.getElementById("dropdown" + num);  
+  if (el) {
+    el.classList.toggle("show");
+    closeDropdown = function() {
+        el.classList.remove("show");
+    }
+  } else {
+    closeDropdown = function() {
+    }
+  }
+}
+window.onclick = function(event) {
+  if (!event.target.matches('.dropdown')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+</body>
+<html>
+
