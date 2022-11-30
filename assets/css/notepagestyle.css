@@ -425,16 +425,17 @@ h1 {
 }
 
 .previouslink {
-	position: fixed;
+	/*position: fixed;
 	padding: 0px 5px 0px 5px;
 	bottom: 0;
-	left: -10px;
+	left: -10px;*/
+	float:left;
 }
 
 .previouslink a {
 	display: inline-block;
 	padding: 10px;
-	color: black;
+	color: black!important;
 	text-decoration: none;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
@@ -452,25 +453,26 @@ h1 {
 }
 
 .nextlink {
-	position: fixed;
+	/*position: fixed;
 	bottom: 0;
-	right: 0;
+	right: 0;*/
 }
 
 .nextlink a {
 	display: inline-block;
 	padding: 10px;
-	color: black;
+	color: black!important;
 	text-decoration: none;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 18px;
 	line-height: 20px;
-	margin-top: 0px;
+	align-self: flex-end;
+	/*margin-top: 0px;
 	margin-bottom: 30px;
 	margin-left: 40px;
-	margin-right: 30px;
+	margin-right: 30px;*/
 }
 
 .nextlink a:hover {
@@ -802,3 +804,9 @@ p:lang(ka), pre:lang(ka) {
 	line-height: 20px;
   }
 /* end language code */
+.previous-next-buttons {
+    align-items: flex-end;
+		flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+}

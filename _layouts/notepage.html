@@ -27,6 +27,37 @@ layout: default
     </div>
   </div>
   <br>
+
+{% assign path = "poems_" | append: page.edition %}
+
+{% for pg in site.data[path] %}
+
+      {% if pg.pid == page.pid %}
+
+          {% assign nextIndex = forloop.index | plus: 1 %}
+          {% assign thisIndex = forloop.index %}
+        {% endif %}
+      {% assign endLength = forloop.length %}
+
+{% endfor %}
+
+{% for pg in site.data[path] %}
+
+         {% if forloop.index == nextIndex %}
+  
+          {% assign nextPage = pg.pid %}
+
+        {% endif %}
+
+
+
+
+{% endfor %}
+<div class='flex-container'>
+<div class="previous-next-buttons"
+  <div class="previous-next-buttons__nav" style="float:left;align-self:flex-end;">
+    <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{page.pid}}"><  &nbsp; previous</a></p>
+  </div>
   <div class="container">
       <div class="note">
         <h1>{{page.translator}}</h1> <br>
@@ -57,44 +88,17 @@ layout: default
    
       {% endunless %}
   </div>
-   <div class="lineart">
-          <img class="line" style="margin: -100px -100px 0 0;" src="{{site.baseurl}}/assets/images/line 2022.svg"/>
-        </div>
-
-{% assign path = "poems_" | append: page.edition %}
-
-{% for pg in site.data[path] %}
-
-      {% if pg.pid == page.pid %}
-
-          {% assign nextIndex = forloop.index | plus: 1 %}
-          {% assign thisIndex = forloop.index %}
-        {% endif %}
-      {% assign endLength = forloop.length %}
-
-{% endfor %}
-
-{% for pg in site.data[path] %}
-
-         {% if forloop.index == nextIndex %}
-  
-          {% assign nextPage = pg.pid %}
-
-        {% endif %}
-
-
-
-
-{% endfor %}
-  <div class="previouslink">
-    <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{page.pid}}"><  &nbsp; previous</a></p>
+  <div class="previous-next-buttons" style="align-self:flex-end;">
+{% if thisIndex == endLength %}
+  <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/copyright{{page.edition}}">next &nbsp; ></a></p>
+{% else %}
+  <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"> next &nbsp; ></a></p>
+{% endif %}
   </div>
-    <div class="nextlink">
-    {% if thisIndex == endLength %}
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/copyright{{page.edition}}">next &nbsp; ></a></p>
-    {% else %}
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"> next &nbsp; ></a></p>
-    {% endif %}
-    </div>
+</div>
+</div>
+    <div class="lineart">
+           <img class="line" style="margin: -100px -100px 0 0;" src="{{site.baseurl}}/assets/images/line 2022.svg"/>
+         </div>
 </body>
 <html>
