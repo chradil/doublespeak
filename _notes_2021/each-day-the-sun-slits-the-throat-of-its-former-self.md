@@ -1,7 +1,7 @@
 ---
-pid: every-day-the-sun-slits-the-throat-of-its-former-self
+pid: each-day-the-sun-slits-the-throat-of-its-former-self-day-the-sun-slits-the-throat-of-its-former-self
 title: chaque jour le soleil égorge son spectre
-transtitle: every day the sun slits the throat of its former self
+transtitle: each day the sun slits the throat of its former self
 author: Amina Saïd
 translator: Ashley Sniffen
 poem: |
