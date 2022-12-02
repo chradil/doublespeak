@@ -48,7 +48,7 @@ tbio: "<p>Robert Chen is a fourth-year at the University of Pennsylvania studyin
   biochemistry and chemistry.</p>"
 language: German
 lang: de
-image: "/assets/images/images_22/Brand_Morituri.png"
+image: "../assets/images/images_22/Brand_Morituri.png"
 image2: none
 imagecredit: An illustration by Richard Grimm accompanying the original poem in <i>Der
   Eigene</i>.
@@ -60,7 +60,7 @@ origaudio: |-
     frameborder="0"
     width="375"
     height="65"
-    src="https://drive.google.com/file/d/1MG2iMYAg7qzKDwIviTvKBtvxy0EF_W4O/preview">
+    src="https://drive.google.com/file/d/1gGV3i_5tG67tRxQP9OiEKOjKjHtmwybB/preview">
   </iframe>
   </div>
 translaudio: |-
@@ -70,7 +70,7 @@ translaudio: |-
     frameborder="0"
     width="375"
     height="65"
-    src="https://drive.google.com/file/d/1Z98zVjs-iQryfIlwrGiI0fm8racz07sB/preview">
+    src="https://drive.google.com/file/d/1HhPRJML4x7i4b8xZ6LC8L7UdWgqzcrjG/preview">
   </iframe>
   </div>
 edition: '2022'

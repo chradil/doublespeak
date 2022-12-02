@@ -61,7 +61,7 @@ tbio: "<p>\nKejia Wang graduated from Penn in 2016 with a BSE in bioengineering 
   of Chinese poems to <em>Doublespeak</em> since 2014. \n</p>"
 language: Chinese
 lang: zh
-image: "/assets/images/images_22/ergun.jpg"
+image: "../assets/images/images_22/ergun.jpg"
 image2: none
 imagecredit: photo by Stacy Shimanuki
 imagecredit2:

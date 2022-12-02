@@ -49,7 +49,7 @@ tbio: |-
   </p>
 language: Yiddish
 lang: he
-image: "/assets/images/images_22/segalovitsh.jpg"
+image: "../assets/images/images_22/segalovitsh.jpg"
 image2: none
 imagecredit: photo by Betsy Morgan
 imagecredit2:

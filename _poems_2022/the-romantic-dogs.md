@@ -4,92 +4,19 @@ title: Los perros románticos
 transtitle: The Romantic Dogs
 author: Roberto Bolaño
 translator: "<em>DoubleSpeak</em> Staff"
-poem: |-
-  En aquel tiempo yo tenía veinte años
-  y estaba loco.
-  Había perdido un país
-  pero había ganado un sueño.
-  Y si tenía ese sueño
-  lo demás no importaba.
-  Ni trabajar ni rezar
-  ni estudiar en la madrugada
-  junto a los perros románticos.
-  Y el sueño vivía en el vacío de mi espíritu.
-  Una habitación de madera,
-  en penumbras,
-  en uno de los pulmones del trópico.
-  Y a veces me volvía dentro de mí
-  y visitaba el sueño: estatua eternizada
-  en pensamientos líquidos,
-  un gusano blanco retorciéndose
-  en el amor.
-  Un amor desbocado.
-  Un sueño dentro de otro sueño.
-  Y la pesadilla me decía: crecerás.
-  Dejarás atrás las imágenes del dolor y del laberinto
-  y olvidarás.
-  Pero en aquel tiempo crecer hubiera sido un crimen.
-  Estoy aquí, dije, con los perros románticos
-  y aquí me voy a quedar.
-
-  <h1>浪漫主义狗</h1>
-  <h2>translated by Zhiqiao (Kate) Jiang, Ziang (Arthur) Wei, Hannah Zhao, Chardonnay Needler, and Stacy Shimanuki</h2>
-
-  那时候我二十岁
-  是个疯子。
-  我失去了一个国家
-  却赢得了一个梦。
-  而只要有了那个梦
-  剩下的都无关紧要。
-  不用干活，不用祷告
-  也不用在清早念书
-  和浪漫主义狗一起。
-  而那个梦住在我灵魂的空洞中。
-  一个木头做的房间，
-  在阴影里，
-  在热带的一叶肺里。
-  而有时候我回到自己之中
-  去探访那个梦：一座化为永恒的雕像
-  泡在液态的思绪里，
-  一条白色的虫子
-  蠕动在爱里。
-  一种逃亡的爱。
-  一场梦中之梦。
-  而噩梦却告诉我：你会长大的。
-  你会把疼痛与迷宫的意象抛在身后
-  然后你会遗忘的。
-  但在那个时候，长大就会是一桩罪行。
-  我就在这里，我说，和浪漫主义狗一起
-  我要留在这里。
-
-  <h1>ロマンチックな犬</h1>
-  <h2>translated by Chardonnay Needler and Stacy Shimanuki</h2>
-
-  あの時、はたちになって
-  狂おしかった。
-  国を失って
-  夢を勝ち取った。
-  その夢さえあれば
-  他は何でもいい。
-  働いていなくて、祈っていなくて
-  朝日の光の中でロマンチックな犬と一緒に
-  勉強していなくて。
-  夢が心の虚ろの中で暮らしていた。
-  熱帯の肺の一つの中で、
-  薄明りで隠れている
-  木造の部屋。
-  時々自分の奥に戻って
-  夢を訪ねる：流れる思いでの
-  永遠の像、
-  恋の中で藻掻いている
-  白い蠕虫。
-  出奔の恋。
-  他の夢の中での夢。
-  悪夢が私に言った：成長するよ。
-  痛みと迷宮のイメージを取り残して忘れる。
-  だけどあの時に成長するのは犯罪だ。
-  私は言った、ここにいる、ロマンチックな犬と一緒に
-  ここに留まる。
+poem: "En aquel tiempo yo tenía veinte años\ny estaba loco.\nHabía perdido un país\npero
+  había ganado un sueño.\nY si tenía ese sueño\nlo demás no importaba.\nNi trabajar
+  ni rezar\nni estudiar en la madrugada\njunto a los perros románticos.\nY el sueño
+  vivía en el vacío de mi espíritu.\nUna habitación de madera,\nen penumbras,\nen
+  uno de los pulmones del trópico.\nY a veces me volvía dentro de mí\ny visitaba el
+  sueño: estatua eternizada\nen pensamientos líquidos,\nun gusano blanco retorciéndose\nen
+  el amor.\nUn amor desbocado.\nUn sueño dentro de otro sueño.\nY la pesadilla me
+  decía: crecerás.\nDejarás atrás las imágenes del dolor y del laberinto\ny olvidarás.\nPero
+  en aquel tiempo crecer hubiera sido un crimen.\nEstoy aquí, dije, con los perros
+  románticos\ny aquí me voy a quedar.\n\n<h1>浪漫主义狗</h1>\n<h2>translated by Zhiqiao
+  (Kate) Jiang, \nZiang (Arthur) Wei, Hannah Zhao, \nChardonnay Needler, and Stacy
+  Shimanuki</h2>\n\n那时候我二十岁\n是个疯子。\n我失去了一个国家\n却赢得了一个梦。\n而只要有了那个梦\n剩下的都无关紧要。\n不用干活，不用祷告\n也不用在清早念书\n和浪漫主义狗一起。\n而那个梦住在我灵魂的空洞中。\n一个木头做的房间，\n在阴影里，\n在热带的一叶肺里。\n而有时候我回到自己之中\n去探访那个梦：一座化为永恒的雕像\n泡在液态的思绪里，\n一条白色的虫子\n蠕动在爱里。\n一种逃亡的爱。\n一场梦中之梦。\n而噩梦却告诉我：你会长大的。\n你会把疼痛与迷宫的意象抛在身后\n然后你会遗忘的。\n但在那个时候，长大就会是一桩罪行。\n我就在这里，我说，和浪漫主义狗一起\n我要留在这里。\n\n<h1>ロマンチックな犬</h1>\n<h2>translated
+  by Chardonnay Needler \nand Stacy Shimanuki</h2>\n\nあの時、はたちになって\n狂おしかった。\n国を失って\n夢を勝ち取った。\nその夢さえあれば\n他は何でもいい。\n働いていなくて、祈っていなくて\n朝日の光の中でロマンチックな犬と一緒に\n勉強していなくて。\n夢が心の虚ろの中で暮らしていた。\n熱帯の肺の一つの中で、\n薄明りで隠れている\n木造の部屋。\n時々自分の奥に戻って\n夢を訪ねる：流れる思いでの\n永遠の像、\n恋の中で藻掻いている\n白い蠕虫。\n出奔の恋。\n他の夢の中での夢。\n悪夢が私に言った：成長するよ。\n痛みと迷宮のイメージを取り残して忘れる。\nだけどあの時に成長するのは犯罪だ。\n私は言った、ここにいる、ロマンチックな犬と一緒に\nここに留まる。"
 transpoem: "Back then I was twenty years old\nand crazy.\nI had lost a country\nbut
   gained a dream.\nAnd as long as I had this dream,\nnothing else mattered.\nNeither
   work nor pray\nNor study at dawn \ntogether with the romantic dogs. \nAnd the dream
@@ -100,7 +27,7 @@ transpoem: "Back then I was twenty years old\nand crazy.\nI had lost a country\n
   leave behind the images of the pain and the labyrinth\nand you’ll forget.\nBut at
   that time growing up would’ve been a crime.\nI’m here, I said, together with the
   romantic dogs\nand here I’ll stay.\n\n<h1>Les chiens romantiques</h1>\n<h2>translated
-  by Andrea Conde, Chardonnay Needler, and Ziang (Arthur) Wei</h2>\n\nÀ ce temps-là
+  by Andrea Conde, \nChardonnay Needler, and Ziang (Arthur) Wei</h2>\n\nÀ ce temps-là
   j’avais vingt ans                        \net j’étais fou. \nJ’avais perdu un pays\nmais
   j’avais gagné un rêve.\nEt si j’avais ce rêve\nrien d’autre ne comptait.\nNi le
   travail ni la prière\nni les études à l’aube\nà côté des chiens romantiques.\nEt
@@ -113,7 +40,7 @@ transpoem: "Back then I was twenty years old\nand crazy.\nI had lost a country\n
   laisseras tomber les images de la douleur et du labyrinthe\net tu oublieras.\nMais
   à ce temps-là, grandir aurait été un crime.\nJe suis ici, ai-je dit, avec les chiens
   romantiques\net c’est ici que je vais rester.\n\n<h1>Влюблённые псы</h1>\n<h2>translated
-  by Ryan Hardy and Daniel Shevchenko</h2>\n\nМне тогда стукнуло двадцать\nИ я был
+  by Ryan Hardy \nand Daniel Shevchenko</h2>\n\nМне тогда стукнуло двадцать\nИ я был
   без ума. \nЯ потерял страну\nНо приобрёл мечту.\nИ пока у меня была эта мечта,\nНичто
   больше меня не касалось.\nНи работа, ни молитва,\nНи занятья на заре\nБок о бок
   со влюблёнными псами.\nИ эта мечта таилась в пустоте моего духа.\nДеревянная комната,\nВ
@@ -121,7 +48,7 @@ transpoem: "Back then I was twenty years old\nand crazy.\nI had lost a country\n
   эту мечту: изваяние увековеченное\nВ жидких размышлениях\nИ белый червь, извивающийся\nОт
   любви.\nНеобузданная любовь.\nМечта внутри мечты.\nИ подсказывал мне кошмар: ты
   вырастешь,\nОставишь позади картины лабиринта и боли\nИ забудешь.\nНо вырасти тогда
-  было бы преступлением.\nЯ здесь, сказал я, я со влюблёнными псами\nи здесь я и останусь.\n"
+  было бы преступлением.\nЯ здесь, сказал я, я со влюблёнными псами\nи здесь я и останусь."
 note: '<p>A problem faced by nearly all of our translators when translating the text
   was the difference between the degrees of formality of certain words (or even entire
   word forms, per the individual language’s grammar) and the relative informality
@@ -153,7 +80,7 @@ tbio: "<p><em>DoubleSpeak</em>’s staff is a group of poetry lovers and languag
   language and translation.</p>"
 language: Spanish; English; Chinese; French; Japanese; Russian
 lang: es
-image: "/assets/images/images_22/group_translation.JPG"
+image: "../assets/images/images_22/group_translation.JPG"
 image2: none
 imagecredit: photo by Quinn Gruber
 imagecredit2:

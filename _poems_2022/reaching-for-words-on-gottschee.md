@@ -28,7 +28,7 @@ abio: "<p>Quinn Gruber is a senior at the University of Pennsylvania studying En
 tbio:
 language: English
 lang: en
-image: "/assets/images/images_22/gruber.jpg"
+image: "../assets/images/images_22/gruber.jpg"
 image2: none
 imagecredit: photo by Quinn Gruber
 imagecredit2:

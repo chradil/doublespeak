@@ -72,7 +72,7 @@ tbio: "<p>Saagar Asnani (C’19) is a PhD student in musicology at the Universit
   he enjoys playing viola and is an active member of UC Berkeley’s Symphony Orchestra.</p>"
 language: French
 lang: fr
-image: "/assets/images/images_22/armengol.jpg"
+image: "../assets/images/images_22/armengol.jpg"
 image2: none
 imagecredit: photo by Ryan Hardy
 imagecredit2:
