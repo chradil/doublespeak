@@ -1,7 +1,7 @@
 ---
 pid: all-your-breakers-and-your-waves
 title: כל משבריך וגליך
-transtitle: all Your breakers and Your waves
+transtitle: All Your breakers and Your waves
 author: Dahlia Ravikovitch
 translator: Mira Revesz
 poem: " וְרָאִיתִי אֲנִי אֶת דִּמְעַת הָעֲשׁוּקִים \n.הוֹלֶכֶת וּנְמוֹגָה עַל לֶחְיָם\nוְרֵיחַ
