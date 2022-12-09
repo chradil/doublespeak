@@ -1,5 +1,5 @@
 ---
-pid: conversation-between-a-drunk-poetess-and-her-lover
+pid: conversation-of-a-drunk-poetess-and-her-lover
 title: |-
   <span lang="ru">Разговор
   пьяной поэтессы и ее нового любовника</span>
