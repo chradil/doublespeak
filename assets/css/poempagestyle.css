@@ -344,11 +344,9 @@ p strong {
 /*links to other poems*/
 
 .previouslink {
-	position: sticky;
-	padding: 0px 5px 0px 5px;
+	position: fixed;
 	bottom: 0;
-	left: -10px;
-	width: 218.93px;
+	left: 0;
 }
 
 .previouslink a {

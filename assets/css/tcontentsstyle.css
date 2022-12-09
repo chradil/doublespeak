@@ -113,7 +113,6 @@ p {
 }
 
 .tcontents {
-	height: 600px;
 	padding: 20px 60px 20px 60px;
 }
 
@@ -130,6 +129,9 @@ p {
 .toc-container {
 	display: flex;
 	flex-direction: row;
+	min-height: 100vh;
+	position: relative;
+	padding-bottom: 50px;
 }
 
 .left {
@@ -174,6 +176,18 @@ p {
 	margin: -15px 0 0 30px;
 	white-space: nowrap;
 	line-height: 25px;
+}
+
+.line{
+	z-index: -1;
+	position: absolute;
+	bottom: 0;
+}
+.lineart{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 60%;
 }
 
 .tcright{

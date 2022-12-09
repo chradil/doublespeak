@@ -496,6 +496,27 @@ h1 {
 	align-items:center;
 }
 
+.previous-next-buttons {
+    align-items: flex-end;
+		flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.line{
+	z-index: -1;
+	position: absolute;
+}
+
+}
+.lineart{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 60%;
+}
+
 /* language code */
 /*russian */
 p:lang(ru), pre:lang(ru){
@@ -804,9 +825,4 @@ p:lang(ka), pre:lang(ka) {
 	line-height: 20px;
   }
 /* end language code */
-.previous-next-buttons {
-    align-items: flex-end;
-		flex-direction: row;
-    display: flex;
-    justify-content: space-between;
-}
+
