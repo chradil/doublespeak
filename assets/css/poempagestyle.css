@@ -25,26 +25,6 @@ a {
 }
 
 @media screen and (max-width: 750px) {
-  .nav a:not(:first-child) {display: none;}
-  .nav a.icon {
-    float: right;
-    display: block;
-  }
-}
-
-@media screen and (max-width: 750px) {
-  .nav.responsive {position: relative;}
-  .nav.responsive a.icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-  .nav.responsive a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
-
 	.previousmobile {
 		position: fixed;
 		bottom: 0;
@@ -99,8 +79,11 @@ a {
 	}
 
 	.poems {
-		justify-content:flex-start !important;	
+		justify-content:flex-start !important;
+			
 	}
+
+
 }
 
 .previousmobile{
@@ -213,6 +196,7 @@ pre {
 	color: black;
 	margin-top: 0px;
 	margin-bottom: 30px;
+	white-space: pre-wrap;
 /*	margin-left: 40px;
 	margin-right: 40px;*/
 }
