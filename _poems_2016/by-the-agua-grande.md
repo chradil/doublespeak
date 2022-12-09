@@ -4,12 +4,12 @@ title: Lá no Água Grande
 transtitle: By the Água Grande
 author: Alda do Espírito Santo
 translator: Marisa Bruno
-poem: "Lá no Água Grande\nLá no «Água Grande» a caminho da roça negritas \nbatem que
+poem: "Lá no Água Grande\nLá no «Água Grande» \na caminho da roça negritas batem que
   batem co’a roupa na pedra. \nBatem e cantam modinhas da terra.\nCantam e riem em
-  riso de mofa histórias contadas, \narrastadas pelo vento.\nRiem alto de rijo, \ncom
-  a roupa na pedra e pōem de branco a roupa lavada.\nAs crianças brincam e a água
+  riso de mofa histórias contadas, \narrastadas pelo vento.\nRiem alto de rijo, com
+  a roupa na pedra \ne pōem de branco a roupa lavada.\nAs crianças brincam e a água
   canta. \nBrincam na água felizes… \nVelam no capim um negrito pequenino.\nE os gemidos
-  cantados das negritas lá do rio ficam mudos lá na hora do regresso… \nJazem quedos
+  cantados das negritas \nlá do rio ficam mudos lá na hora do regresso… \nJazem quedos
   no regresso para a roça."
 transpoem: "By the Água Grande*\nBound for the fields, by Água Grande, \nBlack women
   beat and beat cloth against stone. \nThey beat and sing songs of their home.\nThey
@@ -18,8 +18,8 @@ transpoem: "By the Água Grande*\nBound for the fields, by Água Grande, \nBlack
   clean.\nThe children play! And the waters sing! \nThe children in gay waters play…\nKeeping
   baby black boy in the reeds.\n…\nThe cries that the black women by the river sing
   \nGo quiet at the hour of return… Fall still returning to the fields.\n\n*The Água
-  Grande River runs through São Tomé’s \nmost populated province, \nwhich is also
-  called Água Grande."
+  Grande River runs through São Tomé’s most populated province, \nwhich is also called
+  Água Grande."
 note: "<p>I have made what feel like thousands of attempts to properly translate Alda
   do Espírito Santo’s “Lá no Água Grande,” and have failed in each of them. But, here,
   I submit one such attempt for publication in the hopes that my translation can help
