@@ -391,8 +391,7 @@ h1 {
 
 .poem-image {
 	float: right;
-	height: 100%;
-	width: 50%;
+	width: 40%;
 	margin-left: 0em;
 	opacity: 0.8;
 	align: top;
