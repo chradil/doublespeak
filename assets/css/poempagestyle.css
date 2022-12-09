@@ -231,10 +231,13 @@ p strong {
 .tcontentslink {
 	height: 70px;
 	margin: 40px 0 0 120px;
+	display:flex;
+	flex-wrap: wrap;
 }
 
 .tcontentslink a {
 	display: inline-block;
+	align-self: flex-start;
 	font-family: futura-pt, sans-serif;
 	margin: 40px 0 0 -80px;
 	font-weight: 300;
@@ -264,6 +267,7 @@ p strong {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
+	align-start: flex-end;
 }
 
 .poemtags li {
