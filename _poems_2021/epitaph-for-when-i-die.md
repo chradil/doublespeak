@@ -91,17 +91,16 @@ translaudio: |+
       frameborder="0"
       width="375"
       height="65"
-      src="https://drive.google.com/file/d/1QWjJQ0dGuvkG9wEg0NyDSBpbwm-6Ya9E/preview”>
+      src="https://drive.google.com/file/d/1QWjJQ0dGuvkG9wEg0NyDSBpbwm-6Ya9E/preview">
     </iframe>
   </div>
-
 
   <div>
     <iframe
       frameborder="0"
       width="375"
       height="65"
-      src="https://drive.google.com/file/d/1W4WmXTzTJP_9I85EBIjE9ZFAenJnFuID/preview”>
+      src="https://drive.google.com/file/d/1W4WmXTzTJP_9I85EBIjE9ZFAenJnFuID/preview">
     </iframe>
   </div>
 
