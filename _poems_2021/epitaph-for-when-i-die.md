@@ -66,7 +66,7 @@ language: French
 lang: fr
 image:
 imagecredit:
-origaudio: |+
+origaudio: |-
   <div>
     <iframe
       frameborder="0"
@@ -84,7 +84,6 @@ origaudio: |+
       src="https://drive.google.com/file/d/1-nEb5luuxxDUP1rllnFfs6I655FshoDq/preview">
     </iframe>
   </div>
-
 translaudio: |+
   <div>
     <iframe
