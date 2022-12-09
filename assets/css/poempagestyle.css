@@ -24,7 +24,7 @@ a {
 	width: 80px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 750px) {
   .nav a:not(:first-child) {display: none;}
   .nav a.icon {
     float: right;
@@ -32,7 +32,7 @@ a {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 750px) {
   .nav.responsive {position: relative;}
   .nav.responsive a.icon {
     position: absolute;
@@ -331,6 +331,7 @@ p strong {
 
 .audio {
 	margin-top: 50px;
+	width: 50%;
 }
 
 .note {
