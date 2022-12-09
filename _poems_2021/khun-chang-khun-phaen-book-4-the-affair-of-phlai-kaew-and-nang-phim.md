@@ -58,16 +58,7 @@ imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1JXPDsNBiGAaVEltDaPcH6ISynhwbexSu/preview\">\n
   \ </iframe>\n</div>"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/13d7Clbma72yH4fdyV95Za7z9qQTRChUS/preview">
-    </iframe>
-  </div>
+translaudio:
 edition: '2021'
 pagetype: submission
 order: '32'

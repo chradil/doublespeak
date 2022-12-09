@@ -4,82 +4,85 @@ title: La sabbia e l’angelo
 transtitle: The Sand and the Angel
 author: Margherita Guidacci
 translator: Quinn Gruber
-poem: "I.\nNon occorrevano i templi in rovina sul limitare dei deserti,\nCon le colonne
-  mozze e le gradinate che in nessun luogo conducono;\nNé i relitti insabbiati, le
-  ossa biancheggianti lungo il mare;\nE nemmeno la violenza del fuoco contro i nostri
-  campi e le case.\nBastava che l’ombra sorgesse dall’angolo più quieto della stanza,\nO
-  vegliasse dietro la nostra porta socchiusa —\nLa fine pioggia ai vetri, un pezzo
-  di latta che gemesse nel vento:\nNoi sapevamo già di appartenere alla morte.\n\nII.\nSe
-  vuoi lasciare la tua impronta, o uomo, scalfisci piuttosto la sabbia,\nPerché la
-  più alta torre diverrà sabbia alla fine.\nScrivi il tuo nome sul lido deserto, e
-  prega il mare che presto lo cuopra di lamento:\nPerché tu stesso sei sabbia, sei
-  la morte che dopo te rimane.\n\nIII.\nOgni volta che dicemmo addio;\nOgni volta
-  che verso la fanciullezza ci volgemmo, alle nostre spalle caduta,\n(Tremando l’anima
-  al suo lungo lamento);\nOgni volta che dall’amato ci staccammo nel freddo chiarore
-  dell’alba;\nOgni volta che vedemmo su morti occhi l’enigma richiudersi;\nO anche
-  quando semplicemente ascoltavamo il vento nelle strade deserte,\nE guardavamo l’autunno
-  trascorrere sulla collina,\nStava l’Angelo al nostro fianco e ci consumava.\n\nIV.\nOra
-  il nostro amore si spanderà nella vigna e nel grano,\nIl nostro veleno nei cactus
-  e negli spini crudeli.\nSi curveranno i vivi alle sorgenti, diranno:\n«Chi spinse
-  verso noi l’acqua da occulte vene del mondo?»\nE molto prima che il freddo li colga
-  e la notte sul loro cuore s’adagi,\nAnche in un meriggio d’api e di succhi ardenti,\nConosceranno
-  l’angoscia perché potenti noi siamo e vicini,\nE non vi è fuga dal cerchio in cui
-  già li stringiamo,\nCon ogni stelo da noi sorto, ed ogni frutto che colmo e grave
-  alla nostra terra s’inchina.\n\nV.\nFurono ultime a staccarsi le voci. Non le voci
-  tremende\nDella guerra e degli uragani,\nE nemmeno voci umane ed amate,\nMa mormorii
-  d’erbe e d’acque, risa di vento, frusciare\nDi fronde tra cui scoiattoli invisibili
-  giocavano,\nRonzio felice d’insetti attraverso molte estati \nFino a quell’insetto
-  che più insistente ronzava\nNella stanza dove noi non volevamo morire.\nE tutto
-  si confuse in una nota, in un fermo\nE sommesso tumulto, come quello del sangue\nQuando
-  era vivo il nostro sangue. Ma sapevamo ormai\nChe a tutto ciò era impossibile rispondere.\nE
-  quando l’Angelo ci chiese: «Volete ancora ricordare?»\nNoi stessi l’implorammo:
-  «Lascia che venga il silenzio!»\n\nVI.\nNon il ramo spezzato, non l’erba scomposta
-  lungo i sentieri\nCi dicevano il suo passaggio, ma il tocco di solitudine\nChe ogni
-  cosa in sé custodiva ed a noi rendeva, liberando\nDopo il messaggio consueto l’altra,
-  l’ignota parola.\nCome trasalivamo ascoltandola, come s’orientava sicuro\nIl nostro
-  cuore sull’invisibile traccia!\nCosì noi sempre ti seguimmo, Dominatore ed Amato,\nNé
-  ci sorprende la bianca luce in cui svelato al nostro fianco cammini,\n(Ora che l’ombra
-  carnale è tramontata sul meridiano della morte),\nPoiché da lungo tempo te solo
-  conoscevamo, a te solo \nObbedivamo, tua destinata preda,\nTrascinando sulle vie
-  della terra la tua celeste catena straniera.\n"
-transpoem: "I.\nWe did not need the temples in ruin at the edge of deserts,\nWith
-  broken columns and stairs that led nowhere;\nNor the sand-buried shipwrecks, the
-  bleached bones along the sea;\nNot even the violence of fire against our fields
-  and homes. \nIt was enough that the shadow rose from the quietest corner of the
+poem: "I.\nNon occorrevano i templi in rovina \nsul limitare dei deserti,\nCon le
+  colonne mozze e le gradinate \nche in nessun luogo conducono;\nNé i relitti insabbiati,
+  \nle ossa biancheggianti lungo il mare;\nE nemmeno la violenza \ndel fuoco contro
+  i nostri campi e le case.\nBastava che l’ombra sorgesse \ndall’angolo più quieto
+  della stanza,\nO vegliasse dietro \nla nostra porta socchiusa —\nLa fine pioggia
+  ai vetri, \nun pezzo di latta che gemesse nel vento:\nNoi sapevamo già di appartenere
+  alla morte.\n\nII.\nSe vuoi lasciare la tua impronta, \no uomo, scalfisci piuttosto
+  la sabbia,\nPerché la più alta torre \ndiverrà sabbia alla fine.\nScrivi il tuo
+  nome sul lido deserto, \ne prega il mare che presto lo cuopra di lamento:\nPerché
+  tu stesso sei sabbia, \nsei la morte che dopo te rimane.\n\nIII.\nOgni volta che
+  \ndicemmo addio;\nOgni volta che verso la fanciullezza ci volgemmo, \nalle nostre
+  spalle caduta,\n(Tremando l’anima \nal suo lungo lamento);\nOgni volta che dall’amato
+  \nci staccammo nel freddo chiarore dell’alba;\nOgni volta che vedemmo \nsu morti
+  occhi l’enigma richiudersi;\nO anche quando semplicemente \nascoltavamo il vento
+  nelle strade deserte,\nE guardavamo l’autunno \ntrascorrere sulla collina,\nStava
+  l’Angelo al nostro \nfianco e ci consumava.\n\nIV.\nOra il nostro amore \nsi spanderà
+  nella vigna e nel grano,\nIl nostro veleno \nnei cactus e negli spini crudeli.\nSi
+  curveranno i vivi \nalle sorgenti, diranno:\n«Chi spinse verso noi l’acqua \nda
+  occulte vene del mondo?»\nE molto prima che il freddo \nli colga e la notte sul
+  loro cuore s’adagi,\nAnche in un meriggio d’api e \ndi succhi ardenti,\nConosceranno
+  l’angoscia \nperché potenti noi siamo e vicini,\nE non vi è fuga dal cerchio \nin
+  cui già li stringiamo,\nCon ogni stelo da noi sorto, \ned ogni frutto che colmo
+  e grave alla nostra terra s’inchina.\n\nV.\nFurono ultime a staccarsi le voci. \nNon
+  le voci tremende\nDella guerra e degli uragani,\nE nemmeno voci umane ed amate,\nMa
+  mormorii d’erbe e d’acque, \nrisa di vento, frusciare\nDi fronde tra cui scoiattoli
+  \ninvisibili giocavano,\nRonzio felice d’insetti \nattraverso molte estati \nFino
+  a quell’insetto che \npiù insistente ronzava\nNella stanza dove noi non \nvolevamo
+  morire.\nE tutto si confuse in una nota, \nin un fermo\nE sommesso tumulto, \ncome
+  quello del sangue\nQuando era vivo il nostro sangue. \nMa sapevamo ormai\nChe a
+  tutto ciò era impossibile rispondere.\nE quando l’Angelo ci chiese: \n«Volete ancora
+  ricordare?»\nNoi stessi l’implorammo: \n«Lascia che venga il silenzio!»\n\nVI.\nNon
+  il ramo spezzato, \nnon l’erba scomposta lungo i sentieri\nCi dicevano il suo passaggio,
+  \nma il tocco di solitudine\nChe ogni cosa in sé custodiva \ned a noi rendeva, liberando\nDopo
+  il messaggio \nconsueto l’altra, l’ignota parola.\nCome trasalivamo ascoltandola,
+  \ncome s’orientava sicuro\nIl nostro cuore \nsull’invisibile traccia!\nCosì noi
+  sempre ti seguimmo, \nDominatore ed Amato,\nNé ci sorprende la bianca luce \nin
+  cui svelato al nostro fianco cammini,\n(Ora che l’ombra carnale \nè tramontata sul
+  meridiano della morte),\nPoiché da lungo tempo \nte solo conoscevamo, a te solo
+  \nObbedivamo, tua destinata preda,\nTrascinando sulle vie della \nterra la tua celeste
+  catena straniera.\n"
+transpoem: "I.\nWe did not need the temples \nin ruin at the edge of deserts,\nWith
+  broken columns and \nstairs that led nowhere;\nNor the sand-buried shipwrecks, \nthe
+  bleached bones along the sea;\nNot even the violence of fire against \nour fields
+  and homes. \nIt was enough that the shadow rose \nfrom the quietest corner of the
   room,\nOr kept vigil behind our half-closed door —\nThe thin rain on the windows,
-  a sheet of tin that groaned in the wind:\nWe already knew we belonged to death.\n\nII.\nIf
-  you want to leave your trace, man, score the sand instead,\nBecause the highest
-  earth will become sand in the end.\nYou write your name on the deserted waterfront,
-  and pray the sea soon covers it in tears:\nBecause you yourself are sand, you are
+  \na sheet of tin that groaned in the wind:\nWe already knew we belonged to death.\n\nII.\nIf
+  you want to leave your trace, \nman, score the sand instead,\nBecause the highest
+  earth \nwill become sand in the end.\nYou write your name on the deserted waterfront,\nand
+  pray the sea soon covers it in tears:\nBecause you yourself are sand, \nyou are
   the death that remains after you.\n\nIII.\nEvery time we said goodbye;\nEvery time
-  we turned toward childhood, loss at our backs,\n(The soul trembling in its long
-  lament);\nEvery time that we separated from a lover in the cold twilight of the
-  sunrise;\nEvery time that we saw the enigma close again in dead eyes;\nOr even when
-  we simply listened to wind in the deserted streets,\nAnd watched autumn pass on
-  the hill,\nThe Angel was at our side and it consumed us.\n\nIV.\nNow our love will
-  scatter upon the vineyard and the field,\nOur venom in the cacti and the cruel thorns.\nThe
-  living will croach by the springs, they will say:\n“Who pushes toward us the water
-  from hidden veins of the world?” \nAnd long before the cold gathers them and the
-  night lays down upon their heart,\nEven in a midday of bees and sweet nectars,\nThey
-  will know anguish because we are powerful and near,\nAnd there is no escape from
-  the circle in which we already hold them,\nWith every stalk raised from us, and
-  every full and heavy fruit that bows toward our earth.\n\nV.\nThey were the last
-  voices to fall quiet. Not the unbearable voices\nOf wars and hurricanes, \nNor the
-  human and loved voices,\nBut murmurs of grasses and waters, laughter of the wind,
-  rustle\nOf ferns between which invisible squirrels played,\nHum of insects across
-  many summers\nDown to that insect which incessantly buzzed\nIn the room where we
-  did not want to die.\nAnd everything collided in a note, in a rest\nAnd whispered
-  tumult, like that of blood,\nWhen our blood was living. But we already knew\nThat
-  it was impossible to respond to everything.\nAnd when the Angel asked us: “Do you
-  want to remember again?”\nWe ourselves implored him: “Leave, that silence comes!”\n\nVI.\nNeither
-  the broken branch, nor the trampled grass alongside the paths\nTold us of its passage,
-  but the touch of solitude\nThat each thing keeps in itself and returns to us, freeing\nAfter
-  the usual message, the other, unknown word. \nHow we startled listening to it, how
-  securely it set\nOur heart on the invisible track!\nSo we always followed you, Ruler
-  and Lover,\nNor did the the white light in which you walked unveiled at our side
-  surprise us,\n(Now that the carnal shadow has set on the horizon of death),\nSince
-  for many years you alone we knew, you alone\nWe obeyed, your destined prey, \nDragging
-  on the streets of the earth your strange celestial chain.\n"
+  we turned toward childhood, \nloss at our backs,\n(The soul trembling in its long
+  lament);\nEvery time that we separated from a lover \nin the cold twilight of the
+  sunrise;\nEvery time that we saw \nthe enigma close again in dead eyes;\nOr even
+  when we simply listened \nto wind in the deserted streets,\nAnd watched autumn pass
+  on the hill,\nThe Angel was at our side and \nit consumed us.\n\nIV.\nNow our love
+  will scatter upon \nthe vineyard and the field,\nOur venom in the cacti and \nthe
+  cruel thorns.\nThe living will croach by the springs, \nthey will say:\n“Who pushes
+  toward us the water \nfrom hidden veins of the world?” \nAnd long before the cold
+  gathers them and the night \nlays down upon their heart,\nEven in a midday of bees
+  and sweet nectars,\nThey will know anguish \nbecause we are powerful and near,\nAnd
+  there is no escape from the circle in \nwhich we already hold them,\nWith every
+  stalk raised from us, \nand every full and heavy fruit \nthat bows toward our earth.\n\nV.\nThey
+  were the last voices to fall quiet. \nNot the unbearable voices\nOf wars and hurricanes,
+  \nNor the human and loved voices,\nBut murmurs of grasses and waters, \nlaughter
+  of the wind, rustle\nOf ferns between which invisible \nsquirrels played,\nHum of
+  insects across many summers\nDown to that insect \nwhich incessantly buzzed\nIn
+  the room where \nwe did not want to die.\nAnd everything collided in a note, \nin
+  a rest\nAnd whispered tumult, \nlike that of blood,\nWhen our blood was living.
+  \nBut we already knew\nThat it was impossible to respond \nto everything.\nAnd when
+  the Angel asked us: \n“Do you want to remember again?”\nWe ourselves implored him:
+  \n“Leave, that silence comes!”\n\nVI.\nNeither the broken branch, \nnor the trampled
+  grass alongside the paths\nTold us of its passage, \nbut the touch of solitude\nThat
+  each thing keeps in itself and \nreturns to us, freeing\nAfter the usual message,
+  \nthe other, unknown word. \nHow we startled listening to it, \nhow securely it
+  set\nOur heart on the invisible track!\nSo we always followed you, \nRuler and Lover,\nNor
+  did the the white light in \nwhich you walked unveiled at our side surprise us,\n(Now
+  that the carnal shadow \nhas set on the horizon of death),\nSince for many years
+  you alone \nwe knew, you alone\nWe obeyed, your destined prey, \nDragging on the
+  streets of the earth \nyour strange celestial chain.\n"
 note: |
   <p>This series of six short poems from Margherita Guidacci’s first book of poetry, <em>La sabbia e l’angelo</em> (<em>The Sand and the Angel</em>, 1946) reckons with the relationship between humans and nature, as well as the broader cycle of life and death.</p>
   <p>The last image in the poem of death as a <em>celeste catena straniera</em>, a “strange celestial chain,” particularly captivated me and guided my translation. I translated <em>straniero</em> as “strange” rather than the usual “foreign” because the Angel, a sort of overseer of the life/death balance, is a continuous presence in human life. I wanted “strange” to capture our inability to reconcile our knowledge of death with our own desire to live; we know death intimately, but are unable to fully comprehend what it entails.</p>
