@@ -268,6 +268,7 @@ p strong {
 
 .poemtags li {
 	float: right;
+	display: flex;
 }
 
 .poemtags li a {
