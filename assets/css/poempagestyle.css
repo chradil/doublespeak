@@ -97,6 +97,10 @@ a {
 	.nextlink{
 		display: none;
 	}
+
+	.poems {
+		justify-content:flex-start !important;	
+	}
 }
 
 .previousmobile{
