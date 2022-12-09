@@ -72,8 +72,6 @@ layout: default
           <div class="abio">
             {% if page.image %}
             <div>
-        <p class="caption"> {{page.imagecredit}}
-        </p>
       </div>
       {% endif %}
             <h1 class="abio">about the author</h1>
@@ -85,6 +83,8 @@ layout: default
            </div>
          </div>
       <img class="poem-image" src="{{site.baseurl}}{{page.image}}"></img>
+    <p class="caption"> {{page.imagecredit}}
+        </p>
     </div>
     {% unless page.image == "none" or page.image == "none "%}
    
