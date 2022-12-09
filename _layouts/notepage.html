@@ -7,6 +7,7 @@ layout: default
 
 <head>
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/notepagestyle.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
       
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   
@@ -60,7 +61,8 @@ layout: default
       <div class="note">
         <h1>{{page.translator}}</h1> <br>
         <h2 class="note">on translating {{page.author}}</h2><br>
-        <p class="note"> {{page.note}}</p>
+        <p class="note"> {{page.note}} 
+        </p>
       </div> 
     <div class="flex-container">
       
@@ -68,9 +70,6 @@ layout: default
           <div class="abio">
             {% if page.image %}
             <div>
-        <img class="poem-image" src="{{site.baseurl}}{{page.image}}" br clear="right"></img>
-        <p class="caption"> {{page.imagecredit}}
-        </p>
       </div>
       {% endif %}
             <h1 class="abio">about the author</h1>
@@ -80,7 +79,10 @@ layout: default
             <h1 class="abio">about the translator</h1>
             <p>{{page.tbio}}</p>
            </div>
+         <p class="caption"> {{page.imagecredit}}
+        </p>
          </div>
+      <img class="poem-image" src="{{site.baseurl}}{{page.image}}"></img>
     </div>
     {% unless page.image == "none" or page.image == "none "%}
    

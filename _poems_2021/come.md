@@ -72,17 +72,22 @@ language: Spanish
 lang: es
 image: "../assets/images/images_21/rossi.png"
 imagecredit: "<em>Majo al atardecer</em> by Elizabeth Rose"
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1VtpXkp9m2ymixxUEflZd_x5zsicbH4Sq/preview\">\n
-  \ </iframe>\n</div>\n"
-translaudio: |
+origaudio: |
   <div>
-
     <iframe
       frameborder="0"
       width="375"
       height="65"
-      src="https://drive.google.com/file/d/1XBh09UdM4BEZK0_r5POjJ4DbjEufFkOX/preview">
+      src="https://drive.google.com/file/d/1VtpXkp9m2ymixxUEflZd_x5zsicbH4Sq/preview">
+    </iframe>
+  </div>
+translaudio: |
+  <div>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1vrlGGXvKzhbzsyz-MiEq0YuElzLGw1eo/preview">
     </iframe>
   </div>
 edition: '2021'
