@@ -7,6 +7,8 @@ layout: default
 
 <head>
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/poempagestyle.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   
 </head>
 
@@ -110,27 +112,46 @@ layout: default
     <div class="previouslink">
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"> < &nbsp;previous</a></p>
     </div>
+    <div class="previousmobile">
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
+    </div>
 
   {% elsif previousPage contains "ednote" %}
     <div class="previouslink">
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"> < &nbsp;previous</a></p>
     </div>
-  
+  <div class="previousmobile">
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
+    </div>
   {% else %}
 
   <div class="previouslink">
     <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{previousPage}}"><  &nbsp; previous</a></p>
   </div>
+  <div class="previousmobile">
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
+    </div>
   {% endif %}
 
 
-  <div class="nextlink">
+  
   {% if page.pagetype == "musing" or page.pagetype == "interview" %}
+  <div class="nextlink">
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
+    </div>
+
+<div class="nextmobile">
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
+    </div>
 
   {% else %}
-  
+    <div class="nextlink">
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{page.pid}}">next &nbsp; ></a></p>
+    </div>
+
+      <div class="nextmobile">
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
+    </div>
 {% endif %}
   </div>
 </body>

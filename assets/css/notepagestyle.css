@@ -27,6 +27,69 @@ p {
 	margin-right: 40px;
 }
 
+@media screen and (max-width: 600px) {
+	.previousmobile {
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		display: inline-block !important;
+	}
+
+	.previousmobile a {
+		display: inline-block;
+		padding: 0px;
+		color: black;
+		text-decoration: none;
+		font-family: futura-pt, sans-serif;
+		font-weight: 300;
+		font-style: normal;
+		font-size: 18px;
+		line-height: 20px;
+		margin-top: 0px;
+		margin-bottom: 30px;
+		margin-left: -20px;
+		margin-right: 40px;
+	}
+
+	.nextmobile {
+		position: fixed;
+		bottom: 0;
+		right: 0;
+		display: inline-block !important;
+	}
+
+	.nextmobile a {
+		display: inline-block;
+		padding: 0px;
+		color: black;
+		text-decoration: none;
+		font-family: futura-pt, sans-serif;
+		font-weight: 300;
+		font-style: normal;
+		font-size: 18px;
+		line-height: 20px;
+		margin-top: 0px;
+		margin-bottom: 30px;
+		margin-left: 40px;
+		margin-right: -20px;
+	}
+
+	.previouslink{
+		display: none;
+	}
+	.nextlink{
+		display: none;
+	}
+
+}
+
+.previousmobile{
+	display: none;
+}
+.nextmobile{
+	display: none;
+}
+
 /*navigation bar*/
 
 .logo img {
@@ -425,17 +488,15 @@ h1 {
 }
 
 .previouslink {
-	/*position: fixed;
-	padding: 0px 5px 0px 5px;
+	position: fixed;
 	bottom: 0;
-	left: -10px;*/
-	float:left;
+	left: 0;
 }
 
 .previouslink a {
 	display: inline-block;
 	padding: 10px;
-	color: black!important;
+	color: black;
 	text-decoration: none;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
@@ -444,7 +505,7 @@ h1 {
 	line-height: 20px;
 	margin-top: 0px;
 	margin-bottom: 30px;
-	margin-left: 30px;
+	margin-left: 20px;
 	margin-right: 40px;
 }
 
@@ -453,33 +514,30 @@ h1 {
 }
 
 .nextlink {
-	/*position: fixed;
+	position: fixed;
 	bottom: 0;
-	right: 0;*/
+	right: 0;
 }
 
 .nextlink a {
 	display: inline-block;
 	padding: 10px;
-	color: black!important;
+	color: black;
 	text-decoration: none;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 18px;
 	line-height: 20px;
-	align-self: flex-end;
-	/*margin-top: 0px;
+	margin-top: 0px;
 	margin-bottom: 30px;
 	margin-left: 40px;
-	margin-right: 30px;*/
+	margin-right: 20px;
 }
 
 .nextlink a:hover {
 	text-decoration: underline;
 }
-
-
 	
 }
 .caption {
@@ -501,7 +559,7 @@ h1 {
 		flex-direction: row;
     display: flex;
     justify-content: space-between;
-   
+
 }
 
 .line{
