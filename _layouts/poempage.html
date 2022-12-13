@@ -18,10 +18,9 @@ layout: default
 
 <body>
 {% include navbar.html %}
-  <div class="tcontentslink">
-    <p class='link'><a href="{{site.baseurl}}/toc{{page.edition}}.html"><  &nbsp; table of contents</a></p>
     <div class="poemtags">
       <ul>
+        <p class="tcontentslink link"><a href="{{site.baseurl}}/toc{{page.edition}}.html"><  &nbsp; table of contents</a></p>
         <li><a href="{{site.baseurl}}/language_tags/{{page.language| slugify: 'latin' | replace: '-','_'}}">{{page.language}}</a></li>
         {% if page.translator %}
         <li><a href="{{site.baseurl}}/translator_tags/{{page.translator | slugify: 'latin' | replace: '-','_'}}">{{page.translator}}</a></li>
