@@ -67,10 +67,7 @@ layout: default
       
        <div class="note-text">
           <div class="abio">
-            {% if page.image %}
-            <div>
-      </div>
-      {% endif %}
+
             <h1 class="abio">about the author</h1>
             <p>{{page.abio}}</p>
           </div>
@@ -78,14 +75,13 @@ layout: default
             <h1 class="abio">about the translator</h1>
             <p>{{page.tbio}}</p>
            </div>
+      {% if page.image != "none" and page.image != "none " %}
          <p class="caption"> {{page.imagecredit}}
         </p>
          </div>
       <img class="poem-image" src="{{site.baseurl}}{{page.image}}"></img>
     </div>
-    {% unless page.image == "none" or page.image == "none "%}
-   
-      {% endunless %}
+    {% endif %}
   </div>
 
     <div class="previouslink">
