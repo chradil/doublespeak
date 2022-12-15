@@ -452,6 +452,7 @@ h1 {
 	position: static;
 	overflow: hidden;
 	flex: 1;
+	width: 50%;
 }
 
 .poem-image {
