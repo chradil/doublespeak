@@ -457,6 +457,8 @@ h1 {
 
 .poem-image {
 	opacity: 0.8;
+	display: flex;
+	justify-content:center;
 	width: 50%;
 	
 }
