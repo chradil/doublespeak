@@ -450,13 +450,12 @@ h1 {
 .note-text {
 	padding: 0px;
 	position: static;
-	width: 50%;
+	width: 100%;
 	overflow: hidden;
 	flex: 1;
 }
 
 .poem-image {
-	width: 30%;
 	opacity: 0.8;
 	
 }
