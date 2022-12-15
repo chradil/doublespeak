@@ -138,7 +138,7 @@ p {
 	display: flex;
 	flex-direction: column;
 	flex-wrap: wrap;
-	width: 30%;
+	width: 100%;
 }
 
 .right {
@@ -148,7 +148,7 @@ p {
 
 .tcleft {
 	display: inline-block;
-	width: 50%;
+	width: 100%;
 	clear: left;
 	float: left;
 }
@@ -161,20 +161,20 @@ p {
 	line-height: 25px;
 	text-align: left;
 	margin-left: 0px;
-	white-space: nowrap;
+	white-space: normal;
 	text-decoration: underline;
 	text-decoration-thickness: 5%;
 }
 
 .tcleft h3{
-	width: 50%;
+	width: 100%;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 22px;
 	text-align: left;
 	margin: -15px 0 0 30px;
-	white-space: nowrap;
+	white-space: normal;
 	line-height: 25px;
 }
 
@@ -192,7 +192,7 @@ p {
 
 .tcright{
 	display: inline-block;
-	width: 50%;
+	width: 100%;
 	float: left;
 }
 
@@ -205,12 +205,12 @@ p {
 	color: black;
 	text-align: left;
 	margin-left: 0px;
-	white-space: nowrap;
+	white-space: normal;
 	text-decoration: underline;
 }
 
 .tcright h3{
-	width: 50%;
+	width: 100%;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
@@ -218,7 +218,7 @@ p {
 	color: black;
 	text-align: left;
 	margin: -15px 0 0 30px;
-	white-space: nowrap;
+	white-space: normal;
 	line-height: 25px;
 }
 
