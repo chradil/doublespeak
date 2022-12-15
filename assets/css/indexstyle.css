@@ -209,7 +209,7 @@ but that screwed up the navbar*/
 	columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
-  column-gap: 10px;
+  column-gap: 20px;
   margin-left: 40px;
 	margin-right: 20px;
 	list-style: circle;
