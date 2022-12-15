@@ -172,23 +172,27 @@ p {
 	flex-direction: row;
 	margin-bottom: 4%;
 	max-height:30vw;
+	flex-wrap: wrap;
 }
 
 .left {
 	margin-right: 4%;
 	position: relative;
 	height: 89.3%;
+	width 100px;
 }
 
 .middle {
 	margin-right: 4%;
 	position: relative;
 	height: 89.3%;
+	width 100px;
 }
 
 .right {
 	height: 89.3%;
 	position: relative;
+	width: 100px;
 }
 
 .left-overlay {
