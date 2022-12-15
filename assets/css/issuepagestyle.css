@@ -231,7 +231,7 @@ p {
 }
 
 .middle-overlay-text {
-	position: absolute;
+	position: relative;
 	color: white;
 	margin-top: 40%;
 	opacity: 0;
