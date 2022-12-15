@@ -88,7 +88,7 @@ layout: default
     <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{page.pid}}"><  &nbsp; previous</a></p>
   </div>
   <div class="previousmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{page.pid}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
     </div>
 
 {% if thisIndex == endLength %}
@@ -96,14 +96,14 @@ layout: default
   <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/copyright{{page.edition}}">next &nbsp; ></a></p>
 </div>
 <div class="nextmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/copyright{{page.edition}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
     </div>
 {% else %}
 <div class="nextlink">
   <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"> next &nbsp; ></a></p>
 </div>
 <div class="nextmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
     </div>
 {% endif %}
   </div>

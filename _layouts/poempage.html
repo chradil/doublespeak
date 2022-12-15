@@ -122,7 +122,7 @@ layout: default
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"> < &nbsp;previous</a></p>
     </div>
   <div class="previousmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
     </div>
   {% else %}
 
@@ -130,7 +130,7 @@ layout: default
     <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{previousPage}}"><  &nbsp; previous</a></p>
   </div>
   <div class="previousmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
     </div>
   {% endif %}
 
@@ -151,7 +151,9 @@ layout: default
     </div>
 
       <div class="nextmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
+
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{page.pid}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
+
     </div>
 {% endif %}
   </div>
