@@ -450,9 +450,7 @@ h1 {
 .note-text {
 	padding: 0px;
 	position: static;
-	float: left;
 	width: 50%;
-	border-right: solid black 1px;
 	overflow: hidden;
 	flex: 1;
 }
