@@ -39,7 +39,7 @@ layout: default
             <div class="tcleft">
               <h2 class="tcleft"><a href="poems_2017/{{item.pid}}">{{ item.transtitle }}</a>
               {% if item.title %}
-                  <a>[<span lang= "{{ item.lang }}" dir="ltr">{{ item.title }}</span>]</a>
+                  <a href="poems_2017/{{item.pid}}">[<span lang= "{{ item.lang }}" dir="ltr">{{ item.title }}</span>]</a>
               {% endif %}</h2>
               <h3 class="tcleft">written by {{ item.author }} <br>translated from {{ item.language }} by {{ item.translator }}</h3>
             </div>
