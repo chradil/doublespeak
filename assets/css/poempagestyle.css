@@ -79,10 +79,22 @@ a {
 	}
 
 	.poems {
-		justify-content:flex-start !important;
-			
+/*		justify-content:flex-start !important;
+*/			
+	}
+	.ogpoem {
+	/*	min-width: 25rem;*/
+		/*width:max-content;*/
+		width: 60vw !important;
+		flex-basis:25%;
 	}
 
+	.transpoem {
+	/*	min-width: 25rem;*/
+		width: 60vw !important;
+		/*width:max-content;*/
+		flex-basis:25%;
+	}
 
 }
 
