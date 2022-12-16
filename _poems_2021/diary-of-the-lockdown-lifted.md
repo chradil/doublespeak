@@ -103,8 +103,6 @@ tbio: "<p><em>DoubleSpeak</em> Staff is a group of poetry lovers and language af
   hosting a radio show at Penn. We are forever fascinated by the depth and breadth
   of language and translation, and we hope to share our love for such wonders with
   all the readers of <em>DoubleSpeak</em>.</p>\n"
-language: Chinese; English; German; Italian; Old English; Japanese; Portoguese; French;
-  Spanish; Russian
 lang: zh
 image:
 imagecredit:
