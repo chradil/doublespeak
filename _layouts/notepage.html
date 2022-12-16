@@ -58,7 +58,7 @@ layout: default
 <div class='flex-container'>
   <div class="container">
       <div class="note">
-        <h1>{{page.translator}}</h1> <br>
+        <h1>{{page.translator}}</h1><br>
         <h2 class="note">on translating {{page.author}}</h2><br>
         <p class="note"> {{page.note}} 
         </p>
@@ -71,11 +71,12 @@ layout: default
             <h1 class="abio">about the author</h1>
             <p>{{page.abio}}</p>
           </div>
+
           <div class="tbio">
 
             <h1 class="tbio">about the translator</h1>
             <p>{{page.tbio}}</p>
-          </div>
+        </div>
       {% if page.image != "none" and page.image != "none " %}
          <p class="caption"> {{page.imagecredit}}
         </p>
