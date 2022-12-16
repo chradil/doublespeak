@@ -66,6 +66,18 @@ a {
 	.nextlink{
 		display: none;
 	}
+
+	.staff-l {
+		font-family: futura-pt, sans-serif;
+		font-weight: 300;
+		font-style: normal;
+		font-size: 20px;
+		line-height: 30px !important;
+		color: black;
+		text-align: left;
+		margin: 0 20px 0 20px !important;
+		list-style: none;
+	}
 }
 
 .previousmobile{
