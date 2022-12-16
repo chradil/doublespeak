@@ -1,5 +1,5 @@
 ---
-pid: Farsi/Persian
+pid: Farsi
 type: language
 order: '07'
 layout: tagpage
