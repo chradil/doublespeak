@@ -34,7 +34,7 @@ abio: "<p>Mohammad Ali Bahmani (b. 1942) is an Iranian poet and songwriter. Beyo
   that, his biography is irrelevant to this particular translation. It might be worth
   mentioning that Bahmani is known, among other things, as a proponent of the postmodern
   <em>ghazal</em> movement in Persian poetry.</p>"
-tbio: "<p>Ali Noori is a doctoral student in religious studies at Penn. He likes <em>ghazals</em>.</p>"
+tbio: "<p>Ali Noori is a doctoral student in religious studies at Penn. He likes <em>ghazals</em>. His dissertation is titled Pious Praise Poetry: Emotions, Piety, and the Making of Medieval Islamic Subject</p>"
 language: Farsi/Persian
 lang: fa
 image: "/assets/images/images_20/noori.png"
