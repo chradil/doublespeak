@@ -79,12 +79,7 @@ abio: "<p>Cristina Peri Rossi is a Uruguayan novelist, poet, and translator. Bor
   earning her many literary prizes, including the Rafael Alberti International Poetry
   Prize, the City of Torrevieja International Poetry Prize, the Loewe Foundation International
   Poetry Prize, and a Guggenheim Fellowship.</p>"
-tbio: "<p>Elizabeth Rose is a poet, translator, and PhD candidate in comparative literature
-  at the University of Pennsylvania. They translate primarily from Spanish, and their
-  scholarship centers the intersections of translation, queer and trans theory, and
-  transnational American studies. Their work has appeared in <i>Alchemy, <i>Tupelo
-  Quarterly</i>, <i>Cagibi</i>, <i>Volume</i>, and <i>Raspa Magazine</i>, among other
-  places. They currently reside on occupied Tohono O’odham territory, or Tucson, Arizona.</p>"
+tbio: "<p>Elizabeth Rose is a poet, translator, and PhD candidate in comparative literature at the University of Pennsylvania. They translate primarily from Spanish, and their scholarship centers the intersections of translation, queer and trans theory, and transnational American studies. Their work has appeared in <i>Alchemy, Tupelo Quarterly, Cagibi, Volume, and Raspa Magazine</i> among other places. They currently reside on occupied Tohono O’odham territory, or Tucson, Arizona.</p>"
 language: Spanish
 lang: es
 image: "/assets/images/images_21/rossi.png"

@@ -12,8 +12,8 @@ poem: "初雪や                 \nそれは世にある         \n人の事\n\n
   Ju Wan)."
 transpoem: "first snowfalls: \nthose are matters \nof mortal beings\n\noh, how the
   kitty \nwhirls ’n twirls in dance \namongst the drifting leaves\n\nin pearls of
-  hail \nperhaps a nightjar \nreturns to the moon\n<p>*Nightjars are small, \nnocturnal
-  or crepuscular (twilight) birds;\nthe gray nightjar is particular to East Asia.</p>"
+  hail \nperhaps a nightjar \nreturns to the moon\n\n*Nightjars are small, \nnocturnal
+  or crepuscular (twilight) birds;\nthe gray nightjar is particular to East Asia."
 note: |-
   <p>At first glance, you may notice that I prioritized expressing the haiku’s overall succinctness over the strict five-seven-five syllable pattern. Moreover, I tussled with grammar and vocabulary ambiguities in these poems, as well as the features of traditional haiku: one, the <em>kigo</em> <span lang= "ja">季語</span>, a seasonal phrase; and two, the <em>kireji</em> <span lang= "ja">切れ字</span>, to convey emphasis, contrast, or other nuances.</p>
   <p>In the first haiku, the <em>ya</em> <span lang= "ja">や</span> <em>kireji</em> juxtaposes two elements, and I chose to use a colon, rather than a dash or emphatic “oh!” to preserve the gentleness of the contemplation. I also considered why first snowfalls were <em>yo ni aru </em> / <em>hito no koto</em>, or “living people’s business.” Perhaps it’s not just because we like to measure the natural world through human-made joys and concerns, from postcard scenes to snow-shoveling woes, but also because we simply must exist alongside such markers of passing time. So, I chose “matter” to translate <em>koto</em> (“business”) to imply this obligatory quality and “mortal” rather than “living” being because, to me, a first snowfall emphasizes that impermanence.</p>

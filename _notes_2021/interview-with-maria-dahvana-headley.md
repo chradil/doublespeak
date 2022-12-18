@@ -6,8 +6,8 @@ author: a conversation on translation, storytelling, and feminism
 translator:
 poem:
 transpoem:
-note: "<p><em>This interview was conducted by </em>DoubleSpeak<em> staff and Professor
-  Taije Silverman.</em></p>\n \n<p><strong><em>DoubleSpeak</em>:</strong> The first
+note: "<p><em>This interview was conducted by <strong>DoubleSpeakstaff</strong> and Professor
+  Taije Silverman.</em></p>\n \n<p><strong>DoubleSpeak</strong> The first
   question for today is: What got you interested in translation, and how do you see
   this influencing your work as a writer?</p>\n\n<p><strong>Maria Dahvana Headley:</strong>
   Well, I came about this through a sort of backward path. I wrote a novel based on

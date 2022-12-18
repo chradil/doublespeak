@@ -26,11 +26,11 @@ transpoem: "Come. Come naked and\nsilent to make sense of the\nmerciless Sunday 
   and I don’t ask where you’ve \nbeen nor you what I’ve been up to. \nThe night is
   short for those\nwho dream to prolong it \nand forget the daytime \nI don’t know
   another way \nto eternalize the night \nbesides caressing you \nyou caressing me
-  \nand in the midst of kisses \nyou would say <em>te esnifas el</em> \n<em>tiempo</em>
-  and I would reply \n<em>un día es largo como un</em> \n<em>siglo</em> if I don’t
-  touch you \nif you don’t touch me \nand the thong on the floor \nis a useless memory
-  \nof ages past \nof absences long as epochs. \nI know of no other way \nto transcend
-  time and its \nclocks the days and their\nirritations \nthe migraines and \nunemployment
+  \nand in the midst of kisses \nyou would say <em>te esnifas el tiempo</em>\nand
+  I would reply \n<em>un día es largo como un siglo</em> \nif I don’t touch you \nif
+  you don’t touch me \nand the thong on the floor \nis a useless memory \nof ages
+  past \nof absences long as epochs. \nI know of no other way \nto transcend time
+  and its \nclocks the days and their irritations \nthe migraines and \nunemployment
   rates\nworldwide turmoil \nand injustice \nsave this melting of bodies \nof skin
   and sex \nthis space without borders \nthis time without checkpoints \nthis freedom
   to chain yourself \nto the ones you love \nnot to those you obey \nsubmissive to
@@ -38,7 +38,7 @@ transpoem: "Come. Come naked and\nsilent to make sense of the\nmerciless Sunday 
   to the laws of physics that \nmake an emotional encounter a \nfriction of muscles
   skin and saliva. \nEinstein discovered that time and \nspace are metaphors \nthough
   I still don’t know \na metaphor for you and me \nperhaps an ancient melody\nof the
-  universe\nbefore its decay.\n"
+  universe\nbefore its decay."
 note: "<p>The poem “Come”/“Ven” is from one of Cristina Peri Rossi’s most recent volumes
   of poetry, <em>Las Replicantes</em> ( <em>The Replicants</em> , Ediciones Cálamo,
   2016). Peri Rossi’s poetic work over the past fifty years creates an archive of

@@ -20,8 +20,14 @@ note: "<p>These two poems were written by the eleventh-century Iberian Jewish po
   “The Orange Tree,” about a female wooden golem and the poet who commissions her
   to be built, I did literal translations and then played with them. The story was
   in the Best American Fantasy and Science Fiction volume edited by N.K. Jemisin.</p>"
-abio:
-tbio:
+abio: "<p>Qasmūna bint Ismāʿil sometimes called Xemone, was an Iberian Jewish poet.
+  She is the only female Arabic-language Jewish poet attested from medieval Andalusia,
+  and, along with Sarah of Yemen and the anonymous wife of Dunash ben Labrat, one
+  of few known female Jewish poets throughout the Middle Ages.</p>"
+tbio: "<p>Maria Dahvana Headley is an American novelist, memoirist, editor, translator,
+  poet, and playwright. Her work includes Magonia, a young-adult space-fantasy novel,
+  Queen of Kings, an alternate-history fantasy novel about Cleopatra, and The Mere
+  Wife, a retelling of Beowulf.</p>"
 language: Arabic
 lang: bs
 image: "../assets/images/images_21/headley.JPG"

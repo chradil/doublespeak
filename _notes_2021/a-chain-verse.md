@@ -45,9 +45,7 @@ note: |-
       original due to the wordiness of English, so we formed it into an ancient
       Chinese wine goblet (<span lang= "zh">觚</span>, <em>gu</em>), hoping to convey some of the meaning of the poem through the form.
   </p>
-abio: |-
-  <p>The author is alleged to be <span lang= "zh">苏轼</span>, Su Shi, but this remains unconfirmed.
-  </p>
+abio: <p>The author is alleged to be <span lang= "zh">苏轼</span>, Su Shi, but this remains unconfirmed. Su Shi was a Chinese calligrapher, essayist, gastronomer, pharmacologist, poet, politician, and travel writer during the Song dynasty.</p>
 tbio: |-
   <p>
       Gil Lehmann and Jacey Chang are both Masters of City Planning students in
