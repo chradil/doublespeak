@@ -41,12 +41,12 @@ tbio: "<p>Yi Feng is a scholar, translator and associate professor at Northeaste
   Poetry Competition in 2017.</p>"
 language: Chinese
 lang: zh
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '01'

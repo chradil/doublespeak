@@ -62,12 +62,12 @@ tbio: "<p>Stephanie Diaz is a junior at the University of Pennsylvania studying 
   future life in a cottage by a lake with dogs and a garden.</p>"
 language: Spanish
 lang: es
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '13'

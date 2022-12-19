@@ -74,11 +74,11 @@ tbio: "<p>Peeriya is a native speaker of Thai and a current Fulbright Teaching A
 language: Thai
 lang: th
 image: "../assets/images/images_19/pitpreecha.jpg"
-image2:
+image2: 
 imagecredit: photo by Quinn Gruber
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '14'

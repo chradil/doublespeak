@@ -113,11 +113,11 @@ tbio: "<p>I translated this poem as my final project in Taije Silverman’s clas
 language: Spanish
 lang: es
 image: "../assets/images/images_19/mistral.JPG"
-image2:
+image2: 
 imagecredit: photo by a <i>DoubleSpeak</i> staffer
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '03'

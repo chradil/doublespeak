@@ -20,7 +20,8 @@ layout: default
     <div class="poemtags">
       <ul>
         <p class="tcontentslink link"><a href="{{site.baseurl}}/toc{{page.edition}}.html"><  &nbsp; table of contents</a></p>
-        <li><a href="{{site.baseurl}}/language_tags/{{page.language | slugify: 'latin' | replace: '-','_'}}">{{page.language}}</a></li>
+        {% if page.language %}<li><a href="{{site.baseurl}}/language_tags/{{page.language | slugify: 'latin' | replace: '-','_'}}">{{page.language}}</a></li>
+        {% endif %}
         {% if page.translator %}
         <li><a href="{{site.baseurl}}/translator_tags/{{page.translator | slugify: 'latin' | replace: '-','_'}}">{{page.translator}}</a></li>
         {% endif %}
@@ -77,13 +78,13 @@ layout: default
             <h1 class="tbio">about the translator</h1>
             <p>{{page.tbio}}</p>
         </div>
-      {% if page.image != "none" and page.image != "none " %}
+      {% if page.image and page.image != "none" and page.image != "none " and page.image != "" %}
          <p class="caption"> {{page.imagecredit}}
         </p>
          <img class="poem-image" src="{{site.baseurl}}{{page.image}}"></img>
          </div>
-    </div>
-  {% endif %}
+      {% endif %}
+
   </div>
 
     <div class="previouslink">

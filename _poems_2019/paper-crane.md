@@ -52,11 +52,11 @@ tbio: "<p>Yi Feng is a scholar, translator and associate professor at Northeaste
 language: Chinese
 lang: zh
 image: "../assets/images/images_19/yuansheng.jpg"
-image2:
+image2: 
 imagecredit: photo by Yi Feng
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '12'

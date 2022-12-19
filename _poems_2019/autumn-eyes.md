@@ -77,12 +77,12 @@ tbio: "<p>Dillon is a junior majoring in comparative literature. He loves mornin
   university city next to Black Forest.</p>"
 language: German
 lang: de
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '09'
