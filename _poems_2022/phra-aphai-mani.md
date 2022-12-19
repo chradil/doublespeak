@@ -85,10 +85,10 @@ translaudio: |-
   <div>
 
   <iframe
-    frameborder="""0"""
-    width="""375"""
-    height="""65"""
-    src="""https://drive.google.com/file/d/1-y1Ug28wOQajvZDtBnVOp-gms0vWTRJk/preview""">
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/1-y1Ug28wOQajvZDtBnVOp-gms0vWTRJk/preview">
   </iframe>
   </div>
 edition: '2022'

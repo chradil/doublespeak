@@ -2,7 +2,7 @@
 pid: interview-yoon
 title: An Interview with Emily Yoon
 transtitle: a conversation on translation, history, and feminism
-#author: 
+author: 
 translator: Emily Yoon
 poem:
 transpoem:

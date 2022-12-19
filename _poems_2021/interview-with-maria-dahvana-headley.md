@@ -1,8 +1,9 @@
 ---
 pid: interview-with-maria-dahvana-headley
-title: Interview with Maria Dahvana Headley
+title: 'Interview with Maria Dahvana Headley: a conversation on translation, storytelling,
+  and feminism'
 transtitle: Interview with Maria Dahvana Headley
-author: a conversation on translation, storytelling, and feminism
+author:
 translator:
 poem:
 transpoem:
