@@ -58,8 +58,8 @@ tbio: "<p>Ashley Sniffen is a junior at the University of Pennsylvania studying 
   time, she enjoys reading, basking in nature, and watching college basketball games.</p>"
 language: French
 lang: fr
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: |-
   <div>
     <iframe

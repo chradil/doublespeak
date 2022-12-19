@@ -108,8 +108,8 @@ tbio: "<p>Quinn Gruber is a junior at the University of Pennsylvania studying En
   editing, and having far too many hobbies.</p>"
 language: Italian
 lang: it
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/18plNA6dO0XPkYX8pLP08qbM719c9tGrv/preview\">\n
   \ </iframe>\n</div>"

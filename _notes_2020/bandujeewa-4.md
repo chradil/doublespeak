@@ -48,11 +48,11 @@ tbio: "<p>Chamini Kulathunga is a translator from Sri Lanka working with contemp
 language: Sinhalese
 lang: si
 image: "/assets/images/images_20/kulathunga.jpg"
-image2:
+image2: 
 imagecredit: photo by Chamini Kulathunga
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '19'

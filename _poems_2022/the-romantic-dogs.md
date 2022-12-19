@@ -3,7 +3,7 @@ pid: the-romantic-dogs
 title: Los perros románticos
 transtitle: The Romantic Dogs
 author: Roberto Bolaño
-translator: DoubleSpeak Staff
+translator: em_DoubleSpeak_em_Staff
 poem: |-
   En aquel tiempo yo tenía veinte años
   y estaba loco.
@@ -155,17 +155,17 @@ tbio: "<p><em>DoubleSpeak</em>’s staff is a group of poetry lovers and languag
   beautiful poetry submissions. Whether we’re playing multilingual Scramble or commenting
   on submissions in rhymed couplets, we’re drawn together by our shared passion for
   language and translation.</p>"
-language:
-lang: es
-image: "../assets/images/images_22/group_translation.JPG"
+language: 
+lang: 
+image: "/assets/images/images_22/group_translation.JPG"
 image2: none
 imagecredit: photo by Quinn Gruber
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '18'
 layout: poempage
 collection: poems_2022

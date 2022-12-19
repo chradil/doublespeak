@@ -70,7 +70,7 @@ tbio: "<p>Elizabeth Rose is a poet, translator, and PhD candidate in comparative
   Arizona.</p>"
 language: Spanish
 lang: es
-image: "../assets/images/images_21/rossi.png"
+image: "/assets/images/images_21/rossi.png"
 imagecredit: "<em>Majo al atardecer</em> by Elizabeth Rose"
 origaudio: |
   <div>

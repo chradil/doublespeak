@@ -31,8 +31,8 @@ tbio: <p>Vanessa is a rising sophomore studying computer science and Ethnicity, 
   much. You can find more haiku translations at her site <a href="https://vanessahu.squarespace.com/about">here.</a></p>
 language: Japanese
 lang: ja
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: |+
   <div>
     <iframe
@@ -96,5 +96,4 @@ pagetype: submission
 order: '08'
 layout: poempage
 collection: poems_2021
-...
 ---

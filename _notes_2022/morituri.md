@@ -44,14 +44,15 @@ abio: "<p>Adolf Brand (1874–1945) was a German gay activist and the founder of
   literary activities, Brand was also known for outing prominent figures who expressed
   homophobic views, for which he was imprisoned at one point. Unfortunately, Brand
   was forced to abandon his activism in the 1930s due to harassment from Nazi authorities.</p>"
-tbio: "<p>Robert Chen studies chemistry at the University of Pennsylvania. He pursues German because German is the language of chemistry, which in turn is the language of life.</p>"
+tbio: "<p>Robert Chen is a fourth-year at the University of Pennsylvania studying
+  biochemistry and chemistry.</p>"
 language: German
 lang: de
 image: "/assets/images/images_22/Brand_Morituri.png"
 image2: none
-imagecredit: "An illustration by Richard Grimm accompanying the original poem in <i>Der
-  Eigene</i>."
-imagecredit2:
+imagecredit: An illustration by Richard Grimm accompanying the original poem in <i>Der
+  Eigene</i>.
+imagecredit2: 
 origaudio: |-
   <div>
 
@@ -74,7 +75,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '07'
 layout: notepage
 collection: notes_2022

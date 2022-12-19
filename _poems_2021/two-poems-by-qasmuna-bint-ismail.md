@@ -30,10 +30,10 @@ tbio: "<p>Maria Dahvana Headley is an American novelist, memoirist, editor, tran
   Wife, a retelling of Beowulf.</p>"
 language: Arabic
 lang: bs
-image: "../assets/images/images_21/headley.JPG"
+image: "/assets/images/images_21/headley.JPG"
 imagecredit: photo by Yan Zhang
-origaudio:
-translaudio:
+origaudio: 
+translaudio: 
 edition: '2021'
 pagetype: submission
 order: '14'

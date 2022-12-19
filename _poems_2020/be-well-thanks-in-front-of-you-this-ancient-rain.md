@@ -48,12 +48,12 @@ tbio: "<p>Yehudith Dashevsky graduated from the University of Pennsylvania in 20
   by the act of translation.</p>"
 language: Hebrew
 lang: he
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '28'

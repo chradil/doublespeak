@@ -40,12 +40,12 @@ tbio: "<p>Shiven Sharma is a senior in the School of Arts and Sciences at the Un
   Roman Catholic Church on the Quebecois sociocultural climate.</p>"
 language: French
 lang: fr
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '11'

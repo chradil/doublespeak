@@ -175,5 +175,4 @@ pagetype: submission
 order: '28'
 layout: notepage
 collection: notes_2021
-...
 ---

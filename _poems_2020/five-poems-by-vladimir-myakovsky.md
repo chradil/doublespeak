@@ -69,12 +69,12 @@ tbio: "<p>Jianing Zhao is a senior at Princeton University majoring in Slavic La
   listening to Soviet rock, and touching electric wires.</p>"
 language: Russian
 lang: ru
-image: "../assets/images/images_20/jianing_zhao.jpeg"
-image2:
+image: "/assets/images/images_20/jianing_zhao.jpeg"
+image2: 
 imagecredit: photo by Jianing Zhao
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '04'

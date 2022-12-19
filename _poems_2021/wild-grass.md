@@ -51,8 +51,8 @@ tbio: "<p>Chardonnay Needler is just a scatterbrained person who likes languages
   original language.</p>"
 language: Chinese
 lang: zh
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: |-
   <div>
 

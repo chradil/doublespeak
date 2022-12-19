@@ -54,12 +54,12 @@ tbio: "<p>Emily Jungmin Yoon graduated from University of Pennsylvania with a do
   <em>DoubleSpeak</em>, and elsewhere.</p>"
 language: Korean
 lang: ko
-image: "../assets/images/images_20/yoon.jpeg"
-image2:
+image: "/assets/images/images_20/yoon.jpeg"
+image2: 
 imagecredit: photo by Limin Jiang
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '15'

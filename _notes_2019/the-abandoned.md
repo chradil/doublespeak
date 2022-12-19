@@ -112,7 +112,7 @@ tbio: "<p>I translated this poem as my final project in Taije Silverman’s clas
   languages, authors, times, etc.</p>"
 language: Spanish
 lang: es
-image: "../assets/images/images_19/mistral.JPG"
+image: "/assets/images/images_19/mistral.JPG"
 image2: 
 imagecredit: photo by a <i>DoubleSpeak</i> staffer
 imagecredit2: 
